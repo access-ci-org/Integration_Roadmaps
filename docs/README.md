@@ -33,9 +33,7 @@ in case your issue was already reported.
 
 # Contribute
 
-TODO create contribute guidlines doc and link here
-
-We welcome contributions of any kind!
+We welcome contributions of any kind (see the [Contribution Guidlines](contribution.md))!
 
 [documentation]: https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/
 [ACCESS main page]: https://access-ci.org/
