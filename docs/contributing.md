@@ -27,6 +27,8 @@ maybe a decision tree diagram? graphviz+dot?
 
 https://docs.github.com/en/get-started/quickstart/github-flow
 
+TODO will _definitely_ need a walk-through of rebasing main. probably a demo video link too
+
 images?
 
 ## Locally
