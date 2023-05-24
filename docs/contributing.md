@@ -46,6 +46,8 @@ images?
 
 problem -> create topic branch -> submit pull request -> await approval
 
+TODO add blurb about recommended comment style (maybe just link to something, GitHub, and quote?)
+
 ## GitHub web interface 
 
 ## Branch naming recommendation
