@@ -1,6 +1,15 @@
+<div align="center">
+
 # Contributing
 
+[Documentation][documentation] • [Getting help](#getting-help)
+
+</div>
+
+---
+
 ### Table of Contents
+
 + [Introduction](#introduction)
 + [Getting help](#getting-help)
 + [GitHub workflow](#github-workflow)
@@ -13,6 +22,8 @@ We welcome contributions of any kind in the form of [catching a problem](##how-t
 Our [Code of Conduct can be found here](https://support.access-ci.org/code-conduct).
 
 # Getting help
+
+* TODO reference README.md#getting-help
 
 * (FUTURE) TODO troubleshooting guide?
 
@@ -27,7 +38,7 @@ maybe a decision tree diagram? graphviz+dot?
 
 https://docs.github.com/en/get-started/quickstart/github-flow
 
-TODO will _definitely_ need a walk-through of rebasing main. probably a demo video link too
+TODO will _definitely_ need a walk-through of rebasing main
 
 images?
 
@@ -53,3 +64,12 @@ include images
 ## Test Topic Branch in ReadtheDocs instance
 
 (FUTURE) TODO
+
+[documentation]: https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/
+[ACCESS main page]: https://access-ci.org/
+[ACCESS rt]: https://tickets.access-ci.org/
+[ACCESS slack]: https://access-ci.slack.com
+[integration roadmaps]: https://operations.access-ci.org/pub/integration_roadmaps
+[read the docs]: https://docs.readthedocs.io/en/stable/
+[resource providers]: https://allocations.access-ci.org/resource-providers
+[wg-integration-roadmaps]: https://app.slack.com/client/T03EW8N9B6Y/C03JSSLABUY
