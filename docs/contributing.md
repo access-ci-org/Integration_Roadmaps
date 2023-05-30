@@ -39,7 +39,9 @@ TODO mention recommended wording, tags, etc
 
 # Requesting feature(s)
 # Contribution conventions
- 
+
+This repository follows the [GitHub flow](#github-flow) model as a workflow for collaborating.
+
 ## Branch naming recommendation
 
 When [creating a branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch), adding the author's name and then a descriptive branch name of the intended commits can be helpful to categorize and track changes:
@@ -47,8 +49,6 @@ When [creating a branch](https://docs.github.com/en/pull-requests/collaborating-
 `user/clear-purpose-of-proposed-changes` (e.g. `mollycule/add-readthedocs-contribute-doc`)
 
 # Contributing code
-
-This repository follows the [GitHub flow](#github-flow) model as a workflow for collaborating.
 
 In order to contribute to the [Integration Roadmaps documentation][documentation], you must first be part of the [access-ci-org organization][ACCESS GitHub organization].
 
