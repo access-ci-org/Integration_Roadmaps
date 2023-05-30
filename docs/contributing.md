@@ -41,6 +41,8 @@ TODO mention recommended wording, tags, etc
 
 This repository follows the [GitHub flow][github flow] model as a workflow for collaborating.
 
+It is _strongly recommended_ to [test changes locally](#test-locally) before submitting a pull request.
+
 ## Branch naming recommendation
 
 When creating a branch, adding the author's name and then a descriptive branch name of the intended commits can be helpful to categorize and track changes:
@@ -66,7 +68,7 @@ To contribute to [Integration Roadmap tasks][integration roadmap tasks], here ar
 
 + create a branch following the [branch naming recommendation](#branch-naming-recommendation)
 + create, edit, delete, or rename files inside your branch
-+ __IMPORTANT__: [test your changes locally](#test-locally) for any syntax, styling, or broken link errors.
++ __IMPORTANT__: [test your changes locally](#test-locally) for any syntax, styling, or broken link errors
 + create a pull request for peer review
 
 # Test locally
