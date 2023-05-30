@@ -12,7 +12,7 @@
 
 + [Introduction](#introduction)
 + [Where can I help?](#where-can-i-help)
-+ [Reporting issues](#issues-reporting)
++ [Reporting issues](#reporting-issues)
 + [Requesting features](#requesting-features)
 + [Contribution conventions](#contribution-conventions)
 + [Contributing code](#contributing-code)
