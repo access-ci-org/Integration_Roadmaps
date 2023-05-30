@@ -21,7 +21,9 @@
 
 # Introduction
 
-Our [Code of Conduct can be found here](https://support.access-ci.org/code-conduct).
+[Integration Roadmaps][integration roadmaps] have [separate tracks][integration roadmap tracks] that roadmap necessary (and optional) tasks for [Resource Providers][resource providers] to accomplish to integrate into the [ACCESS][ACCESS main page] ecosystem.
+
+Our [Code of Conduct can be found here](https://support.access-ci.org/code-conduct). For a general introduction, please see [the general introduction][main-introduction].
 
 # Where can I help?
 
@@ -100,6 +102,8 @@ Then, you can see the output in your web browser at `Integration_Roadmaps/docs/b
 [github flow]: https://docs.github.com/en/get-started/quickstart/github-flow
 [integration roadmaps]: https://operations.access-ci.org/pub/integration_roadmaps
 [integration roadmap tasks]: https://github.com/access-ci-org/Integration_Roadmaps/tree/main/docs/source/tasks
+[integration roadmap tracks]: https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/
+[main-introduction]: https://github.com/access-ci-org/Integration_Roadmaps/tree/main/docs#introduction
 [read the docs]: https://docs.readthedocs.io/en/stable/
 [resource providers]: https://allocations.access-ci.org/resource-providers
 [wg-integration-roadmaps]: https://app.slack.com/client/T03EW8N9B6Y/C03JSSLABUY
