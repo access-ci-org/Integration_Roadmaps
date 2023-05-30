@@ -39,7 +39,7 @@ TODO mention recommended wording, tags, etc
 # Requesting feature(s)
 # Contribution conventions
 
-This repository follows the [GitHub flow][github flow] model as a workflow for collaborating.
+This repository follows the [GitHub flow][github flow] model as a workflow for collaborating and uses [CommonMark][CommonMark] as the markdown model for documentation.
 
 It is _strongly recommended_ to [test changes locally](#test-locally) before submitting a pull request.
 
@@ -94,6 +94,7 @@ Then, you can see the output in your web browser at `Integration_Roadmaps/docs/b
 [ACCESS main page]: https://access-ci.org/
 [ACCESS rt]: https://tickets.access-ci.org/
 [ACCESS slack]: https://access-ci.slack.com
+[CommonMark]: https://commonmark.org/help/
 [documentation]: https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/
 [getting-help]: https://github.com/access-ci-org/Integration_Roadmaps/tree/main/docs#getting-help 
 [github flow]: https://docs.github.com/en/get-started/quickstart/github-flow
