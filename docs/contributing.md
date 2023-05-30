@@ -2,45 +2,69 @@
 
 # Contributing
 
-[Documentation][documentation] • [Getting help](#getting-help)
+[Documentation][documentation] • [Getting help][getting-help] • [Contributing](#contribution-conventions)
 
 </div>
 
 ---
-
+    
 ### Table of Contents
 
 + [Introduction](#introduction)
-+ [Getting help](#getting-help)
++ [Where can I help?](#where-can-i-help)
++ [Reporting issues](#issues-reporting)
++ [Requesting features](#requesting-features)
++ [Contribution conventions](#contribution-conventions)
++ [Contributing code](#contributing-code)
++ [Contributing documentation](#contributing-documentation)
 + [GitHub workflow](#github-workflow)
 + [Read the Docs](#read-the-docs)
 
 # Introduction
 
-We welcome contributions of any kind in the form of [catching a problem](##how-to-report-an-issue), [wanting to fix a problem](#), or [giving a virtual thanks over Slack](TODO fix README.md Slack info to be a section & reference here)!
-
 Our [Code of Conduct can be found here](https://support.access-ci.org/code-conduct).
 
-# Getting help
+# Where can I help?
 
-* TODO reference README.md#getting-help
+To _get_ help please see [Getting help][getting-help].
 
-* (FUTURE) TODO troubleshooting guide?
+To _provide_ help, we welcome any kind of help including [reporting issues](#reporting-issues), [requesting features](#requesting-features), and making [documentation contributions](#contributing-documentation) following the [contribution conventions](#contribution-conventions).
 
-## How to report an issue
+# Reporting issues
 
 + Search [ACCESS integration roadmaps issues tracker](https://github.com/access-ci-org/Integration_Roadmaps/issues/)
 in case your issue was already reported.
 
-maybe a decision tree diagram? graphviz+dot?
+TODO mention recommended wording, tags, etc
 
-# GitHub workflow
+# Requesting feature(s)
+# Contribution conventions
+ 
+## Branch naming recommendation
 
-https://docs.github.com/en/get-started/quickstart/github-flow
+When [creating a branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch), adding the author's name and then a descriptive branch name of the intended commits can be helpful to categorize and track changes:
 
-TODO will _definitely_ need a walk-through of rebasing main
+`user/clear-purpose-of-proposed-changes` (e.g. `mollycule/add-readthedocs-contribute-doc`)
 
-images?
+# Contributing code
+
+This repository follows the [GitHub flow](#github-flow) model as a workflow for collaborating.
+
+In order to contribute to the [Integration Roadmaps documentation][documentation], you must first be part of the [access-ci-org organization][ACCESS GitHub organization].
+
+## GitHub -> Read the Docs workflow
+In order to contribute to the workflow between the GitHub repo and Read the Docs, you must request to become a maintainer by creating an issue stating your:
+
++ full name
++ GitHub account name
++ ACCESS affilliation
+
+# Contributing documentation
+
+## For Integration Roadmaps documentation
+
+# Submitting pull requests
+
 
 ## Locally
 
@@ -49,10 +73,6 @@ problem -> create topic branch -> submit pull request -> await approval
 TODO add blurb about recommended comment style (maybe just link to something, GitHub, and quote?)
 
 ## GitHub web interface 
-
-## Branch naming recommendation
-
-"user/clear-purpose-of-proposed-changes" (e.g. `mollycule/add-readthedocs-contribute-doc`)
 
 # Read the Docs
 
@@ -82,10 +102,13 @@ include images
 
 (FUTURE) TODO
 
-[documentation]: https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/
+[ACCESS GitHub organization]: https://github.com/access-ci-org
 [ACCESS main page]: https://access-ci.org/
 [ACCESS rt]: https://tickets.access-ci.org/
 [ACCESS slack]: https://access-ci.slack.com
+[documentation]: https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/
+[getting-help]: https://github.com/access-ci-org/Integration_Roadmaps/tree/main/docs#getting-help 
+[github-flow]: https://docs.github.com/en/get-started/quickstart/github-flow
 [integration roadmaps]: https://operations.access-ci.org/pub/integration_roadmaps
 [read the docs]: https://docs.readthedocs.io/en/stable/
 [resource providers]: https://allocations.access-ci.org/resource-providers
