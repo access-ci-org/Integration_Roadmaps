@@ -17,8 +17,7 @@
 + [Contribution conventions](#contribution-conventions)
 + [Contributing code](#contributing-code)
 + [Contributing documentation](#contributing-documentation)
-+ [GitHub workflow](#github-workflow)
-+ [Read the Docs](#read-the-docs)
++ [Test locally](#test-locally)
 
 # Introduction
 
@@ -40,11 +39,11 @@ TODO mention recommended wording, tags, etc
 # Requesting feature(s)
 # Contribution conventions
 
-This repository follows the [GitHub flow](#github-flow) model as a workflow for collaborating.
+This repository follows the [GitHub flow][github flow] model as a workflow for collaborating.
 
 ## Branch naming recommendation
 
-When [creating a branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch), adding the author's name and then a descriptive branch name of the intended commits can be helpful to categorize and track changes:
+When creating a branch, adding the author's name and then a descriptive branch name of the intended commits can be helpful to categorize and track changes:
 
 `user/clear-purpose-of-proposed-changes` (e.g. `mollycule/add-readthedocs-contribute-doc`)
 
@@ -63,20 +62,14 @@ In order to contribute to the workflow between the GitHub repo and Read the Docs
 
 ## For Integration Roadmaps documentation
 
-# Submitting pull requests
+To contribute to [Integration Roadmap tasks][integration roadmap tasks], here are the recommended steps (following the [Github flow][github flow] model):
 
++ create a branch following the [branch naming recommendation](#branch-naming-recommendation)
++ create, edit, delete, or rename files inside your branch
++ __IMPORTANT__: [test your changes locally](#test-locally) for any syntax, styling, or broken link errors.
++ create a pull request for peer review
 
-## Locally
-
-problem -> create topic branch -> submit pull request -> await approval
-
-TODO add blurb about recommended comment style (maybe just link to something, GitHub, and quote?)
-
-## GitHub web interface 
-
-# Read the Docs
-
-## Test locally
+# Test locally
 
 ```
 # Create a Python virtual environment and activate it
@@ -95,21 +88,15 @@ make html
 
 Then, you can see the output in your web browser at `Integration_Roadmaps/docs/build/html/index.html`.
 
-include images
-
-
-## Test Topic Branch in ReadtheDocs instance
-
-(FUTURE) TODO
-
 [ACCESS GitHub organization]: https://github.com/access-ci-org
 [ACCESS main page]: https://access-ci.org/
 [ACCESS rt]: https://tickets.access-ci.org/
 [ACCESS slack]: https://access-ci.slack.com
 [documentation]: https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/
 [getting-help]: https://github.com/access-ci-org/Integration_Roadmaps/tree/main/docs#getting-help 
-[github-flow]: https://docs.github.com/en/get-started/quickstart/github-flow
+[github flow]: https://docs.github.com/en/get-started/quickstart/github-flow
 [integration roadmaps]: https://operations.access-ci.org/pub/integration_roadmaps
+[integration roadmap tasks]: https://github.com/access-ci-org/Integration_Roadmaps/tree/main/docs/source/tasks
 [read the docs]: https://docs.readthedocs.io/en/stable/
 [resource providers]: https://allocations.access-ci.org/resource-providers
 [wg-integration-roadmaps]: https://app.slack.com/client/T03EW8N9B6Y/C03JSSLABUY
