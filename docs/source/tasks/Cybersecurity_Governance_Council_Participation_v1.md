@@ -15,11 +15,11 @@ Membership in the CGC will consist of a representative from each RP and Track an
 
 ### Effort
 
-Bi-weekly meetings transitioning to monthly meetings lasting 30min-1hour.
+Bi-weekly meetings transitioning to monthly meetings lasting 30/min to 1/hour.
 
 ## Prerequisite tasks
 
-- [*Cybersecurity Requirements for RPs v1*](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit#)
+- [*Cybersecurity Requirements for RPs v1*](Cybersecurity_Requirements_for_RPs_v1.md)
 
 ## Support Information
 
@@ -27,7 +27,7 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ## Detailed Instructions
 
-Request membership to the CGC by emailing Alex Withers, [*alexw1@illinois.edu*](mailto:alexw1@illinois.edu)
+Request membership to the CGC via e-mail to Derek Simmel, [*dsimmel@psc.edu*](mailto:dsimmel@psc.edu)
 
 Participation from all members is vital to realize the security goals of ACCESS for its users and participants. As such, all CGC members agree to:
 
@@ -49,12 +49,12 @@ Additional links
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 4/24/2023 \<mm/dd/yyyy\>
 
-**Coordinators**: Alex Withers & Shane Filus, CONECT Cybersecurity Program
+**Coordinators**: Derek Simmel & Shane Filus, CONECT Cybersecurity Program
 
-**Last revised date**: 02/16/2023
+**Last revised date**: 04/16/2023
 
 **Retired date**:

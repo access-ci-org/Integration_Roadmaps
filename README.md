@@ -33,8 +33,9 @@ in case your issue was already reported.
 
 # Contribute
 
-We welcome contributions of any kind (see the [Contribution Guidlines](contribution.md))!
+We welcome contributions of any kind (see the [Contribution Guidlines][contributing]!
 
+[contributing]: https://github.com/access-ci-org/Integration_Roadmaps/tree/main/docs/contributing.md
 [documentation]: https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/
 [ACCESS main page]: https://access-ci.org/
 [ACCESS rt]: https://tickets.access-ci.org/

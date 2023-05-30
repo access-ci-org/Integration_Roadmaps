@@ -13,7 +13,7 @@ Science gateways that execute jobs on ACCESS resource provider resources report 
 
 ## Prerequisite tasks
 
-1.  The gateway must have an allocation and a community account. See “Science Gateway Community Accounts”.
+1.  The gateway must have an allocation and a community account. See [*Request Science Gateway Community Accounts v1*](Request_Science_Gateway_Community_Accounts_v1.md).
 
 ## Support Information
 
@@ -31,9 +31,9 @@ After integration, the gateway provider should verify that usage is being correc
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: 4/10/2023
+**Official date**: 4/24/2023 4/10/2023
 
 **Coordinators**: Rob Quick, ACCESS Operations
 

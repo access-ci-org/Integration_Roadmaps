@@ -19,9 +19,9 @@ AIRTG meetings occur weekly and take less than 30 minutes.
 
 ## Prerequisite tasks
 
-- [*Cybersecurity Requirements for RPs v1*](https://docs.google.com/document/d/1LrfJcgixn-sDuIxZOk47ddoZpCYgwabhWAZYoKOB2TI/edit#)
+- [*Cybersecurity Requirements for RPs v1*](Cybersecurity_Requirements_for_RPs_v1.md)
 
-- [*Cybersecurity Governance Council Participation v1*](https://docs.google.com/document/d/1hHdN7bISae4caa6lryA5ps2b16uOY7QyEzYsVFYCs8c/edit#)
+- [*Cybersecurity Governance Council Participation v1*](Cybersecurity_Governance_Council_Participation_v1.md)
 
 ## Support Information
 
@@ -45,9 +45,9 @@ You will receive a response from ACCESS CONECT Cybersecurity Group indicating th
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 4/24/2023 \<mm/dd/yyyy\>
 
 **Coordinators**: Alex Withers, CONECT Cybersecurity Program; Shane Filus, CONECT Cybersecurity Program
 

@@ -17,7 +17,7 @@ This task involves setting up the data transfer of performance data.
 
 ## Prerequisite tasks
 
-1.  [*Resource Metrics Data Availability Assessment v1*](https://docs.google.com/document/d/12MNK2VggHD3JoySK4SgguHARMWJyc91EV2T1vY6Rf_8/edit#)
+1.  [*Resource Metrics Data Availability Assessment v1*](Resource_Metrics_Data_Availability_Assessment_v1.md)
 
 ## Support Information
 
@@ -43,7 +43,7 @@ Option (3) can only be used if the resource supports ACCESS community accounts a
 
 **Status**: {Draft, Official, Retired}
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 4/24/2023 \<mm/dd/yyyy\>
 
 **Coordinators**: **\<name\>, \<ACCESS project\>**
 

@@ -13,7 +13,7 @@ ACCESS resource providers RPs, ACCESS projects (tracks), and online service oper
 
 ## Prerequisite tasks
 
-1.  [*Resource Description V2*](https://docs.google.com/document/d/1khvZ7QiwKoVDJy0lEq429M7a9sQXBXzTfWoYsUafqVc/)
+1.  [*Resource Description V2*](Infrastructure_Description_v2.md)
 
 ## Support Information
 
@@ -73,7 +73,7 @@ Under the “News” section.
 
 **Status**: Official
 
-**Official date**: 2/15/2023
+**Official date**: 4/24/2023 2/15/2023
 
 **Coordinators**: JP Navarro, ACCESS Operations
 

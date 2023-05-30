@@ -1,4 +1,4 @@
-# Ticket Handling v1
+# Ticket Handling v2
 
 Infrastructure Integration Roadmap Task
 
@@ -75,12 +75,12 @@ FOr more details please see the documementation [*https://access-ci.atlassian.ne
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: 2/15/2023
+**Official date**: 4/24/2023 3/24/2023
 
 **Coordinators**: JP Navarro, ACCESS Operations; Alana Romanella, ACCESS Support
 
-**Last revised date**: 2/3/2023
+**Last revised date**: 4/5/2023
 
 **Retired date**:

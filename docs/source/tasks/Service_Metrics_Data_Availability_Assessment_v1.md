@@ -35,7 +35,7 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 **Status**: {Draft, Official, Retired}
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 4/24/2023 \<mm/dd/yyyy\>
 
 **Coordinators**: \<name\>, \<ACCESS project\>
 

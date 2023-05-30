@@ -33,9 +33,9 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 4/24/2023 \<mm/dd/yyyy\>
 
 **Coordinators**: Alex Withers & Shane Filus, CONECT Cybersecurity Program
 

@@ -13,7 +13,7 @@ Science gateways use community accounts to provide single accounts for all gatew
 
 ## Prerequisite tasks
 
-1.  The gateway provider must have completed [*Science Gateways Description*](https://docs.google.com/document/d/10shxQ6PallP6EIzFyL8_08cbKzzDvcqg_gVS6-Iv4lQ/)
+1.  The gateway provider must have completed [*Science Gateways Description*](Science_Gateway_Description_v1.md)
 
 ## Support Information
 
@@ -21,7 +21,7 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ## Detailed Instructions
 
-Community accounts are UNIX accounts on ACCESS resource providers that can be used by a science gateway’s users through the science gateway’s user or programming interface. Science gateway providers request community accounts as part of the registration process. Accounts are created by ACCESS internal mechanisms.
+Community accounts are UNIX accounts on ACCESS resource providers that can be used by a science gateway’s users through the science gateway’s user or programming interface. Science gateway providers request community accounts in individual ticket requests directed to the ACCESS Resources Providers, the ACCESS Integration Coordinator assigned can help make these requsts.
 
 The science gateway provider should confirm that the community accounts are created and accessible. It may take hours to days for accounts to be created after registration.
 
@@ -29,9 +29,9 @@ The science gateway provider may need to take additional, resource provider-spec
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: 4/10/2023
+**Official date**: 4/24/2023 4/10/2023
 
 **Coordinators**: Rob Quick, ACCESS Operations
 

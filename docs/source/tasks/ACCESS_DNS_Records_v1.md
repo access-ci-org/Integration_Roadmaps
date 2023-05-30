@@ -25,9 +25,9 @@ ACCESS projects, integrated resources, and central service operators may request
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: 04/01/2023
+**Official date**: 4/24/2023 04/01/2023
 
 **Coordinators**: Kathy Benninger and Matthew Kollross, ACCESS Operations
 

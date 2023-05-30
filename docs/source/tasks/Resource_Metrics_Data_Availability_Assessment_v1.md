@@ -33,7 +33,7 @@ If the CI resource is not collecting performance data then this should be report
 
 **Status**: {Draft, Official, Retired}
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 4/24/2023 \<mm/dd/yyyy\>
 
 **Coordinators**: Joseph White, ACCESS Metrics
 

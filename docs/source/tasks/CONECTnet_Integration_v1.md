@@ -15,7 +15,7 @@ CONECTnet participants are encouraged to take advantage of network measurement a
 
 ## Prerequisite tasks
 
-1.  [*Data and Network Integration*](https://docs.google.com/document/d/1IMOFizZUiXF1PcBR9qXKgQdNUQsVnio8AqcZ3mT74zc/)
+1.  [*Data and Network Integration*](Data_and_Network_Integration.md)
 
 ## Support Information
 
@@ -41,9 +41,9 @@ Is this tied to CONECTnet Integration?
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: 03/15/2023
+**Official date**: 4/24/2023 03/15/2023
 
 **Coordinators**: Kathy Benninger and David Wheeler, ACCESS Operatons
 

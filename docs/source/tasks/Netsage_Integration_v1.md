@@ -5,7 +5,7 @@ Infrastructure Integration Roadmap Task
 **Task Type(s)**: Technology  
 **Start by phase**: Planning  
 **Complete by phase**: Operations  
-**RP role(s)**: {list RP role(s) involved in this task}
+**RP role(s)**: Data and networking contact, System administrator
 
 ## Summary
 
@@ -29,7 +29,7 @@ Information to deploy a docker container to collect flow data is available onlin
 
 **Status**: {Draft, Official, Retired}
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 4/24/2023 \<mm/dd/yyyy\>
 
 **Coordinators**: \<name\>, \<ACCESS project\>
 

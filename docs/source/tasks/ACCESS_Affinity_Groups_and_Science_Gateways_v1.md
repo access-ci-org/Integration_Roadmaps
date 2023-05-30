@@ -21,9 +21,9 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ## Detailed Instructions
 
-See [*https://support.access-ci.org/affinity-groups*](https://support.access-ci.org/affinity-groups) for a listing of groups and steps for joining.
+See [*https://support.access-ci.org/affinity-groups*](https://support.access-ci.org/affinity-groups) for a listing of groups and steps for joining. You must be logged in to your ACCESS account to access these groups.
 
-Science gateways may want to also create their own affinity group.
+A Science Gateway Affinity Group has been requested but may not appear on this site as of the publishing of this document.
 
 Resource providers use affinity groups to communicate with their users, including science gateway providers. The science gateway provider may wish to communicate this information to their users through their own communication channels.
 
@@ -33,9 +33,9 @@ Some resource providers may have additional communication channels.
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: 4/10/2023
+**Official date**: 4/24/2023 4/10/2023
 
 **Coordinators**: Rob Quick, ACCESS Operations
 

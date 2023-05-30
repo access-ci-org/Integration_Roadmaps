@@ -27,7 +27,13 @@ The following estimates assume starting from scratch. If you have already deploy
 
 The following assumes you have already acquired DTN servers with appropriate network interface(s) and memory, and network hardware with an appropriate topology for high-performance data transfers. Requirements for these should have been produced by roadmap task 2.1, *Data & Networking integration design*.
 
-[TABLE]
+| Task                                                                                   | Estimated effort/time                          |
+|----------------------------------------------------------------------------------------|------------------------------------------------|
+| Deploy DTN hardware with the required network connectivity                             | 1 person-day effort (1 week start-to-finish)   |
+| Provision local accounts on DTNs                                                       | 2 person-day effort (2 weeks start-to-finish)  |
+| Mount and configure POSIX storage on DTNs                                              | 1 person-day effort (½ week start-to-finish)   |
+| Install and configure Globus Connect Server on DTNs (inc. access policy configuration) | 1 person-day effort (1 week start-to-finish)   |
+| Evaluate and optimize performance                                                      | 1 person-week effort (3 weeks start-to-finish) |
 
 ## Prerequisite tasks
 
@@ -57,13 +63,13 @@ This step is complete when your data storage personnel can login to the DTNs and
 
 *NOTE: We assume that individuals who are part of ACCESS projects that have allocations to use this resource are given local accounts on your resource. If this assumption is not valid for your resource, this section will need to be customized for your resource.*
 
-Globus uses local accounts for primary data access.¹ For primary data access to work as expected, individuals who are part of ACCESS projects that have allocations on this resource should have local accounts on the DTNs as well. In later steps, Globus will be configured to use these accounts.
+Globus uses local accounts for primary data access.[^1] For primary data access to work as expected, individuals who are part of ACCESS projects that have allocations on this resource should have local accounts on the DTNs as well. In later steps, Globus will be configured to use these accounts.
 
 1.  Your accounting or operations personnel will login to each DTN and configure the appropriate mechanism for provisioning local accounts. *Each RP has its own account mechanism, so ACCESS cannot provide detailed instructions.*
 
 ### Mount and configure POSIX storage on DTNs
 
-POSIX-accessible data storage must be mounted on the DTNs to be accessible by Globus.² Task 2.1, *Data and Networking integration design,* identified the POSIX storage system(s) on your resource that should be accessible for data transfers.
+POSIX-accessible data storage must be mounted on the DTNs to be accessible by Globus.[^2] Task 2.1, *Data and Networking integration design,* identified the POSIX storage system(s) on your resource that should be accessible for data transfers.
 
 1.  Your data storage personnel will login to each DTN and configure the appropriate POSIX mounts for POSIX data storage that should be accessible for data transfers per the requirements produced by task 2.1.
 
@@ -97,20 +103,18 @@ After your Globus endpoint is set up and configured, you should evaluate the per
 
 To evaluate whether your endpoint is performing as expected or not, the simplest method would be to repeat a variety of transfers from the test endpoints to your new endpoint (or vice-versa, with write-enabled test endpoints). **Hint:** You can use Globus’s [*Timer feature*](https://www.globus.org/blog/scheduled-and-recurring-transfers-now-available-globus-web-app) to schedule a transfer to repeat at preset intervals and collect the results later from the [*Timers tab on the Activity page*](https://app.globus.org/activity/timers). Set multiple timers with different endpoints and reference datasets and compare results.
 
-### References
-
-¹ Globus has a secondary data access mode, guest collections, which does not require local accounts. Guest collections are discussed in ACCESS’s Globus Connect Server install guidance, but are at a level of detail beneath what this roadmap discusses.
-
-² Non-POSIX data storage (object storage and cloud storage) are generally not mounted but can be made accessible via Globus if the Globus subscription includes the relevant storage connector. Access to non-POSIX storage is configured in Globus Connect Server.
-
 ## Document Management
 
 **Status**: Official
 
-**Official date**: 2/15/2023
+**Official date**: 4/24/2023 2/15/2023
 
 **Coordinators**: Lee Liming, ACCESS Operations
 
 **Last revised date**: 2/3/2023
 
 **Retired date**:
+
+[^1]: Globus has a secondary data access mode, guest collections, which does not require local accounts. Guest collections are discussed in ACCESS’s Globus Connect Server install guidance, but are at a level of detail beneath what this roadmap discusses.
+
+[^2]: Non-POSIX data storage (object storage and cloud storage) are generally not mounted but can be made accessible via Globus if the Globus subscription includes the relevant storage connector. Access to non-POSIX storage is configured in Globus Connect Server.

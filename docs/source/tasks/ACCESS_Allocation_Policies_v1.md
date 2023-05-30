@@ -23,13 +23,13 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 The Resource Provider must first identify an Allocations contact for each resource RP makes available for allocations via ACCESS. This contact(s) will work with Allocations and/or other ACCESS tracks to provide documentation/user guides for each of their resources. The contact will be the main liaison for Allocations as well as user community and review panels. RP contact will need to provide available resource information, review proposals of smaller Allocation requests. Contact will need to provide resource information for RDR of resource(s) and keep RDR updated for the life of resource(s). Email [*help@xsede.org*](mailto:help@xsede.org) with subject “Track 1 Roadmaps - allocations contact” or email [*hackwort@psc.edu*](mailto:hackwort@psc.edu) to provide contact details.  
   
-Instructions for entering resource information are specified in a later roadmap step: [*Infrastructure Description*](https://docs.google.com/document/d/1RJCEFLL1vjSOo-plBRK67qwTePXahbvsuZVoGOlYTFg/)
+Instructions for entering resource information are specified in a later roadmap step: [*Infrastructure Description*](Infrastructure_Description_v2.md)
 
 ## Document Management
 
 **Status**: Official
 
-**Official date**: 1/23/2023
+**Official date**: 4/24/2023 1/23/2023
 
 **Coordinators**: Ken Hackworth, ACCESS Allocations
 

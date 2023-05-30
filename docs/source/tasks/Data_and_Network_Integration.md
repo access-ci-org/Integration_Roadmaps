@@ -89,13 +89,13 @@ The ACCESS ecosystem offers a Layer3 VPN (L3VPN) provisioned on Internet2 (CONEC
 
 The supported file transfer applications for ACCESS are currently scp, sftp, rsync, and Globus. scp, sftp, and rsync are commonly used file transfer applications. Other than verifying that the servers are running (system administrators) and accessible (network engineers for site firewalls; system administrators for IPtables, firewalld, etc.), these applications likely will not require special configuration and management for use by ACCESS participants.
 
-Globus requires specific system, application, and (potentially) hardware configuration. Please see the ACCESS CONECT document [**Deploy Globus Endpoint**](https://docs.google.com/document/d/19xv0ahgH8m4pFsu5LabYdOVSaNjmB6Ja1Q7I7cc_dM8/edit?usp=sharing) for detailed guidance.
+Globus requires specific system, application, and (potentially) hardware configuration. Please see the ACCESS CONECT document [**Deploy Globus Endpoint**](Deploy_Globus_Endpoint_v1.md) for detailed guidance.
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: \<mm/dd/yyyy\>
+**Official date**: 4/24/2023 \<mm/dd/yyyy\>
 
 **Coordinators**: Kathy Benninger, ACCESS Operations
 

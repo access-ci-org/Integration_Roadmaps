@@ -12,4 +12,4 @@ Compute Roadmaps
    :maxdepth: 1
    :glob:
 
-   ACCESS_Allocated_Production_Compute_v2_-_Integration_Roadmap_Description
+   ACCESS_Allocated_Production_Compute_-_Integration_Roadmap_Description

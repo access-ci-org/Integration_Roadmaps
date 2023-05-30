@@ -9,7 +9,7 @@ Infrastructure Integration Roadmap Task
 
 ## Summary
 
-A science gateway wishing to integrate with ACCESS contacts ACCESS to start the integration process, provides basic science gateway information, and identifies science gateway staff contacts that will be involved in coordination, technical integration, and ongoing support activities.
+A science gateway wishing to integrate with ACCESS contacts ACCESS to start the integration process, provides basic science gateway information, and identifies science gateway staff contacts that will be involved in coordination, technical integration, and ongoing support activities. This coordination can begin before or after an ACCESS allocation is awarded.
 
 ## Support Information
 
@@ -33,27 +33,25 @@ The Resource Integration Coordinator is responsible for coordinating all RP acti
 
 ### Identity Resource Provider Contacts
 
-Soon after the Integration Launch the Science Gateway Integration Coordinator must provide each of the following RP contacts:
+Soon after the Integration Launch the Science Gateway Integration Coordinator must provide each of the following contacts:
 
 1)  Gateway administrator(s)
 
 2)  Cybersecurity and incident response contact(s)
 
-If the RP doesn’t know who some of these contacts will be, or wishes not to identify them until relevant integration effort ramps up, please name the Integration Coordinator as the placeholder for those roles. In other words, ACCESS needs each someone to be the contact in each of the above areas, even if it’s the coordinator who will eventually hand off effort to someone else. As integration activities ramps up the Integration Coordinator can add other RP staff replacing themselves as necessary.
+If the Gateway Administrator doesn’t know who some of these contacts will be, or wishes not to identify them until relevant integration effort ramps up, please name the Integration Coordinator as the placeholder for those roles. In other words, ACCESS needs each someone to be the contact in each of the above areas, even if it’s the coordinator who will eventually hand off effort to someone else. As integration activities ramps up the Integration Coordinator can add other staff replacing themselves as necessary.
 
-The Integration Coordinator should enter and update their RP contacts in the resource specific tab here:
+The Integration Coordinator should enter and update their contacts in the resource specific tab here:
 
-- [*ACCESS Allocated Resource Contacts*](https://docs.google.com/spreadsheets/d/1dEGSt9ZEB1ik7jRbU8GdcWxRF7TUsL_8Y_9LrxmU6CQ/edit?usp=share_link)
+- [*ACCESS Science Gateways Contacts*](https://docs.google.com/spreadsheets/d/1S8zMTpIq3c7ehAXnbsiI7nyiwVhPBkN1j3eEVKb3VsE/edit#gid=251017880)
 
-The Integration Coordinator is responsible for maintaining accurate contact information in this spreadsheet and updating when RP staff changes. We recommend that the Integration Coordinator review and correct their contacts every 6 months. This sub-task should take ~1 hour to complete initially, and ~½ hour annually to keep up-to-date.
-
-ACCESS Integration Roadmaps task lists which RP staff contacts normally perform that task.
+The Integration Coordinator is responsible for maintaining accurate contact information in this spreadsheet and updating when gateway staff changes. We recommend that the Integration Coordinator review and correct their contacts every 6 months. This sub-task should take ~1 hour to complete initially, and ~½ hour annually to keep up-to-date.
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: 2/1/2023
+**Official date**: 4/24/2023 2/1/2023
 
 **Coordinators**: Rob Quick, ACCESS Operations
 

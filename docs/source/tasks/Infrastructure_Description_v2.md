@@ -5,15 +5,13 @@ Infrastructure Integration Roadmap Task
 **Task Type(s)**: Coordination  
 **Start by phase**: Integration  
 **Complete by phase**: Ongoing  
-**RP role(s)**: Resource Integration Coordinator, Documentation and knowledge base contact(s),
+**RP role(s)**: Resource or Service Integration Coordinator, Documentation and knowledge base contact(s),
 
 ## Summary
 
-ACCESS infrastructure that is visible to researchers, resource providers, developers, other ACCESS awardees, or the broader community must be described. ACCESS resource providers, ACCESS projects, and other ACCESS affiliated online service providers (i.e. science gateways, etc.) enter basic information about their organization and then describe the infrastructure that they operate in the Cyberinfrastructure Description Repository (CiDeR). Audience relevant summaries of these descriptions are displayed in ACCESS websites.
+ACCESS infrastructure that is visible to researchers/users, resource providers, developers, between ACCESS projects, or the broader community must be described. ACCESS resource providers, ACCESS projects, and other ACCESS affiliated online service providers (i.e. science gateways, etc.) enter basic information about their organization and then describe the infrastructure that they operate in the Cyberinfrastructure Description Repository (CiDeR). Audience relevant summaries of these descriptions are displayed in different ACCESS websites.
 
-Initial setup involves resource integration coordinators gaining administrator access to CiDeR so they can authorize others in their organization to enter and maintain infrastructure descriptions. This task should take ~½ hour. Organization staff enter initial descriptions and maintain accurate infrastructure descriptions in CiDeR. This task should take ~1 hour/year per resource.
-
-This integration task replaces and improves the [*Infrastructure Description v1 task*](https://docs.google.com/document/d/1RJCEFLL1vjSOo-plBRK67qwTePXahbvsuZVoGOlYTFg). Operators that completed the v1 task already completed this task.
+Initial setup involves the integration coordinator obtaining administrator access to CiDeR so they can authorize others in their organization to enter and maintain infrastructure descriptions. This task should take ~½ hour. Organization staff enter initial descriptions and maintain accurate infrastructure descriptions in CiDeR. This task should take ~1 hour/year per infrastructure element.
 
 ## Prerequisite tasks
 
@@ -21,7 +19,7 @@ None
 
 ## Support Information
 
-For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
+For assistance with this task see the *Support Information* section in your *Integration Roadmap Description*.
 
 ## Detailed Instructions
 
@@ -29,9 +27,9 @@ Organization staff access CiDeR at [*https://cider.access-ci.org/login*](https:/
 
 ### Initial CiDeR Setup
 
-If your organization already has CiDeR/RDR access, skip to step C.
+If your organization already has CiDeR access, skip to step C.
 
-Submit a ticket with the Subject “New CiDeR Organization: at [*https://support.access-ci.org/open-a-ticket*](https://support.access-ci.org/open-a-ticket).
+Submit an *Integration and Operations Request* from [*this page*](https://operations.access-ci.org/help) with the Title “New CiDeR Organization” and the following information:
 
 - Organization logo URL or attached file
 
@@ -49,15 +47,15 @@ Submit a ticket with the Subject “New CiDeR Organization: at [*https://support
 
   - City, State, and Country
 
-- The ACCESS usernames of individuals that will be CiDeR administrators for their organization. These individuals will be able to grant other individuals access to maintain infrastructure descriptions. A single individual can be the CiDeR administrator and the person entering and maintaining descriptions.
+- The ACCESS usernames of individuals that will be CiDeR administrators for your organization. These individuals will be able to grant other individuals access to maintain infrastructure descriptions. Persons can be both CiDeR administrators and the maintainers of descriptions.
 
-Submitted organization information will be entered by a CiDeR in a form as shown below and used to grant access to CiDeR administrators.
+Submitted organization information will be entered by a CiDeR administrator in a form as shown below and used to grant access to CiDeR administrators.
 
 ![](media/Infrastructure_Description_v2/media/image1.png)
 
 ### Provide CiDeR access to other organization staff
 
-The resource integration coordinator grants other organization staff access to enter and maintain infrastructure descriptions:
+After the integration coordinator has been granted CiDeR access they can grant other organization staff access to enter and maintain infrastructure descriptions:
 
 - Select “Service Providers” or “Organizations” along the top.
 
@@ -67,9 +65,9 @@ The resource integration coordinator grants other organization staff access to e
 
 - Add additional Organization Admins who may enter and update your organization resource information.
 
-### Enter Resource Descriptions
+### Enter Infrastructure Descriptions
 
-Organization staff enter new infrastructure as detailed in the Quick Start Guide and User Guide:
+Organization staff enter new infrastructure descriptions as detailed in the Quick Start Guide and User Guide:
 
 [*https://cider.access-ci.org/cider_manual_full.pdf*](https://cider.access-ci.org/cider_manual_full.pdf)
 
@@ -77,21 +75,37 @@ Steps:
 
 - Select “Resources” along the top.
 
-- Click on your “Add a Resource” to add a new resource, or click on a resource name if your resource already exists.
+- Click on “Add a Resource” to add a new resource, or click on a resource name to edit an existing resource.
 
 - Enter as much information as possible in this first form
 
+- Select Resource Features as follows:
+
+| Applicable Resource Type        | Features                                                                                                                                                                                                                                                                           |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Compute, Cloud, Storage         | Select from the following features:<br>- Sensitive data support<br>- Community software areas for users<br>- Visualization support<br>- Advanced reservation support<br>- Discounted preemptible queue support<br>- CONECTnet attached<br>- Internal resource not visible to users |
+| Compute, Cloud, Storage         | If your resource supports science gateways select features starting with “Science Gateway *”.                                                                                                                                                                                      |
+| Online Services                 | Select from the following features:<br>- ACCESS Online Services for users<br>- ACCESS Online Services for resource providers<br>- ACCESS Online Services for developers<br>- ACCESS Online Services for ACCESS projects                                                            |
+| Science Gateway Online Services | This feature designates a registered Online Service as a science gateway:<br>- ACCESS Integrated Science Gateways                                                                                                                                                                  |
+
 - Select a “Resource Type” at the bottom of the screen and “Create Resource”
 
-- Enter as much information as possible in this second form and at least the minimum requested information listed in the table below:
+- For Compute, Cloud, and Storage type resources, enter as much information as possible in this second form and the following **minimum required information**:
 
-[TABLE]
+| Field Name                   | Applicable Resource Type | Notes                                                                      |
+|------------------------------|--------------------------|----------------------------------------------------------------------------|
+| Node Count                   | Compute, Cloud           | For cloud record the number of controller nodes.                           |
+| CPU Core Count Per Node      | Compute, Cloud           | For heterogeneous clusters use the mean value per node                     |
+| Memory Per CPU in GB         | Compute, Cloud           | For heterogeneous clusters use the mean value per node                     |
+| Local Storage per Node in GB | Compute                  | For heterogeneous clusters use the mean value per node                     |
+| Peak Teraflops               | Compute                  | Leave blank if unknown                                                     |
+| Disk Size in TB              | Compute, Storage, Cloud  | Total amount of shared storage (network attached and parallel file-system) |
 
 ### Enter Resource Conversion Factors
 
-Skip this section if you resource is not ACCESS allocated
+Skip this section if your resource is not ACCESS allocated .
 
-Page 16 of the CiDeR/RDR Manual has instructions for entering a “conversion factor”. This is the NU conversion factor of your resource, divided by 21.576. This will be used to compute your initial marketplace exchange rate. **For most compute resources, you should NOT change the conversion factor that you already have listed.  
+Page 16 of the CiDeR Manual has instructions for entering a “conversion factor”. This is the NU conversion factor of your resource, divided by 21.576. This will be used to compute your initial marketplace exchange rate. **For most compute resources, you should NOT change the conversion factor that you already have listed.  
   
 **In a later stage of ACCESS, additional tools will be created to manage your variable marketplace exchange rate.
 
@@ -99,13 +113,13 @@ Page 16 of the CiDeR/RDR Manual has instructions for entering a “conversion fa
 
 ### Maintain infrastructure descriptions
 
-Information in CiDeR should be kept up to date, and reviewed for accuracy at least once a year.
+Information in CiDeR must be kept up to date and reviewed for accuracy at least yearly.
 
 ## Document Management
 
 **Status**: Official
 
-**Official date**: 2/15/2023
+**Official date**: 4/24/2023 2/15/2023
 
 **Coordinators**: JP Navarro, ACCESS Operations; Nathan Tolbert, ACCESS Allocations
 

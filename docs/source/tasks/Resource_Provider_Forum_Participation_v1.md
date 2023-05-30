@@ -29,9 +29,9 @@ Within 2 weeks you will receive a response from the RP Forum Coordinator, and th
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: 2023/02/01
+**Official date**: 4/24/2023 2023/02/01
 
 **Coordinators**: Ruth Marinshaw, RP Forum Coordinator
 

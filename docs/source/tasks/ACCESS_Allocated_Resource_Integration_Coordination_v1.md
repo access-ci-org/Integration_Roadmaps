@@ -69,9 +69,9 @@ ACCESS Integration Roadmaps task lists which RP staff contacts normally perform 
 
 ## Document Management
 
-**Status**: Draft
+**Status**: Official
 
-**Official date**: 2/1/2023
+**Official date**: 4/24/2023 2/1/2023
 
 **Coordinators**: JP Navarro, ACCESS Operations
 
