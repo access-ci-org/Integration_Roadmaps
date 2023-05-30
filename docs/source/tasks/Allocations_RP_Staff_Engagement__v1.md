@@ -9,7 +9,7 @@ Infrastructure Integration Roadmap Task
 
 ## Summary
 
-Resource Providers will need to have proper representation for Allocation questions, reviewing RP requests and provide guidance to both ACCESS Allocations staff and review panels. This document details required [Integration Instructions](https://github.com/deems412/Integration_Roadmaps/blob/main/docs/source/tasks/ACCESS_Allocation_Policies_v1.md#integration-instructions), [Operating Instructions](https://github.com/deems412/Integration_Roadmaps/blob/main/docs/source/tasks/ACCESS_Allocation_Policies_v1.md#operating-instructions), [Contact Information](https://github.com/deems412/Integration_Roadmaps/blob/main/docs/source/tasks/ACCESS_Allocation_Policies_v1.md#contact-information), and other [Helpful Resources](https://github.com/deems412/Integration_Roadmaps/blob/main/docs/source/tasks/ACCESS_Allocation_Policies_v1.md#other-helpful-resources) for RPs functioning as *Allocations Contacts*. 
+Resource Providers will need to have proper representation for Allocation questions, reviewing RP requests and provide guidance to both ACCESS Allocations staff and review panels. This document details required Integration Instructions, Operating Instructions, Contact Information, and other Helpful Resources for RPs functioning as *Allocations Contacts*. 
 
 ## Prerequisite tasks
 
