@@ -42,49 +42,49 @@ Please track RP integration progress in [*this spreadsheet*](https://docs.google
 
 ### Planning phase
 
-1. [ ] Coordination: [ACCESS Allocated Resource Integration Coordination v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/ACCESS_Allocated_Resource_Integration_Coordination_v1.html) (NEW)
+1. Coordination: [ACCESS Allocated Resource Integration Coordination v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/ACCESS_Allocated_Resource_Integration_Coordination_v1.html) (NEW)
 
-2. [ ] Coordination: [Infrastructure Description v2](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Infrastructure_Description_v2.html)
+2. Coordination: [Infrastructure Description v2](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Infrastructure_Description_v2.html)
 
-3. [ ] Technology: [Cybersecurity Requirements for RPs v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Cybersecurity_Requirements_for_RPs_v1.html)
+3. Technology: [Cybersecurity Requirements for RPs v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Cybersecurity_Requirements_for_RPs_v1.html)
 
-4. [ ] Technology: [Data and Network Integration v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Data_and_Network_Integration.html)
+4. Technology: [Data and Network Integration v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Data_and_Network_Integration.html)
 
 ### Integration phase
 
-5. [ ] Coordination: [ACCESS Allocation Policies v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/ACCESS_Allocation_Policies_v1.html)
+5. Coordination: [ACCESS Allocation Policies v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/ACCESS_Allocation_Policies_v1.html)
 
-6. [ ] Coordination: [Knowledge Base v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Knowledge_Base_v1.html)
+6. Coordination: [Knowledge Base v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Knowledge_Base_v1.html)
 
-7. [ ] Coordination: [Resource Provider Forum Participation v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Resource_Provider_Forum_Participation_v1.html)
+7. Coordination: [Resource Provider Forum Participation v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Resource_Provider_Forum_Participation_v1.html)
 
-8. [ ] Coordination: [Cybersecurity Governance Council Participation v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Cybersecurity_Governance_Council_Participation_v1.html)
+8. Coordination: [Cybersecurity Governance Council Participation v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Cybersecurity_Governance_Council_Participation_v1.html)
 
-9. [ ] Technology: [Resource Metrics Data Availability Assessment v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Resource_Metrics_Data_Availability_Assessment_v1.html)
+9. Technology: [Resource Metrics Data Availability Assessment v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Resource_Metrics_Data_Availability_Assessment_v1.html)
 
-10. [ ] (Optional) Technology: [ACCESS DNS Entries v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/ACCESS_DNS_Records_v1.html) (NEW)
+10. (Optional) Technology: [ACCESS DNS Entries v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/ACCESS_DNS_Records_v1.html) (NEW)
 
-11. [ ] (Optional) Technology: [Local Service ACCESS IAM Integration v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Local_Services_ACCESS_IAM_Integration_v1.html) (NEW)
+11. (Optional) Technology: [Local Service ACCESS IAM Integration v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Local_Services_ACCESS_IAM_Integration_v1.html) (NEW)
 
-12. [ ] (Optional) Technology: [ACCESS OnDemand Portal Integration v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/ACCESS_OnDemand_Portal_Integration_v1.html) (NEW)
+12. (Optional) Technology: [ACCESS OnDemand Portal Integration v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/ACCESS_OnDemand_Portal_Integration_v1.html) (NEW)
 
 ### Operations phase
 
-13. [ ] Technology: [Deploy Globus Endpoint v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Deploy_Globus_Endpoint_v1.html)
+13. Technology: [Deploy Globus Endpoint v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Deploy_Globus_Endpoint_v1.html)
 
-14. [ ] Technology: [Publish Dynamic Resource Information v2](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Publish_Dynamic_Resource_Information_v2.html)
+14. Technology: [Publish Dynamic Resource Information v2](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Publish_Dynamic_Resource_Information_v2.html)
 
-15. [ ] Support: [Incident Response and Coordination v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Incident_Response_and_Coordination_v1.html)
+15. Support: [Incident Response and Coordination v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Incident_Response_and_Coordination_v1.html)
 
-16. [ ] Support: [Ticket Handling v2](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Ticket_Handling_v2.html)
+16. Support: [Ticket Handling v2](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Ticket_Handling_v2.html)
 
-17. [ ] Support: [Operational Status Communications v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Operational_Status_Communications_v1.html)
+17. Support: [Operational Status Communications v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Operational_Status_Communications_v1.html)
 
-18. [ ] Support: [AMIE and Usage Reporting v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/AMIE_and_Usage_Reporting_v1.html)
+18. Support: [AMIE and Usage Reporting v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/AMIE_and_Usage_Reporting_v1.html)
 
-19. [ ] Technology: [Performance Data reporting v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Performance_Data_Reporting_v1.html)
+19. Technology: [Performance Data reporting v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Performance_Data_Reporting_v1.html)
 
-20. [ ] (Optional) Technology: [Request RP or Site Staff Allocation v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Request_RP_or_Site_Staff_Allocation_v1.html)
+20. (Optional) Technology: [Request RP or Site Staff Allocation v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Request_RP_or_Site_Staff_Allocation_v1.html)
 
 ## Document Management
 
