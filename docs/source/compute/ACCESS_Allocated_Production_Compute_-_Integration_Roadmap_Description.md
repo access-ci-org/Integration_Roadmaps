@@ -22,7 +22,7 @@ See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1Vt
 
 This roadmap refactors and replaces the [*ACCESS Allocated Production Compute/Storage/Cloud v1*](https://docs.google.com/document/d/1VUTa5DOz27B6wobZZwh6gh6dcXWD30rpYovoLZ1nwqk) roadmap. Operators that completed the older roadmap only need to complete corresponding tasks that were not completed in the prior roadmap.
 
-Please track RP integration progress in [*this spreadsheet*](https://docs.google.com/spreadsheets/d/1ejgGUU-IVLEhTIXX3pmCNBSJ2e0yXwXxPpgZ2RHwM4Q/). **\*NEEDS UPDATING\***
+Please track RP integration progress in [*this spreadsheet*](https://docs.google.com/spreadsheets/d/1ejgGUU-IVLEhTIXX3pmCNBSJ2e0yXwXxPpgZ2RHwM4Q/).
 
 ## Support Information
 
@@ -40,58 +40,60 @@ Please track RP integration progress in [*this spreadsheet*](https://docs.google
 
 - [*ACCESS RP Roadmaps FAQ*](https://docs.google.com/document/d/1VwYROB7sh4X_Tqvi_4XIkYD-jffBS4UykS6gEJesuQE/)
 
-## Required Tasks
+### Planning phase
 
-1.  [*ACCESS Allocated Resource Integration Coordination v1*](../tasks/ACCESS_Allocated_Resource_Integration_Coordination_v1.md) (NEW)
+1. [ ] Coordination: [ACCESS Allocated Resource Integration Coordination v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/ACCESS_Allocated_Resource_Integration_Coordination_v1.html) (NEW)
 
-2.  [*Infrastructure Description v2*](../tasks/Infrastructure_Description_v2.md)
+2. [ ] Coordination: [Infrastructure Description v2](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Infrastructure_Description_v2.html)
 
-3.  [*Cybersecurity Requirements for RPs v1*](../tasks/Cybersecurity_Requirements_for_RPs_v1.md)
+3. [ ] Technology: [Cybersecurity Requirements for RPs v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Cybersecurity_Requirements_for_RPs_v1.html)
 
-4.  [*Data and Network Integration v1*](../tasks/Data_and_Network_Integration.md)
+4. [ ] Technology: [Data and Network Integration v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Data_and_Network_Integration.html)
 
-5.  [*ACCESS Allocation Policies v1*](../tasks/ACCESS_Allocation_Policies_v1.md)
+### Integration phase
 
-6.  [*Knowledge Base v1*](../tasks/Knowledge_Base_v1.md)
+5. [ ] Coordination: [ACCESS Allocation Policies v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/ACCESS_Allocation_Policies_v1.html)
 
-7.  [*Resource Provider Forum Participation v1*](../tasks/Resource_Provider_Forum_Participation_v1.md)
+6. [ ] Coordination: [Knowledge Base v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Knowledge_Base_v1.html)
 
-8.  [*Cybersecurity Governance Council Participation v1*](../tasks/Cybersecurity_Governance_Council_Participation_v1.md)
+7. [ ] Coordination: [Resource Provider Forum Participation v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Resource_Provider_Forum_Participation_v1.html)
 
-9.  [*Resource Metrics Data Availability Assessment v1*](../tasks/Resource_Metrics_Data_Availability_Assessment_v1.md)
+8. [ ] Coordination: [Cybersecurity Governance Council Participation v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Cybersecurity_Governance_Council_Participation_v1.html)
 
-10. [*Deploy Globus Endpoint v1*](../tasks/Deploy_Globus_Endpoint_v1.md)
+9. [ ] Technology: [Resource Metrics Data Availability Assessment v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Resource_Metrics_Data_Availability_Assessment_v1.html)
 
-11. [*Publish Dynamic Resource Information v2*](../tasks/Publish_Dynamic_Resource_Information_v2.md)
+10. [ ] (Optional) Technology: [ACCESS DNS Entries v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/ACCESS_DNS_Records_v1.html) (NEW)
 
-12. [*Incident Response and Coordination v1*](../tasks/Incident_Response_and_Coordination_v1.md)
+11. [ ] (Optional) Technology: [Local Service ACCESS IAM Integration v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Local_Services_ACCESS_IAM_Integration_v1.html) (NEW)
 
-13. [*Ticket Handling v2*](../tasks/Ticket_Handling_v2.md)
+12. [ ] (Optional) Technology: [ACCESS OnDemand Portal Integration v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/ACCESS_OnDemand_Portal_Integration_v1.html) (NEW)
 
-14. [*Operational Status Communications v1*](../tasks/Operational_Status_Communications_v1.md)
+### Operations phase
 
-15. [*AMIE and Usage Reporting v1*](../tasks/AMIE_and_Usage_Reporting_v1.md)
+13. [ ] Technology: [Deploy Globus Endpoint v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Deploy_Globus_Endpoint_v1.html)
 
-16. [*Performance Data reporting v1*](../tasks/Performance_Data_Reporting_v1.md)
+14. [ ] Technology: [Publish Dynamic Resource Information v2](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Publish_Dynamic_Resource_Information_v2.html)
 
-## Optional Tasks
+15. [ ] Support: [Incident Response and Coordination v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Incident_Response_and_Coordination_v1.html)
 
-1.  [*ACCESS DNS Entries v1*](../tasks/ACCESS_DNS_Records_v1.md) (NEW)
+16. [ ] Support: [Ticket Handling v2](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Ticket_Handling_v2.html)
 
-2.  [*Local Service ACCESS IAM Integration v1*](../tasks/Local_Services_ACCESS_IAM_Integration_v1.md) (NEW)
+17. [ ] Support: [Operational Status Communications v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Operational_Status_Communications_v1.html)
 
-3.  [*ACCESS OnDemand Portal Integration v1*](../tasks/ACCESS_OnDemand_Portal_Integration_v1.md) (NEW)
+18. [ ] Support: [AMIE and Usage Reporting v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/AMIE_and_Usage_Reporting_v1.html)
 
-4.  [*Request RP or Site Staff Allocation v1*](../tasks/Request_RP_or_Site_Staff_Allocation_v1.md)
+19. [ ] Technology: [Performance Data reporting v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Performance_Data_Reporting_v1.html)
+
+20. [ ] (Optional) Technology: [Request RP or Site Staff Allocation v1](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/tasks/Request_RP_or_Site_Staff_Allocation_v1.html)
 
 ## Document Management
 
 **Status**: Official
 
-**Official date**: 4/24/2023 4/10/2023
+**Official date**: 4/24/2023
 
 **Coordinators**: Jess Haney, ACCESS Operations
 
-**Last revised date**: 4/7/2023
+**Last revised date**: 08/07/2023
 
 **Retired date**:
