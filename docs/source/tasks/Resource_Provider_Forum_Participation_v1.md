@@ -23,7 +23,7 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ## Detailed Instructions
 
-The PI, co-PI, or Resource Integration Coordinator submit a request to join the SP Forum to Ruth Marinshaw \<ruthm@stanford.edu\> and include relevant NSF grant numbers, the organization name, a brief description of the resource and its relevance to the community, and the names, email addresses, and roles of the person(s) that will participate in the RP Forum and receive RP Forum emails.
+The PI, co-PI, or Resource Integration Coordinator submit a request to join the RP Forum to Eva Siegmann \<eva.siegmann@stonybrook.edu\> and include relevant NSF grant numbers, the organization name, a brief description of the resource and its relevance to the community, and the names, email addresses, and roles of the person(s) that will participate in the RP Forum and receive RP Forum emails.
 
 Within 2 weeks you will receive a response from the RP Forum Coordinator, and the designated RP Forum participants will start receiving RP Forum meeting invites and other communications through an RP Forum email list.
 
@@ -33,8 +33,8 @@ Within 2 weeks you will receive a response from the RP Forum Coordinator, and th
 
 **Official date**: 4/24/2023 2023/02/01
 
-**Coordinators**: Ruth Marinshaw, RP Forum Coordinator
+**Coordinators**: Eva Siegmann, RP Forum Coordinator
 
-**Last revised date**: 2023/01/26
+**Last revised date**: 2023/11/01
 
 **Retired date**:
