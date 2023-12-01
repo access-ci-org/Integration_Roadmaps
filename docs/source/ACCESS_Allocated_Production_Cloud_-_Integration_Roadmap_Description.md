@@ -42,7 +42,7 @@ Please track RP integration progress in [*this spreadsheet*](https://docs.google
 
 ## Phases
 
-### Planning
+### Planning phase
 ```{toctree}
 :maxdepth: 1
 
@@ -52,7 +52,7 @@ Please track RP integration progress in [*this spreadsheet*](https://docs.google
 4. Technology: Data and Network Integration <tasks/Data_and_Network_Integration.md>
 ```
 
-### Integration
+### Integration phase
 ```{toctree}
 :maxdepth: 1
 
@@ -65,7 +65,7 @@ Please track RP integration progress in [*this spreadsheet*](https://docs.google
 11. (Optional) Technology: Local Service ACCESS IAM Integration <tasks/Local_Services_ACCESS_IAM_Integration_v1.md>
 ```
 
-### Operations
+### Operations phase
 ```{toctree}
 :maxdepth: 1
 
