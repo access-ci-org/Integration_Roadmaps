@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'readthedocs.access-ci.org'
+project = 'ACCESS Integration Roadmaps'
 copyright = '2023, ACCESS'
 author = 'JP Navarro'
 
