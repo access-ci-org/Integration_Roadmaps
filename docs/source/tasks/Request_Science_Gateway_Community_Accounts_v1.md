@@ -21,11 +21,26 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ## Detailed Instructions
 
-Community accounts are UNIX accounts on ACCESS resource providers that can be used by a science gateway’s users through the science gateway’s user or programming interface. Science gateway providers request community accounts in individual ticket requests directed to the ACCESS Resources Providers, the ACCESS Integration Coordinator assigned can help make these requsts.
+Community accounts are UNIX accounts on ACCESS resource providers that can be used by a science gateway’s users through
+the science gateway’s user or programming interface. Science gateway providers request community accounts in individual 
+ticket requests through the [ACCESS ticketing system](https://access-ci.atlassian.net/servicedesk/customer/portal/2) 
+directed to the ACCESS Resources Providers, the ACCESS Integration Coordinator assigned can help make these requsts.
+- Navigate to the [ACCESS ticketing system](https://access-ci.atlassian.net/servicedesk/customer/portal/2) 
+- Select "ACCESS Integration and Operation Support Requests" on "What can we help you with?"
+- Select “Allocations:XRAS” on “ACCESS Operations Issue Type”
+- Select “ACCESS Resource Provider Resource” on “Infrastructure Type”
+- Select “User Support Question” on “ACCESS Support Issue”
+- Select the “ACCESS Resource Provider Resource” from the dropdown
+- Submit
+- Followup with any discussions on the ticket
 
-The science gateway provider should confirm that the community accounts are created and accessible. It may take hours to days for accounts to be created after registration.
+Once the ticket is submitted, the allocations team would do what is necessary and keep posting on the ticket. When it's done, 
+the science gateway provider should confirm on the ticket that the community accounts are created and accessible. It may 
+take hours to days for accounts to be created after registration.
 
-The science gateway provider may need to take additional, resource provider-specific steps to enable the account. This may include, for example, providing specific IP addresses or registering SSH keys that the science gateway will use when accessing the resource provider.
+The science gateway provider may need to take additional, resource provider-specific steps to enable the account. This 
+may include, for example, providing specific IP addresses or registering SSH keys that the science gateway will use when 
+accessing the resource provider.
 
 ## Document Management
 
