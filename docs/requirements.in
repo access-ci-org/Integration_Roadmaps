@@ -1,5 +1,5 @@
-# Defining the exact version will make sure things don't break sphinx==5.3.0
-Sphinx>=5,<6
+# Pin the exact version for dependencies if automatic upgrading is unwanted (e.g sphinx==5.3.0)
+Sphinx
 sphinx_rtd_theme
 readthedocs-sphinx-search
 myst_parser
