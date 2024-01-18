@@ -37,9 +37,9 @@ Operators must perform the Required Tasks below and may perform the Optional Tas
 
 ## Integration/Operations phase(s)
 
-2. Coordination/Support: [Science Gateway Description v1](../tasks/Science_Gateway_Description_v1.md)
+2. Coordination/Support: [Request Science Gateway Allocation v1](../tasks/Request_Science_Gateway_Allocation_v1.md)
 
-3. Coordination/Support: [Request Science Gateway Allocation v1](../tasks/Request_Science_Gateway_Allocation_v1.md)
+3. Coordination/Support: [Science Gateway Description v1](../tasks/Science_Gateway_Description_v1.md)
 
 4. Coordination/Support: [Request Science Gateway Resources v1](../tasks/Request_Science_Gateway_Resources_v1.md)
 
