@@ -9,11 +9,13 @@ Infrastructure Integration Roadmap Task
 
 ## Summary
 
-The science gateway provider registers their gateway with ACCESS to provide publicly accessible and internally accessible information about the science gateway. This step also allows the request for the creation of community accounts on allocated resources.
+The science gateway provider registers their gateway with ACCESS to provide publicly accessible and internally 
+accessible information about the science gateway. This step also allows the request for the creation of community 
+accounts on allocated resources.
 
 ## Prerequisite tasks
 
-1.  The science gateway provider must have completed “Science Gateway Resource Requests”
+1.  The science gateway provider must have completed [Science Gateway Resource Requests](Science_Gateway_Resource_Requests_v1.md)
 
 ## Support Information
 
@@ -21,23 +23,52 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ## Detailed Instructions
 
-The science gateway provider must provide information in gateway information [*here*](https://docs.google.com/spreadsheets/d/1S8zMTpIq3c7ehAXnbsiI7nyiwVhPBkN1j3eEVKb3VsE/edit#gid=251017880). This step will take less than 10 minutes of effort.
+The science gateway provider must create an [Integration and Operations Request](https://operations.access-ci.org/help)
+ - Set *ACCESS Operations Issue Type* to ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps 
+ - Set *Infrastructure Information:* Science Gateway and specify the *Science gateway name*
+ - Include all the details of the gateway in the summary. Please use the following template.
 
-Science gateway providers register their gateway with ACCESS, providing the following information:
+```
+Institution Name: 
 
-1.  The URL for the science gateway (displayed by ACCESS if the gateway is also in production). If ths is not yet determined it can be updated when the URL is in place.
+Science Gateway Name: 
 
-2.  A short description of the gateway that can be displayed by ACCESS if the gateway is in production and which can help potential users find the gateway.
+Acronym: 
 
-3.  A short name for the science gateway that complies with UNIX account name requirements, which may be used as community account names by Resource Providers.
+Public URL: 
 
-4.  The gateway’s status, which can be “in production” and ready to accept users, or “in development.”
+Short Name: 
 
-5.  Production date for the gateway. If your gateway is currently in production, estimate the date it was available to the community.
+Short Description: 
 
-The task is completed when the gateway information is published to the ACCESS web site and when community accounts are created on allocated resources.
+Associated allocation ID(s): 
 
-ACCESS may periodically review registration information to confirm that it is correct. Gateway providers should promptly update their registration information.
+Status (in development or in production): 
+
+Production date (when did/will it become): 
+
+Gateway PI: Name <email> 
+
+Gateway co-PIs: Name 1 <email>, Name 2 <email>
+
+Gateway administrator(s): Name 1 <email>, Name 2 <email>
+
+Cybersecurity and incident response contact(s): Name 1 <email>, Name 2 <email>
+
+Integration coordinator: Name 1 <email>
+
+```
+
+*Integration coordinator* is the contact person from the science gateway side working with the ACCESS concierge on the 
+integration process. 
+
+Once the ticket is created, it will be reviewed by the ACCESS concierge and will get back to you for additional 
+information. And then the ACCESS concierge would create/update the information in the ACCESS website. The task is completed 
+when the gateway information is published to the ACCESS website and when community accounts are created on allocated 
+resources.
+
+ACCESS may periodically review registration information to confirm that it is correct. Gateway providers should create 
+subsequent tickets in the future to update the information.
 
 ## Document Management
 
