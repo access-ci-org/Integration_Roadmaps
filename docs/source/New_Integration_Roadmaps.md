@@ -1,6 +1,4 @@
----
-title: Make a New ACCESS Integration Roadmap
----
+# Make a New ACCESS Integration Roadmap
 
 If you want to integrate a cyberinfrastructure resource into the ACCESS
 ecosystem and no existing integration roadmap seems appropriate for your
@@ -21,7 +19,7 @@ An ACCESS integration roadmap details the ACCESS coordination services
 most appropriate for a specific kind of cyberinfastructure resource and
 the steps a resource provider must take to participate in them.
 
-# Steps for Creating a New ACCESS Integration Roadmap
+## Steps for Creating a New ACCESS Integration Roadmap
 
 The rest of this guide will fill in the details, but here\'s an overview
 of the steps for creating a new ACCESS Integration Roadmap.
@@ -37,7 +35,7 @@ of the steps for creating a new ACCESS Integration Roadmap.
     library.
 5.  Announce the new integration roadmap.
 
-# Why Create a New ACCESS Integration Roadmap?
+## Why Create a New ACCESS Integration Roadmap?
 
 If you\'re adding the first resource of a type that has never been
 integrated with ACCESS before, there won\'t be an existing integration
@@ -59,7 +57,7 @@ If it isn\'t likely there will ever be other resources like yours in
 ACCESS, you can use the information below to plan your integration
 without actually creating an integration roadmap.
 
-# ACCESS\'s Coordination Services
+## ACCESS\'s Coordination Services
 
 The major coordination services ACCESS currently offers are listed
 below. Each service provides benefits to both researchers and resource
@@ -101,7 +99,7 @@ services would help you achieve your goals for ACCESS integration.
     rather than maintaining local accounts and user credentials
     (passwords, keys).
 
-# Inform the ACCESS Infrastructure Integration Steering Committee (IISC)
+## Inform the ACCESS Infrastructure Integration Steering Committee (IISC)
 
 After you\'ve reviewed this guide and decided that you want to propose a
 new integration roadmap, the first step is to inform the Infrastructure
@@ -118,7 +116,7 @@ the liaison will inform the ACCESS Executive Council (EC) about your
 plan so they can prepare their project areas to provide the resources
 you\'ll need.
 
-# Form a Working Group
+## Form a Working Group
 
 When creating a new ACCESS integration roadmap, it\'s important to get
 input from ACCESS service providers and\-\--if possible\-\--from other
@@ -163,7 +161,7 @@ Google Drive folder. Add the charter document. Review the [ACCESS
 cross-track technical coordination
 schedule](https://access-ci.atlassian.net/wiki/spaces/ACP/pages/9502721/Cross-Track+Technical+Coordination+Schedule)
 to find a good time for the first meeting and ask on the ACCESS-CI
-slack\'s #access-wide channel if anyone is using the two most-likely
+slack\'s ##access-wide channel if anyone is using the two most-likely
 options, just in case. Create a new document in the working group Google
 Drive folder for meeting agendas and notes and include the date, time,
 and coordinates for the first meeting. (It\'s helpful to keep all
@@ -173,13 +171,13 @@ meetings.)
 Finally, draft an announcement for the working group that references the
 charter, key stakeholders who you\'d like to have participate, agenda
 for the first meeting, and meeting coordinates. Post the announcement on
-the ACCESS-CI slack\'s #access-wide channel and the ACCESS-RP
-Communications slack\'s #general channel. If you need participation by
+the ACCESS-CI slack\'s ##access-wide channel and the ACCESS-RP
+Communications slack\'s ##general channel. If you need participation by
 current resource providers, ask the ACCESS Operations team to email your
 announcement to all current resource provider contacts. Now you\'re
 ready for your first working group meeting!
 
-# What to Put In an Integration Roadmap
+## What to Put In an Integration Roadmap
 
 The audience of an ACCESS integration roadmap is a resource provider who
 needs to integrate a new resource into the ACCESS ecosystem. Roadmaps
@@ -231,7 +229,7 @@ roadmaps also change the task in your roadmap, make a copy. But if you
 make a copy, be aware that any improvements to the task\'s text in other
 roadmaps won\'t be reflected in yours.
 
-# Get an Integration Roadmap Reviewed and Approved
+## Get an Integration Roadmap Reviewed and Approved
 
 Assuming you have the right stakeholders represented in your working
 group, you shouldn\'t need additional reviews or approvals once the
@@ -241,7 +239,7 @@ providers won\'t likely appear until your roadmap has been published and
 announced. You can proceed directly to publishing and announcing your
 roadmap!
 
-# Publish and Maintain an Integration Roadmap
+## Publish and Maintain an Integration Roadmap
 
 As outlined in the [Contributing
 guide](https://github.com/access-ci-org/Integration_Roadmaps/blob/main/docs/contributing.md),
@@ -261,7 +259,7 @@ channels. If changes are needed, they can be made through the process
 outlined in the [Contributing
 guide](https://github.com/access-ci-org/Integration_Roadmaps/blob/main/docs/contributing.md).
 
-# Announce a New Integration Roadmap
+## Announce a New Integration Roadmap
 
 Your new ACCESS integration roadmap will only be useful if people know
 about it! We recommend the following ways to let relevant people know
@@ -269,16 +267,16 @@ about your roadmap.
 
 1.  Post a link to it, including a brief blurb about what types of
     resources it\'s for, on the **ACCESS-CI** slack server\'s
-    **#access-wide** channel.
+    **##access-wide** channel.
 2.  Post the same announcement on the **RP-ACCESS Communications** slack
-    server\'s **#general** channel.
+    server\'s **##general** channel.
 3.  Post a news item on the [ACCESS Infrastructure
     News](https://operations.access-ci.org/online_services/infrastructure_news)
     publishing service. This will result in a news story in ACCESS\'s
     staff newsletter and one or more news channels for resource
     providers and other community members.
 
-# Get Started
+## Get Started
 
 If you\'re ready to get started on a new ACCESS integration roadmap, the
 first step is to alert the ACCESS Infrastructure Integration Steering
