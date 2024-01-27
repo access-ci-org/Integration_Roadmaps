@@ -25,10 +25,11 @@ All Roadmap Tasks <tasks/index>
 If you need to integrate a type of cyberinfrastructure resource with ACCESS that isn't
 listed above, consider the following option(s):
 
-* [New Integration Roadmap](New_Integration_Roadmaps.rst)
-* [All Roadmap Tasks](tasks/index.md)
+* [New Integration Roadmap](New_Integration_Roadmaps)
+* [All Roadmap Tasks](tasks/index)
 
 ```{toctree}
+:maxdepth: 1
 :caption: None of the above look right?
 :hidden:
 New_Integration_Roadmaps
