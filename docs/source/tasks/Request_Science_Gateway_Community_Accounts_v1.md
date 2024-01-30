@@ -11,13 +11,15 @@ Infrastructure Integration Roadmap Task
 
 Science gateways use community accounts to provide single accounts for all gateway users.
 
+**Note** : One community account must have been attached only to one science gateway.
+
 ## Prerequisite tasks
 
-1.  The gateway provider must have completed [*Science Gateways Description*](Science_Gateway_Description_v1.md)
+1.  The gateway provider must have completed [Science Gateways Description](Science_Gateway_Description_v1.md)
 
 ## Support Information
 
-For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
+For assistance with this task see the **Support Information** section in the [Infrastructure Integration Roadmap Description](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/gateway/ACCESS_Integrated_Science_Gateway_-_Integration_Roadmap_Description.html#support-information).
 
 ## Detailed Instructions
 
@@ -46,10 +48,10 @@ accessing the resource provider.
 
 **Status**: Official
 
-**Official date**: 4/24/2023 4/10/2023
+**Official date**: 02/01/2024
 
-**Coordinators**: Rob Quick, ACCESS Operations
+**Coordinators**: Dinuka De Silva, ACCESS Operations
 
-**Last revised date**: 4/3/2023
+**Last revised date**: 01/30/2024
 
-**Retired date**:
+**Retired date**: NA
