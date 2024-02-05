@@ -161,7 +161,7 @@ Google Drive folder. Add the charter document. Review the [ACCESS
 cross-track technical coordination
 schedule](https://access-ci.atlassian.net/wiki/spaces/ACP/pages/9502721/Cross-Track+Technical+Coordination+Schedule)
 to find a good time for the first meeting and ask on the ACCESS-CI
-slack\'s ##access-wide channel if anyone is using the two most-likely
+slack\'s #access-wide channel if anyone is using the two most-likely
 options, just in case. Create a new document in the working group Google
 Drive folder for meeting agendas and notes and include the date, time,
 and coordinates for the first meeting. (It\'s helpful to keep all
@@ -171,8 +171,8 @@ meetings.)
 Finally, draft an announcement for the working group that references the
 charter, key stakeholders who you\'d like to have participate, agenda
 for the first meeting, and meeting coordinates. Post the announcement on
-the ACCESS-CI slack\'s ##access-wide channel and the ACCESS-RP
-Communications slack\'s ##general channel. If you need participation by
+the ACCESS-CI slack\'s #access-wide channel and the ACCESS-RP
+Communications slack\'s #general channel. If you need participation by
 current resource providers, ask the ACCESS Operations team to email your
 announcement to all current resource provider contacts. Now you\'re
 ready for your first working group meeting!
@@ -267,9 +267,9 @@ about your roadmap.
 
 1.  Post a link to it, including a brief blurb about what types of
     resources it\'s for, on the **ACCESS-CI** slack server\'s
-    **##access-wide** channel.
+    **#access-wide** channel.
 2.  Post the same announcement on the **RP-ACCESS Communications** slack
-    server\'s **##general** channel.
+    server\'s **#general** channel.
 3.  Post a news item on the [ACCESS Infrastructure
     News](https://operations.access-ci.org/online_services/infrastructure_news)
     publishing service. This will result in a news story in ACCESS\'s
