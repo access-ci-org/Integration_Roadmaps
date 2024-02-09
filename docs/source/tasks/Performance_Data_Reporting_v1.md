@@ -41,11 +41,11 @@ Option (3) can only be used if the resource supports ACCESS community accounts a
 
 ## Document Management
 
-**Status**: {Draft, Official, Retired}
+**Status**: Official
 
-**Official date**: 4/24/2023 \<mm/dd/yyyy\>
+**Official date**: 4/24/2023
 
-**Coordinators**: **\<name\>, \<ACCESS project\>**
+**Coordinators**: Joseph White, ACCESS Metrics
 
 **Last revised date**: 2023-02-01
 
