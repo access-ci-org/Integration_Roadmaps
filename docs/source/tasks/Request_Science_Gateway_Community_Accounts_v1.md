@@ -29,7 +29,7 @@ ticket requests through the [ACCESS ticketing system](https://access-ci.atlassia
 directed to the ACCESS Resources Providers, the ACCESS Integration Coordinator assigned can help make these requsts.
 - Navigate to the [ACCESS ticketing system](https://access-ci.atlassian.net/servicedesk/customer/portal/2) 
 - Select "ACCESS Integration and Operation Support Requests" on "What can we help you with?"
-- Select “Allocations:XRAS” on “ACCESS Operations Issue Type”
+- Select “Allocations:XRAS” on “ACCESS Operational Support Issues”
 - Select “ACCESS Resource Provider Resource” on “Infrastructure Type”
 - Select “User Support Question” on “ACCESS Support Issue”
 - Select the “ACCESS Resource Provider Resource” from the dropdown

@@ -26,7 +26,7 @@ Please track RP integration progress in [*this spreadsheet*](https://docs.google
 
 ## Support Information
 
-**Submit a Request**: Resource providers needing assistance with integration tasks can submit an *ACCESS Integration and Operation Support Request* using instructions on [*this page*](https://operations.access-ci.org/help). Pick an “*ACCESS Operations Issue Type*” that best matches your request, or the catch-all issue type “*ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps*“.
+**Submit a Request**: Resource providers needing assistance with integration tasks can submit an *ACCESS Integration and Operation Support Request* using instructions on [*this page*](https://operations.access-ci.org/help). Pick an “*ACCESS Operational Support Issues*” that best matches your request, or the catch-all issue type “*ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps*“.
 
 **Slack Discussion**: ACCESS has a Slack channel for infrastructure operators and ACCESS to discuss integration topics. For access submit a request to be invited to the ***RP-ACCESS \#integration-roadmaps*** Slack channel.
 
