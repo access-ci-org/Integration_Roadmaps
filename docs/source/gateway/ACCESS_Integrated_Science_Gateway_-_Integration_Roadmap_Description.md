@@ -43,19 +43,19 @@ Operators must perform the Required Tasks below and may perform the Optional Tas
 
 ## Integration/Operations phase(s)
 
-2. Coordination/Support: [Request Science Gateway Allocation](../tasks/Request_Science_Gateway_Allocation_v1.md)
+2. [Request Science Gateway Allocation](../tasks/Request_Science_Gateway_Allocation_v1.md)
 
-3. Coordination/Support: [Science Gateway Description](../tasks/Science_Gateway_Description_v1.md)
+3. [Science Gateway Description](../tasks/Science_Gateway_Description_v1.md)
 
-4. Coordination/Support: [Request Science Gateway Resources](../tasks/Request_Science_Gateway_Resources_v1.md)
+4. [Request Science Gateway Resources](../tasks/Request_Science_Gateway_Resources_v1.md)
 
-5. Coordination/Support: [ACCESS Affinity Groups and Science Gateways](../tasks/ACCESS_Affinity_Groups_and_Science_Gateways_v1.md)
+5. [ACCESS Affinity Groups and Science Gateways](../tasks/ACCESS_Affinity_Groups_and_Science_Gateways_v1.md)
 
-6. Coordination/Support: [Request Science Gateway Community Accounts](../tasks/Request_Science_Gateway_Community_Accounts_v1.md)
+6. [Request Science Gateway Community Accounts](../tasks/Request_Science_Gateway_Community_Accounts_v1.md)
 
-7. Coordination/Support: [Science Gateway Usage Reporting](../tasks/Science_Gateway_Usage_Reporting_v1.md)
+7. [Science Gateway Usage Reporting](../tasks/Science_Gateway_Usage_Reporting_v1.md)
 
-8. Coordination/Support: [SGX3 Services](../tasks/ACCESS_Science_Gateway_SGX3_Services_v1.md)
+8. [SGX3 Services](../tasks/ACCESS_Science_Gateway_SGX3_Services_v1.md)
 
 ## Document Management
 
