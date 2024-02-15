@@ -1,4 +1,4 @@
-# ACCESS Affinity Groups and Science Gateways v1
+# ACCESS Affinity Groups and Science Gateways
 
 Infrastructure Integration Roadmap Task
 

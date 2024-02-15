@@ -1,4 +1,4 @@
-# Request Science Gateway Allocation v1
+# Request Science Gateway Allocation
 
 Infrastructure Integration Roadmap Task
 

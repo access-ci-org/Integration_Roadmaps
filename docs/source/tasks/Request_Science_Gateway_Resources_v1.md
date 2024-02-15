@@ -1,4 +1,4 @@
-# Request Science Gateway Resources v1
+# Request Science Gateway Resources
 
 Infrastructure Integration Roadmap Task
 

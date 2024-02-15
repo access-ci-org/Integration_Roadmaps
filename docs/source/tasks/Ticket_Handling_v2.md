@@ -29,7 +29,7 @@ If your organization/RP integrated other resources or services in the past and a
 
 To request new organization/RP specific routing queues submitting an ACCESS ticket using the form listed here [*https://access-ci.atlassian.net/servicedesk/customer/portal/2/group/3/create/32*](https://access-ci.atlassian.net/servicedesk/customer/portal/2/group/3/create/32).
 
-Please use the “ACCESS Operations Issue Type” of “ACCESS-wide:Ticket system - ACCESS related ticketing system”. In response to your request an ACCESS ticket system administrator will configure the ticket system with queues for your organization/RP and inform you when they are configured. Please review the “For RP queues” and “For ACCESS awardee queues” sub-sections below for additional details on what to include in your ticket.
+Please use the “ACCESS Operational Support Issues” of “ACCESS-wide:Ticket system - ACCESS related ticketing system”. In response to your request an ACCESS ticket system administrator will configure the ticket system with queues for your organization/RP and inform you when they are configured. Please review the “For RP queues” and “For ACCESS awardee queues” sub-sections below for additional details on what to include in your ticket.
 
 #### For RP queues
 

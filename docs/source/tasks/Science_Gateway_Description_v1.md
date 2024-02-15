@@ -1,4 +1,4 @@
-# Science Gateway Description v1
+# Science Gateway Description
 
 Infrastructure Integration Roadmap Task
 
@@ -23,7 +23,7 @@ For assistance with this task see the **Support Information** section in the [In
 ## Detailed Instructions
 
 The science gateway provider must create an [Integration and Operations Request](https://operations.access-ci.org/help)
- - Set *ACCESS Operations Issue Type* to ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps 
+ - Set *ACCESS Operational Support Issues* to ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps 
  - Set *Infrastructure Information:* Science Gateway and specify the *Science gateway name*
  - Include all the details of the gateway in the summary. Please use the following template.
 
