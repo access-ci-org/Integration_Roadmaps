@@ -31,7 +31,6 @@ directed to the ACCESS Resources Providers, the ACCESS Integration Coordinator a
 - Select "ACCESS Integration and Operation Support Requests" on "What can we help you with?"
 - Select “Allocations:XRAS” on “ACCESS Operational Support Issues”
 - Select “ACCESS Resource Provider Resource” on “Infrastructure Type”
-- Select “User Support Question” on “ACCESS Support Issue”
 - Select the “ACCESS Resource Provider Resource” from the dropdown
 - Submit
 - Followup with any discussions on the ticket
