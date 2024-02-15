@@ -1,4 +1,4 @@
-# Science Gateway Description v1
+# Science Gateway Description
 
 Infrastructure Integration Roadmap Task
 

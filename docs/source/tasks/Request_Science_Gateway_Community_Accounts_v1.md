@@ -1,4 +1,4 @@
-# Request Science Gateway Community Accounts v1
+# Request Science Gateway Community Accounts
 
 Infrastructure Integration Roadmap Task
 
@@ -25,9 +25,9 @@ For assistance with this task see the **Support Information** section in the [In
 
 Community accounts are UNIX accounts on ACCESS resource providers that can be used by a science gateway’s users through
 the science gateway’s user or programming interface. Science gateway providers request community accounts in individual 
-ticket requests through the [ACCESS ticketing system](https://access-ci.atlassian.net/servicedesk/customer/portal/2) 
+ticket requests through the [ACCESS ticketing system](https://access-ci.atlassian.net/servicedesk/customer/portal/2/group/3/create/32) 
 directed to the ACCESS Resources Providers, the ACCESS Integration Coordinator assigned can help make these requsts.
-- Navigate to the [ACCESS ticketing system](https://access-ci.atlassian.net/servicedesk/customer/portal/2) 
+- Navigate to the [ACCESS ticketing system](https://access-ci.atlassian.net/servicedesk/customer/portal/2/group/3/create/32) 
 - Select "ACCESS Integration and Operation Support Requests" on "What can we help you with?"
 - Select “Allocations:XRAS” on “ACCESS Operational Support Issues”
 - Select “ACCESS Resource Provider Resource” on “Infrastructure Type”

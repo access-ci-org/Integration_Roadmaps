@@ -1,4 +1,4 @@
-# Science Gateway Usage Reporting v1
+# Science Gateway Usage Reporting
 
 Infrastructure Integration Roadmap Task
 
