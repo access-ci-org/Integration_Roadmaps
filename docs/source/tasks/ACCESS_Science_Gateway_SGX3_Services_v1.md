@@ -14,14 +14,13 @@ Work with the Science Gateways Center of Excellence (SGX3):
 **Contact Us**: Want to work with us? Request a consult, share a letter of collaboration, or ask a question by emailing <u>help@sciencegateways.org</u>.
 
 
-## Document Management
 
-**Status**: Official
-
-**Official date**: 02/01/2024
-
-**Coordinators**: Dinuka De Silva, ACCESS Operations
-
-**Last revised date**: 01/30/2024
-
-**Retired date**: NA
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Dinuka De Silva, Rob Quick</li>
+</ul>
+</sub>
+<br/>
+<br/>

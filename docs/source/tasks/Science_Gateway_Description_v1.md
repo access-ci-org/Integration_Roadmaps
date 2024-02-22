@@ -67,14 +67,13 @@ when the gateway information is published to the ACCESS website.
 ACCESS may periodically review registration information to confirm that it is correct. Gateway providers should create 
 subsequent tickets in the future to update the information.
 
-## Document Management
 
-**Status**: Official
-
-**Official date**: 02/01/2024
-
-**Coordinators**: Dinuka De Silva, ACCESS Operations
-
-**Last revised date**: 01/30/2024
-
-**Retired date**: NA
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Dinuka De Silva, Rob Quick</li>
+</ul>
+</sub>
+<br/>
+<br/>

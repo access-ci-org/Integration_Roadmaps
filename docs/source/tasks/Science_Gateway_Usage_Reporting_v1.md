@@ -29,14 +29,31 @@ The science gateway provider should follow the instructions at [*https://allocat
 
 After integration, the gateway provider should verify that usage is being correctly reported in the ACCESS XDMoD system, [*https://xdmod.access-ci.org/*](https://xdmod.access-ci.org/). The gateway provider can also use REST API calls to verify information reporting; see [*https://allocations-api.access-ci.org/acdb/*](https://allocations-api.access-ci.org/acdb/).
 
-## Document Management
+[//]: # (## Document Management)
 
-**Status**: Official
+[//]: # ()
+[//]: # (**Status**: Official)
 
-**Official date**: 4/24/2023 4/10/2023
+[//]: # ()
+[//]: # (**Official date**: 4/24/2023 4/10/2023)
 
-**Coordinators**: Rob Quick, ACCESS Operations
+[//]: # ()
+[//]: # (**Coordinators**: Rob Quick, ACCESS Operations)
 
-**Last revised date**: 4/3/2023
+[//]: # ()
+[//]: # (**Last revised date**: 4/3/2023)
 
-**Retired date**:
+[//]: # ()
+[//]: # (**Retired date**:)
+
+
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Dinuka De Silva, Rob Quick</li>
+</ul>
+</sub>
+<br/>
+<br/>
+

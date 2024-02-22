@@ -12,7 +12,7 @@ ACCESS uses affinity groups to enable communications among members of communitie
 
 ## Effort
 
-See [*https://support.access-ci.org/affinity-groups*](https://support.access-ci.org/affinity-groups) for a listing of groups and steps for joining.
+See [*https://support.access-ci.org/affinity_groups*](https://support.access-ci.org/affinity_groups) for a listing of groups and steps for joining.
 
 Science gateways may want to also create their own affinity group.
 
