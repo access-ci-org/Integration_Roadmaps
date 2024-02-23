@@ -47,14 +47,13 @@ The Integration Coordinator should enter and update their contacts in the resour
 
 The Integration Coordinator is responsible for maintaining accurate contact information in this spreadsheet and updating when gateway staff changes. We recommend that the Integration Coordinator review and correct their contacts every 6 months. This sub-task should take ~1 hour to complete initially, and ~½ hour annually to keep up-to-date.
 
-## Document Management
 
-**Status**: Official
-
-**Official date**: 4/24/2023 2/1/2023
-
-**Coordinators**: Rob Quick, ACCESS Operations
-
-**Last revised date**: 1/17/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Dinuka De Silva, Rob Quick</li>
+</ul>
+</sub>
+<br/>
+<br/>

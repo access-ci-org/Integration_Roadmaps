@@ -43,14 +43,13 @@ The science gateway provider may need to take additional, resource provider-spec
 may include, for example, providing specific IP addresses or registering SSH keys that the science gateway will use when 
 accessing the resource provider.
 
-## Document Management
 
-**Status**: Official
-
-**Official date**: 02/01/2024
-
-**Coordinators**: Dinuka De Silva, ACCESS Operations
-
-**Last revised date**: 01/30/2024
-
-**Retired date**: NA
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Dinuka De Silva, Rob Quick</li>
+</ul>
+</sub>
+<br/>
+<br/>

@@ -27,14 +27,13 @@ The exchange request may take days or longer before approved by the resource pro
 
 The science gateway provider uses standard ACCESS procedures to convert ACCESS allocation tokens to computing time or storage on target resources. The gateway provider should make sure that the resource provider supports science gateway usage, which should be included in the resource description.
 
-## Document Management
 
-**Status**: Official
-
-**Official date**: 4/24/2023 4/10/2023
-
-**Coordinators**: Rob Quick, ACCESS Operations
-
-**Last revised date**: 4/3/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Dinuka De Silva, Rob Quick</li>
+</ul>
+</sub>
+<br/>
+<br/>

@@ -1,0 +1,23 @@
+ul.document-meta-data
+{
+    list-style: none;
+
+}
+
+ul.document-meta-data li
+{
+    list-style: none;
+    display: inline;
+    margin-left: 0px !important;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-right: solid 1px black;
+}
+
+ul.document-meta-data li:first-child {
+    padding-left: 0px;
+}
+
+ul.document-meta-data li:last-child {
+    border-right: none;
+}

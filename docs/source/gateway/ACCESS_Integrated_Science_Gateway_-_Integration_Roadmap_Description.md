@@ -57,14 +57,12 @@ Operators must perform the Required Tasks below and may perform the Optional Tas
 
 8. [SGX3 Services](../tasks/ACCESS_Science_Gateway_SGX3_Services_v1.md)
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 04/24/2023 04/10/2023
-
-**Coordinators**: Rob Quick, ACCESS Operations
-
-**Last revised date**: 08/22/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Dinuka De Silva, Rob Quick</li>
+</ul>
+</sub>
+<br/>
+<br/>
