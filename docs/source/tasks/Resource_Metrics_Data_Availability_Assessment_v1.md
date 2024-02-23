@@ -31,12 +31,12 @@ If the CI resource is not collecting performance data then this should be report
 
 ## Document Management
 
-**Status**: {Draft, Official, Retired}
+**Status**: Official
 
-**Official date**: 4/24/2023 \<mm/dd/yyyy\>
+**Official date**: 4/24/2023
 
 **Coordinators**: Joseph White, ACCESS Metrics
 
 **Last revised date**: 2023-02-01
 
-**Retired date**: \<mm/dd/yyyy\> or blank
+**Retired date**:

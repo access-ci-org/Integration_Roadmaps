@@ -1,11 +1,21 @@
+---
+# Read the Docs configuration file for Sphinx projects
+# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
+
+# Required
 version: 2
 
+# Build all formats
 formats: all
 
+# See docs/requirements.txt to pin Sphinx/MkDocs to a specific version
 sphinx:
   configuration: docs/source/conf.py
   fail_on_warning: true
 
+# Optional but recommended, declare the Python requirements required
+# to build your documentation
+# See https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html
 python:
   install:
     - requirements: docs/requirements.txt
@@ -13,7 +23,7 @@ python:
 build:
   os: ubuntu-22.04
   tools:
-    python: "3.10"
+    python: "3.12"
   jobs:
     post_checkout:
       # https://docs.readthedocs.io/en/stable/build-customization.html#cancel-build-based-on-a-condition
