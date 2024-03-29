@@ -20,10 +20,6 @@ Operators must perform the Required Tasks below and may perform the Optional Tas
 
 See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1ez8qXaGhJFOhloy3dGG3OxHK4OvpaG2626eezE2A5Cg/edit?usp=share_link).
 
-This integration roadmap refactors and replaces the [*ACCESS Allocated Production Compute/Storage/Cloud v1*](https://docs.google.com/document/d/1VUTa5DOz27B6wobZZwh6gh6dcXWD30rpYovoLZ1nwqk) roadmap. Operators that completed that roadmap only need to complete corresponding tasks that were not completed in the prior roadmap.
-
-Please track RP integration progress in [*this spreadsheet*](https://docs.google.com/spreadsheets/d/1ejgGUU-IVLEhTIXX3pmCNBSJ2e0yXwXxPpgZ2RHwM4Q/). **\*NEEDS UPDATING\***
-
 ## Support Information
 
 **Submit a Request**: Resource providers needing assistance with integration tasks can submit an *ACCESS Integration and Operation Support Request* using instructions on [*this page*](https://operations.access-ci.org/help). Pick an “*ACCESS Operational Support Issues*” that best matches your request, or the catch-all issue type “*ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps*“.
