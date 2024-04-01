@@ -4,15 +4,15 @@
 
 ## Infrastructure Type(s)
 
-This roadmap integrates online services provided by ACCESS projects and their vendors / partners into the ACCESS operational environment. The roadmap is intended for online services that are visible outside a single ACCESS project, i.e. that need to be used by other ACCESS projects, resource providers, developers, or ACCESS users. Online services are accessed using a variety of network protocols suited for their function and target audience. Examples include ACCESS websites; Atlassian, GitHub, Google, and Globus services; DNS services; IAM services, and various APIs.
+This roadmap integrates online services provided by ACCESS projects and their vendors / partners into the ACCESS operational environment. The roadmap is intended for online services that are visible outside a single ACCESS project and used by other ACCESS projects, resource providers, developers, or ACCESS users. Online services are accessed using a variety of network protocols suited for their function and target audience. Examples include ACCESS websites; Atlassian, GitHub, Google, and Globus services; DNS services; IAM services, and various APIs.
 
 ## Summary
 
-This roadmap enumerates the tasks for integrating online services into the ACCESS environment for use by ACCESS users, resource providers, ACCESS projects, Science Gateways and other developers. These tasks cover all aspects of integration and operations into production, including coordination, technical integration, and ongoing support activities. The required tasks in this roadmap: describe the service so that it can be listed and discoverable in a consistent way; detail relevant ACCESS cybersecurity requirements, procedures, and best practices; provide service documentation to service users; establish service support ticketing channels; and communicate service availability changes. The optional tasksdetail ways to integrate that are available but not required.
+This roadmap enumerates the tasks for integrating online services into the ACCESS environment for use by ACCESS users, resource providers, ACCESS projects, Science Gateways and/or other developers. These tasks cover all aspects of integration and operations, including coordination, technical integration, and ongoing support activities. Optional tasks detail ways to integrate that are available but not required.
 
 ## Operator Information
 
-This roadmap was defined by ACCESS projects for use primarily by ACCESS projects. Since ACCESS projects participate in the roadmap development process they should be able to follow this integration roadmap without a hands on concierge. Operators must perform the Required Tasks below and may perform the Optional Tasks below.
+This roadmap was defined by ACCESS projects for use primarily by ACCESS projects. ACCESS projects participate in the roadmap development process and should know how to follow this integration roadmap without a hands on concierge. Operators must perform the Required Tasks below and may perform the Optional Tasks below.
 
 See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1GIdAMNlJsCRMR1W3rXnD8IsLrY7qM5DLlFaLrKzAjRo/edit#slide=id.g1f134a7d5b4_1_5).
 
