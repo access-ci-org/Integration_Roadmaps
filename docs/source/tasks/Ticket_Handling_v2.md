@@ -9,9 +9,7 @@ Infrastructure Integration Roadmap Task
 
 ## Summary
 
-**\*\*NOTE\*\* This task will be updated incrementally as the transition from Request Tracker (RT) to Jira Service Management (JSM) is completed.**
-
-ACCESS resource and online service operators will be assigned tickets for issues or questions about their resources and online services. They will monitor the ticket system for tickets assigned to them, triage them as necessary, reassign the request to other staff or organizations if necessary, address requests they are able to address, and close the request once it is resolved.
+ACCESS resource and online service operators will be assigned tickets for issues or questions about their resources and online services. In response they will monitor the ticket system for tickets assigned to them, triage them as necessary, reassign them to other staff or organizations if necessary, resolve issues, and close tickets once the request is addressed.
 
 ## Prerequisite tasks
 
@@ -21,7 +19,7 @@ ACCESS resource and online service operators will be assigned tickets for issues
 
 For assistance with this task or with using the ticket system:
 
-1.  Open an *ACCESS Integration and Operation Support Request* using the instructions on [*this page*](https://operations.access-ci.org/help)
+1.  Open an *ACCESS Integration and Operation Support Request* using using [*this page*](https://operations.access-ci.org/open-operations-request)
 
 2.  In the new ticket form select the “*ACCESS Operational Support Issues*” type “*ACCESS-wide: Ticket System - ACCESS-related Ticketing Systems*“
 
@@ -31,9 +29,7 @@ For assistance with this task or with using the ticket system:
 
 If your organization/RP integrated other resources or services in the past and already has ticket routing queues, you can use those for new resources and you will not need to request new ones.
 
-To request new organization/RP specific routing queues submitting an ACCESS ticket using the form listed here [*https://access-ci.atlassian.net/servicedesk/customer/portal/2/group/3/create/32*](https://access-ci.atlassian.net/servicedesk/customer/portal/2/group/3/create/32).
-
-Please use the “ACCESS Operational Support Issues” of “ACCESS-wide:Ticket system - ACCESS related ticketing system”. In response to your request an ACCESS ticket system administrator will configure the ticket system with queues for your organization/RP and inform you when they are configured. Please review the “For RP queues” and “For ACCESS awardee queues” sub-sections below for additional details on what to include in your ticket.
+To request new organization/RP specific routing queues open an *ACCESS Integration and Operation Support Request* as described above. A ticket system administrator will configure the ticket system with queues for your organization/RP and inform you when they are configured. Please review the “For RP queues” and “For ACCESS awardee queues” sub-sections below for additional details on what to include in your ticket.
 
 #### For RP queues
 
@@ -75,16 +71,14 @@ The default assignee or anyone with update access to tickets in the queue should
 
 If the ticket was assigned to the correct queue, they may reassign it to anyone else in their organization with ticket system access, or retain ownership of the ticket.
 
-FOr more details please see the documementation [*https://access-ci.atlassian.net/wiki/spaces/ATSupport/overview*](https://access-ci.atlassian.net/wiki/spaces/ATSupport/overview)
+Fr more details please see the documementation [*https://access-ci.atlassian.net/wiki/spaces/ATSupport/overview*](https://access-ci.atlassian.net/wiki/spaces/ATSupport/overview)
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023 3/24/2023
-
-**Coordinators**: JP Navarro, ACCESS Operations; Alana Romanella, ACCESS Support
-
-**Last revised date**: 4/5/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong>: Production</li>
+    <li><strong>Version</strong>: v2</li>
+    <li><strong>Task Expert(s)</strong>: Dinuka DeSilva, ACCESS Operations; Alana Romanella, ACCESS Support</li>
+</ul>
+</sub>
+<br/>
+<br/>
