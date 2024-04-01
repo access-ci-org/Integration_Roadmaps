@@ -19,7 +19,11 @@ ACCESS resource and online service operators will be assigned tickets for issues
 
 ## Support Information
 
-For assistance with this task or with using the ticket system please open an *ACCESS Integration and Operation Support Request* using the instructions on [*this page*](https://operations.access-ci.org/help). In the new ticket form pick the “*ACCESS Operational Support Issues*” value of “*ACCESS-wide: Ticket System - ACCESS-related Ticketing Systems*“.
+For assistance with this task or with using the ticket system:
+
+1.  Open an *ACCESS Integration and Operation Support Request* using the instructions on [*this page*](https://operations.access-ci.org/help)
+
+2.  In the new ticket form select the “*ACCESS Operational Support Issues*” type “*ACCESS-wide: Ticket System - ACCESS-related Ticketing Systems*“
 
 ## Detailed Instructions
 
