@@ -49,14 +49,12 @@ To request a site/staff allocation for your site, follow the standard allocation
 
 13. Once you see that Opportunity, click on the button that says “SUBMIT AN (Opportunity) ACCESS REQUEST”
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023 \<mm/dd/yyyy\>
-
-**Coordinators**: Nathan Tolber & Ken Hackworth, ACCESS Allocations
-
-**Last revised date**: 3/1/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong>: Production</li>
+    <li><strong>Version</strong>: v1</li>
+    <li><strong>Task Expert(s)</strong>: Nathan Tolber & Ken Hackworth, ACCESS Allocations</li>
+</ul>
+</sub>
+<br/>
+<br/>

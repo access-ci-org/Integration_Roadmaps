@@ -47,14 +47,12 @@ Online services with their own web sites may publish their documentation through
 
 See the [*Infrastructure Description task*](Infrastructure_Description_v2.md) for how to record the documentation URL in the CiDeR online service description.
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023 04/10/2023
-
-**Coordinators**: JP Navarro, ACCESS Operations
-
-**Last revised date**: 04/04/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong>: Production</li>
+    <li><strong>Version</strong>: v1</li>
+    <li><strong>Task Expert(s)</strong>: JP Navarro, ACCESS Operations</li>
+</ul>
+</sub>
+<br/>
+<br/>

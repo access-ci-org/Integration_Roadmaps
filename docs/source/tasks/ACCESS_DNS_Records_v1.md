@@ -23,14 +23,12 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ACCESS projects, integrated resources, and central service operators may request DNS entries or DNS subdomains by submitting a ticket using a Subject that starts with “ACCESS DNS entries for …” using the [*Support Portal ticket form*](https://support.access-ci.org/open-a-ticket). On the ticket form please select “Not related to a resource” (since your request is to ACCESS Operations and not to a resource operator), select “No” for allocations related, and the “Operations Services” category.
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023 04/01/2023
-
-**Coordinators**: Kathy Benninger and Matthew Kollross, ACCESS Operations
-
-**Last revised date**: 03/15/2023
-
-**Retired date**: \<mm/dd/yyyy\> or blank
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong>: Production</li>
+    <li><strong>Version</strong>: v1</li>
+    <li><strong>Task Expert(s)</strong>: Kathy Benninger and Matthew Kollross, ACCESS Operations</li>
+</ul>
+</sub>
+<br/>
+<br/>
