@@ -19,11 +19,21 @@ None
 
 For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
-\<REPLACE the above boilerplate sentence if you want a different operator support process for this task\>
+The [RP Forum By Laws](https://drive.google.com/file/d/1s1jfE3CzI46y2tE6ZbS89HM6Tc5xQ7_8/view) are also available for review.
+
+Article 3 is the relevant section for RP Forum application.
+
+These instructions for ACCESS-integrated RPs are also listed in the next section.
 
 ## Detailed Instructions
 
-The PI, co-PI, or Resource Integration Coordinator submit a request to join the RP Forum to Eva Siegmann \<eva.siegmann@stonybrook.edu\> and include relevant NSF grant numbers, the organization name, a brief description of the resource and its relevance to the community, and the names, email addresses, and roles of the person(s) that will participate in the RP Forum and receive RP Forum emails.
+The PI, co-PI, or Resource Integration Coordinator submit a request to join the RP Forum to Jeremy Fischer \<jeremy@iu.edu\> and copy Nicole Wolter \<nickel@sdsc.edu\> and include:
+
+* Relevant NSF grant numbers
+* The organization name
+* The resource name
+* A brief description of the resource and its relevance to the community
+* The names, email addresses, and roles of the person(s) that will participate in the RP Forum and receive RP Forum emails.
 
 Within 2 weeks you will receive a response from the RP Forum Coordinator, and the designated RP Forum participants will start receiving RP Forum meeting invites and other communications through an RP Forum email list.
 
@@ -33,8 +43,8 @@ Within 2 weeks you will receive a response from the RP Forum Coordinator, and th
 
 **Official date**: 4/24/2023 2023/02/01
 
-**Coordinators**: Eva Siegmann, RP Forum Coordinator
+**Coordinators**: Jeremy Fischer, RP Forum Chair & Nicole Wolter, RP Forum Vice-Chair
 
-**Last revised date**: 2023/11/01
+**Last revised date**: 2024/03/28
 
 **Retired date**:
