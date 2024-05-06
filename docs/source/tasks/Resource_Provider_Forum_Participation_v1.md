@@ -37,14 +37,12 @@ The PI, co-PI, or Resource Integration Coordinator submit a request to join the 
 
 Within 2 weeks you will receive a response from the RP Forum Coordinator, and the designated RP Forum participants will start receiving RP Forum meeting invites and other communications through an RP Forum email list.
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023 2023/02/01
-
-**Coordinators**: Jeremy Fischer, RP Forum Chair & Nicole Wolter, RP Forum Vice-Chair
-
-**Last revised date**: 2024/03/28
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Jeremy Fischer, RP Forum Chair & Nicole Wolter, RP Forum Vice-Chair</li>
+</ul>
+</sub>
+<br/>
+<br/>

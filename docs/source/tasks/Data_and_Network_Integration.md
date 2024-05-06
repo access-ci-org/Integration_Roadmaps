@@ -91,16 +91,14 @@ The supported file transfer applications for ACCESS are currently scp, sftp, rsy
 
 Globus requires specific system, application, and (potentially) hardware configuration. Please see the ACCESS CONECT document [**Deploy Globus Endpoint**](Deploy_Globus_Endpoint_v1.md) for detailed guidance.
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023 \<mm/dd/yyyy\>
-
-**Coordinators**: Kathy Benninger, ACCESS Operations
-
-**Last revised date**: 3/11/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Kathy Benninger, ACCESS Operations</li>
+</ul>
+</sub>
+<br/>
+<br/>
 
 [1] If jumbo frames are not configured, Path MTU Discovery must be enabled across the end-to-end path.

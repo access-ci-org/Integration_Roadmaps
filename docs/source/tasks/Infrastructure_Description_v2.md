@@ -131,14 +131,12 @@ Page 16 of the CiDeR Manual has instructions for entering a “conversion factor
 
 Information in CiDeR must be kept up to date and reviewed for accuracy at least yearly.
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023 2/15/2023
-
-**Coordinators**: JP Navarro, ACCESS Operations; Nathan Tolbert, ACCESS Allocations
-
-**Last revised date**: 2/3/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : JP Navarro, ACCESS Operations; Nathan Tolbert, ACCESS Allocations</li>
+</ul>
+</sub>
+<br/>
+<br/>

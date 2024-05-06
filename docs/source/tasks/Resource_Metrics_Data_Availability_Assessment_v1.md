@@ -29,14 +29,12 @@ If the CI resource is already collecting performance data (or data collection is
 
 If the CI resource is not collecting performance data then this should be reported to the ACCESS Metrics team via the Support Contact and we will start the discussion about what are the appropriate performance metrics to collect and the most efficient mechanism used to collect this. For traditional HPC resources, performance data collection is typically achieved by running monitoring software on the compute nodes. Examples of such software include [*tacc_stats*](https://github.com/TACC/tacc_stats), [*Performance Co-Pilot*](https://pcp.io/) [*Prometheus*](https://prometheus.io/) or [*Ganglia*](http://ganglia.sourceforge.net/). ACCESS Metrics can provide guidance and recommendations for the most appropriate tool for the task. ACCESS Metrics team members maintain the [*tacc_stats*](https://github.com/TACC/tacc_stats) software and can provide expert assistance with integration. ACCESS Metrics supports [*Performance Co-Pilot*](https://pcp.io/) and [*Prometheus*](https://prometheus.io/) for Open XDMoD and can also provide assistance with install and configuration.
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023
-
-**Coordinators**: Joseph White, ACCESS Metrics
-
-**Last revised date**: 2023-02-01
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Joseph White, ACCESS Metrics</li>
+</ul>
+</sub>
+<br/>
+<br/>

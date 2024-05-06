@@ -27,14 +27,12 @@ The AMIE documentation also contains information about the Usage Reporting API. 
 
 The RP will be expected to maintain a technical contact with the Allocations team, to be able to respond to technical questions or error reports, or to adjust the client implementation as needed in the future.
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023 1/23/2023
-
-**Coordinators**: Nathan Tolber & Rob Light, ACCESS Allocations
-
-**Last revised date**: 1/23/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Nathan Tolber & Rob Light, ACCESS Allocations</li>
+</ul>
+</sub>
+<br/>
+<br/>

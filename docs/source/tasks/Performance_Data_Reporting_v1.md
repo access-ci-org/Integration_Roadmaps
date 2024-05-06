@@ -39,14 +39,12 @@ If option (2) is chosen then the RP should provide an ssh public key and a prefe
 
 Option (3) can only be used if the resource supports ACCESS community accounts and the “Community User xdtas” is authorized. In this case the xdtas account must have read permissions on the low-level performance data files. ACCESS Metrics will manage the periodic transfers.
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023
-
-**Coordinators**: Joseph White, ACCESS Metrics
-
-**Last revised date**: 2023-02-01
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Joseph White, ACCESS Metrics</li>
+</ul>
+</sub>
+<br/>
+<br/>

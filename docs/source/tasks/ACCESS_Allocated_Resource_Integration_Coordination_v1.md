@@ -67,14 +67,13 @@ The Integration Coordinator is responsible for maintaining accurate contact info
 
 ACCESS Integration Roadmaps task lists which RP staff contacts normally perform that task.
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023 2/1/2023
-
-**Coordinators**: JP Navarro, ACCESS Operations
-
-**Last revised date**: 1/17/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : JP Navarro, ACCESS Operations
+    </li>
+</ul>
+</sub>
+<br/>
+<br/>

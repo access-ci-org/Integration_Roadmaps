@@ -124,15 +124,12 @@ Some additional links that may be of benefit to RPs:
 
 Thank you for providing your essential expertise and assistance to the ACCESS ecosystem!
 
-
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023 1/23/2023
-
-**Coordinators**: Ken Hackworth, ACCESS Allocations
-
-**Last revised date**: 6/8/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Ken Hackworth, ACCESS Allocations</li>
+</ul>
+</sub>
+<br/>
+<br/>
