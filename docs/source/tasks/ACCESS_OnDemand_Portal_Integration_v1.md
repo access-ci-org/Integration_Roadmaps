@@ -42,10 +42,6 @@ For assistance with this task see the *Support Information* section in the *Inte
 
             - Your OnDemand Portal URL.
 
-    - With Operations
-
-        - Please visit [*https://operations.access-ci.org/pub/for_operators*](https://operations.access-ci.org/pub/for_operators)
-
 3. Install and set up the `xdmod-ondemand-export` Python script (following its [README](https://github.com/ubccr/xdmod-ondemand/tree/main/tools/xdmod-ondemand-export#xdmod-ondemand-export)) for sending OnDemand log data via HTTPS POST to the ACCESS Metrics team for inclusion in [ACCESS XDMoD](https://xdmod.access-ci.org/).
 
 ### Optional
