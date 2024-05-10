@@ -43,11 +43,11 @@ Requirements for this review are driven by ACCESS community policies, listed bel
 
 6.  ACCESS Disaster Recovery Policy (Under Development)
 
-7.  [*ACCESS Privacy Policy*](https://docs.google.com/document/d/1jo-Sl5P9m0Xwyd6d1Ntqf4Wtefw5nlYBBgrst9SfAXM/edit)
+7.  [*ACCESS Privacy Policy*](https://access-ci.org/privacy-policy/)
 
 8.  [*ACCESS Incident Response Policy*](https://docs.google.com/document/d/1PMlZx40W0XF5NHlBkuPv1JAW7Fc2Fm__1JvIBZUaEQw)
 
-9.  [*ACCESS Acceptable Use Policy*](https://docs.google.com/document/d/1LiWUmN3YRTPOd1u3CODRdeK87VLV_md4nEj-Ehqinls)
+9.  [*ACCESS Acceptable Use Policy*](https://access-ci.org/acceptable-use/)
 
 10. [*ACCESS Security Standards*](https://docs.google.com/document/d/1NX95bkuvsdXo1fvGvyTzwGJ7Lx3BeC51luue-ddtkPE/edit)
 
