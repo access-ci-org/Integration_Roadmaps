@@ -61,14 +61,12 @@ Requirements for this review are driven by ACCESS community policies, listed bel
 
 4.  Make any local security and privacy policies available and easy to find for ACCESS users who may be running jobs on their systems. For example Acceptable Use, Incident Response, etc.
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023
-
-**Coordinators**: Derek Simmel & Shane Filus, CONECT Cybersecurity Program
-
-**Last revised date**: 07/13/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Derek Simmel & Shane Filus, CONECT Cybersecurity Program</li>
+</ul>
+</sub>
+<br/>
+<br/>

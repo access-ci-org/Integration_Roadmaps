@@ -43,14 +43,12 @@ Submit an ACCESS ticket using the [*Support Portal ticket form*](https://support
 
 You will receive a response from ACCESS CONECT Cybersecurity Group indicating that the individuals have been added to the ACCESS ACCESS Incident Response Trust Group (AIRTG) and the secure communication channels outlined in the effort section above.
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023
-
-**Coordinators**: Derek Simmel & Shane Filus, CONECT Cybersecurity Program
-
-**Last revised date**: 07/13/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Derek Simmel & Shane Filus, CONECT Cybersecurity Program</li>
+</ul>
+</sub>
+<br/>
+<br/>

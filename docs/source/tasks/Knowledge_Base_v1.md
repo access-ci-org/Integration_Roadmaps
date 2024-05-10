@@ -47,14 +47,12 @@ Please submit news items via the ASP Portal. You will see a box on the right sid
 
 Please submit events via the ASP Portal. This link will take you to a listing of all events in a calendar format. You will see a box on the right side that says *“Posting Events, Do you have events or training you would like to share with the ACCESS community?”* which will take you to a page that asks for specific details of your event you would like to post. This can also be shared with your Affinity group. You will need to be signed-in to ACCESS to submit.
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023 01/27/2023
-
-**Coordinators**: Alana Romanella, ACCESS Support
-
-**Last revised date**: 01/27/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Alana Romanella, ACCESS Support</li>
+</ul>
+</sub>
+<br/>
+<br/>
