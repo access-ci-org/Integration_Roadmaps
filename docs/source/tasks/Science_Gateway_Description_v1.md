@@ -24,7 +24,7 @@ For assistance with this task see the **Support Information** section in the [In
 
 The science gateway provider must create an [Integration and Operations Request](https://operations.access-ci.org/help)
  - Set *ACCESS Operational Support Issues* to ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps 
- - Set *Infrastructure Information:* Science Gateway and specify the *Science gateway name*
+ - Set *Infrastructure Type:* Science Gateway and specify the *Science gateway name*
  - Include all the details of the gateway in the description. Please use the following template.
 
 ```md
