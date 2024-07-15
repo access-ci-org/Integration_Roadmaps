@@ -69,9 +69,9 @@ ACCESS Integration Roadmaps task lists which RP staff contacts normally perform 
 
 <sub>
 <ul class="document-meta-data">
-    <li><strong>Status</strong> : Production</li>
-    <li><strong>Version</strong> : v1</li>
-    <li><strong>Task Expert(s)</strong> : JP Navarro, ACCESS Operations
+    <li><strong>Status</strong>: Production</li>
+    <li><strong>Version</strong>: v1</li>
+    <li><strong>Task Expert(s)</strong>: JP Navarro, ACCESS Operations
     </li>
 </ul>
 </sub>

@@ -27,9 +27,9 @@ Install, configure, and run IPF per these instructions:
 
 <sub>
 <ul class="document-meta-data">
-    <li><strong>Status</strong> : Production</li>
-    <li><strong>Version</strong> : v2</li>
-    <li><strong>Task Expert(s)</strong> : Eric Blau & JP Navarro, ACCESS Operations</li>
+    <li><strong>Status</strong>: Production</li>
+    <li><strong>Version</strong>: v2</li>
+    <li><strong>Task Expert(s)</strong>: Eric Blau & JP Navarro, ACCESS Operations</li>
 </ul>
 </sub>
 <br/>

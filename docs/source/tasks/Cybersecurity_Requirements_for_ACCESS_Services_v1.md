@@ -35,7 +35,7 @@ For assistance with this task see the *Support Information* section in the *Inte
 <ul class="document-meta-data">
     <li><strong>Status</strong>: Production</li>
     <li><strong>Version</strong>: v1</li>
-    <li><strong>Task Expert(s)</strong>: Derek Simmel & Shane Filus, Operations Cybersecurity</li>
+    <li><strong>Task Expert(s)</strong>: Derek Simmel & Shane Filus, Operations CyberSecurity</li>
 </ul>
 </sub>
 <br/>

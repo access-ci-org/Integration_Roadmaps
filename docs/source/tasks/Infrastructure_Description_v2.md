@@ -133,9 +133,9 @@ Information in CiDeR must be kept up to date and reviewed for accuracy at least 
 
 <sub>
 <ul class="document-meta-data">
-    <li><strong>Status</strong> : Production</li>
-    <li><strong>Version</strong> : v1</li>
-    <li><strong>Task Expert(s)</strong> : JP Navarro, ACCESS Operations; Nathan Tolbert, ACCESS Allocations</li>
+    <li><strong>Status</strong>: Production</li>
+    <li><strong>Version</strong>: v1</li>
+    <li><strong>Task Expert(s)</strong>: JP Navarro, ACCESS Operations; Nathan Tolbert, ACCESS Allocations</li>
 </ul>
 </sub>
 <br/>

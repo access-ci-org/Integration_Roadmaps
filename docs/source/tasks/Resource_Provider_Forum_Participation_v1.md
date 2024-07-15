@@ -39,9 +39,9 @@ Within 2 weeks you will receive a response from the RP Forum Coordinator, and th
 
 <sub>
 <ul class="document-meta-data">
-    <li><strong>Status</strong> : Production</li>
-    <li><strong>Version</strong> : v1</li>
-    <li><strong>Task Expert(s)</strong> : Jeremy Fischer, RP Forum Chair & Nicole Wolter, RP Forum Vice-Chair</li>
+    <li><strong>Status</strong>: Production</li>
+    <li><strong>Version</strong>: v1</li>
+    <li><strong>Task Expert(s)</strong>: Jeremy Fischer, RP Forum Chair & Nicole Wolter, RP Forum Vice-Chair</li>
 </ul>
 </sub>
 <br/>
