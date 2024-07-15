@@ -58,14 +58,12 @@ For assistance with this task see the *Support Information* section in the *Inte
     OSC provides a [ACCESS Menu](https://github.com/OSC/bc_access_menu) package with documentation
     on how to install additional packages or configure OnDemand to show this new ACCESS menu.
 
-## Document Management
-
-**Status**: Final
-
-**Official date**: 4/24/2023 03/16/2023
-
-**Coordinators**: Jeff Ohrstrom, ACCESS Support
-
-**Last revised date**: 10/18/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Jeff Ohrstrom, ACCESS Support</li>
+</ul>
+</sub>
+<br/>
+<br/>

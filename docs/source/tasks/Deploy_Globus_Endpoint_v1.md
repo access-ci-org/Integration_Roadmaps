@@ -103,17 +103,15 @@ After your Globus endpoint is set up and configured, you should evaluate the per
 
 To evaluate whether your endpoint is performing as expected or not, the simplest method would be to repeat a variety of transfers from the test endpoints to your new endpoint (or vice-versa, with write-enabled test endpoints). **Hint:** You can use Globus’s [*Timer feature*](https://www.globus.org/blog/scheduled-and-recurring-transfers-now-available-globus-web-app) to schedule a transfer to repeat at preset intervals and collect the results later from the [*Timers tab on the Activity page*](https://app.globus.org/activity/timers). Set multiple timers with different endpoints and reference datasets and compare results.
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023 2/15/2023
-
-**Coordinators**: Lee Liming, ACCESS Operations
-
-**Last revised date**: 2/3/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Lee Liming, ACCESS Operations</li>
+</ul>
+</sub>
+<br/>
+<br/>
 
 [^1]: Globus has a secondary data access mode, guest collections, which does not require local accounts. Guest collections are discussed in ACCESS’s Globus Connect Server install guidance, but are at a level of detail beneath what this roadmap discusses.
 

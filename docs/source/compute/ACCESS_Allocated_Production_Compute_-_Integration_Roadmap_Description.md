@@ -82,14 +82,12 @@ See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1Vt
 
 20. Technology: [Performance Data reporting v1](../tasks/Performance_Data_Reporting_v1.md)
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 04/24/2023
-
-**Coordinators**: Jess Haney, ACCESS Operations
-
-**Last revised date**: 08/22/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Jess Haney, ACCESS Operations</li>
+</ul>
+</sub>
+<br/>
+<br/>

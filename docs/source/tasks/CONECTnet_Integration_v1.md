@@ -39,14 +39,12 @@ Is this tied to CONECTnet Integration?
 
 - DNS is being provided by CONECTnet for access-ci.org
 
-## Document Management
-
-**Status**: Official
-
-**Official date**: 4/24/2023 03/15/2023
-
-**Coordinators**: Kathy Benninger and David Wheeler, ACCESS Operatons
-
-**Last revised date**: 03/09/2023
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Kathy Benninger and David Wheeler, ACCESS Operations</li>
+</ul>
+</sub>
+<br/>
+<br/>
