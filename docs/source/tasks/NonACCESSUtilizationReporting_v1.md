@@ -219,6 +219,6 @@ To setup Globus Transfer, please provide the name or names of the globus account
 
 **Coordinators**: **Joseph White, ACCESS Metrics**
 
-**Last revised date**: 2023-09-15
+**Last revised date**: 2024-07-31
 
 **Retired date**:
