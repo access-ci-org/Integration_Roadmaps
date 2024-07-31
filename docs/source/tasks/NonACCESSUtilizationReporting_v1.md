@@ -61,9 +61,10 @@ the Globus Transfer mechanism is more appropriate for large file transfers (but 
 ### REST data transfer
 
 To send data to ACCESS via REST you need an API Token. We will generate one and
-email it to you. The token should be saved in a file with the following
-contents, replacing `TOKEN` with your token, and setting permissions so only
-the file owner can read it:
+email it to you. The token should be saved in a file on the system from which
+the files will be sent. The token file should have the following contents,
+replacing `TOKEN` with your token, and setting permissions so only the file
+owner can read it:
 
 ```
 Authorization: Bearer TOKEN
