@@ -230,11 +230,11 @@ while [[ "$date" < "$end_date_exclusive_formatted" ]]; do
         --starttime ${date}T00:00:00 --endtime ${date}T23:59:59 \
         > $file
     response=$(curl -s -H @"$token_file" -F file=@$file $url)
+    rm -f $file
     if [ "$response" != '{"status":"success"}' ]; then
         echo $response >&2
         exit 1
     fi
-    rm -f $file
     date=$(date -d "$date + 1 day" $date_format)
 done
 ```
