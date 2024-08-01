@@ -229,9 +229,11 @@ while [[ "$date" < "$end_date_exclusive_formatted" ]]; do
         --allclusters --allusers \
         --starttime ${date}T00:00:00 --endtime ${date}T23:59:59 \
         > $file
-    curl -H @"$token_file" -F file=@$file $url
-    # Print a newline for readability since the response doesn't include one.
-    echo ''
+    response=$(curl -s -H @"$token_file" -F file=@$file $url)
+    if [ "$response" != '{"status":"success"}' ]; then
+        echo $response >&2
+        exit 1
+    fi
     rm -f $file
     date=$(date -d "$date + 1 day" $date_format)
 done
