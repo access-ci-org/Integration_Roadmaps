@@ -86,38 +86,53 @@ at the top for information on usage.
 #!/bin/bash
 
 ###############################################################################
-# Send sacct logs via cURL HTTPS POST requests to the XDMoD team at the       #
-# University at Buffalo Center for Computational Research (CCR).              #
-#                                                                             #
-# By default, sends a log of yesterday's jobs.                                #
-#                                                                             #
-# - The default number of days to send is 1, can be changed with the -n       #
-#   option, and must be an integer.                                           #
-# - The default start date of logs to send is today minus the number of       #
-#   days to send. A different start date can be set via the -s option and can #
-#   be in any format recognized by the command `date -d`. The latest day of   #
-#   logs that can be sent is yesterday; thus, start date plus number of days  #
-#   to send must not be greater than today.                                   #
-#                                                                             #
-# Requires an API token provided by the XDMoD team at CCR. A file should be   #
-# created with the following contents, replacing TOKEN with the token, and    #
-# only the user running this script should have read permissions to it:       #
-#                                                                             #
-#     Authorization: Bearer TOKEN                                             #
-#                                                                             #
-# This script will look for the token file at ~/.xdmod-ccr-api-token          #
-# The path to the token file can be changed with the -t option.               #
-#                                                                             #
-# A temporary directory will be created at /tmp/post-sacct-to-ccr, and        #
-# temporary files will be created in that directory, sent, and then deleted.  #
-# The temporary directory path can be changed with the -d option.             #
-#                                                                             #
-# If you have any questions, comments, or concerns, you can contact the XDMoD #
-# team the following ways:                                                    #
-# - For ACCESS RPs, please create a ticket at                                 #
-#   https://support.access-ci.org/open-a-ticket and for the "ACCESS User      #
-#   Support Issue," choose "XDMOD Question."                                  #
-# - Otherwise, please send email to ccr-xdmod-help@buffalo.edu                #
+# Send sacct logs via cURL HTTPS POST requests to the XDMoD team at the
+# University at Buffalo Center for Computational Research (CCR).
+#
+# By default, this script sends a log of yesterday's jobs.
+#
+# The days to send can be specified via the options:
+#     -s (start date, inclusive)
+#     -e (end date, inclusive)
+#     -n (day count)
+# as follows:
+#     - If only -e is specified, only that day's logs will be sent.
+#     - If only -s is specified, logs will be sent from that day through
+#       yesterday, inclusive.
+#     - If only -n is specified, logs will be sent from that many days ago
+#       through yesterday, inclusive.
+#     - If both -s and -e are specified, logs will be sent from the start
+#       date through the end date, inclusive.
+#     - If both -s and -n are specified, the number of days will be sent
+#       starting from the start date, inclusive.
+#     - If both -e and -n are specified, the number of days will be sent
+#       ending on the end date, inclusive.
+#     - If all three options are specified, an error is thrown.
+#
+# The -s and -e options can be in any format recognized by the command
+# `date -d`. The -n option must be an integer. The latest day that can be
+# sent is yesterday; attempting to send a later date will throw an error.
+#
+# This script requires an API token provided by the XDMoD team at CCR. A file
+# should be created with the following contents, replacing TOKEN with the
+# token, and only the user running this script should have read permissions to
+# it:
+#
+#     Authorization: Bearer TOKEN
+#
+# This script will look for the token file at ~/.xdmod-ccr-api-token
+# The path to the token file can be changed with the -t option.
+#
+# A temporary directory will be created at /tmp/post-sacct-to-ccr, and
+# temporary files will be created in that directory, sent, and then deleted.
+# The temporary directory path can be changed with the -d option.
+#
+# If you have any questions, comments, or concerns, you can contact the XDMoD
+# team the following ways:
+# - For ACCESS RPs, please create a ticket at
+#   https://support.access-ci.org/open-a-ticket and for the "ACCESS User
+#   Support Issue," choose "XDMOD Question."
+# - Otherwise, please send email to ccr-xdmod-help@buffalo.edu
 ###############################################################################
 
 # Exit if any command fails.
@@ -127,10 +142,13 @@ script_name='post-sacct-to-ccr.sh'
 url='https://data.ccr.xdmod.org/resource-manager-logs'
 
 # Parse arguments.
-while getopts ':n:s:t:d:' opt; do
+while getopts ':s:e:n:t:d:' opt; do
     case $opt in
         s)
             start_date="$OPTARG"
+            ;;
+        e)
+            end_date="$OPTARG"
             ;;
         n)
             day_count="$OPTARG"
@@ -153,22 +171,40 @@ while getopts ':n:s:t:d:' opt; do
 done
 
 # Validate arguments.
-if [ -z "$day_count" ]; then
-    day_count=1
-fi
-if [[ ! "$day_count" =~ ^[0-9]+$ || "$day_count" -lt 1 ]]; then
-    echo "$script_name: day count must be a positive integer" >&2
+if [ -n "$day_count" ] && [ -n "$start_date" ] && [ -n "$end_date" ]; then
+    echo "$script_name: it is invalid to specify all of -n, -s, and -e" >&2
     exit 1
 fi
-if [ -z "$start_date" ]; then
-    start_date=$(date -d "$day_count days ago")
+date_format='+%Y-%m-%d'
+if [ -n "$day_count" ]; then
+    if [[ ! "$day_count" =~ ^[0-9]+$ || "$day_count" -lt 1 ]]; then
+        echo "$script_name: day count must be a positive integer" >&2
+        exit 1
+    fi
+    if [ -n "$start_date" ]; then
+        start_date_inclusive_formatted=$(date -d "$start_date" $date_format)
+        end_date="$start_date_inclusive_formatted + $day_count days - 1 days"
+    fi
 fi
-date_format=+'%Y-%m-%d'
-start_date=$(date -d "$start_date" $date_format)
-end_date=$(date -d "$start_date + $day_count days" $date_format)
-today=$(date $date_format)
-if [[ "$end_date" > "$today" ]]; then
-    echo "$script_name: day count too large, start date ($start_date) plus number of days ($day_count) would go past yesterday" >&2
+if [ -z "$start_date" ] && [ -z "$end_date" ]; then
+    end_date='-1 day'
+fi
+end_date_inclusive_formatted=$(date -d "$end_date" $date_format)
+end_date_exclusive_formatted=$(date -d "$end_date_inclusive_formatted + 1 day" $date_format)
+if [ -n "$day_count" ] && [ -z "$start_date" ]; then
+    start_date="$end_date_exclusive_formatted - $day_count days"
+fi
+if [ -z "$start_date" ]; then
+    start_date=$end_date_inclusive_formatted
+fi
+start_date_inclusive_formatted=$(date -d "$start_date" $date_format)
+yesterday=$(date -d '-1 day' $date_format)
+if [[ "$end_date_inclusive_formatted" > "$yesterday" ]]; then
+    echo "$script_name: end date cannot be greater than yesterday" >&2
+    exit 1
+fi
+if [[ "$start_date_inclusive_formatted" > "$end_date_inclusive_formatted" ]]; then
+    echo "$script_name: start date cannot be after end date" >&2
     exit 1
 fi
 if [ -z "$token_file" ]; then
@@ -186,8 +222,8 @@ fi
 mkdir -p $tmp_dir
 
 # For each day, create, send, and delete the log file.
-date=$start_date
-while [[ "$date" < "$end_date" ]]; do
+date=$start_date_inclusive_formatted
+while [[ "$date" < "$end_date_exclusive_formatted" ]]; do
     file=$tmp_dir/$date.json
     TZ=UTC sacct --duplicates --json --noheader \
         --allclusters --allusers \
