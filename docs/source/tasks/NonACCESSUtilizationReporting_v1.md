@@ -83,13 +83,11 @@ An example Bash script for sending `sacct` logs is shown below. See the comment
 at the top for information on usage.
 
 ```bash
-post-sacct-to-ccr.sh:
-```
-
-```bash
 #!/bin/bash
 
 ###############################################################################
+# post-sacct-to-ccr.sh
+#
 # Send sacct logs via cURL HTTPS POST requests to the XDMoD team at the
 # University at Buffalo Center for Computational Research (CCR).
 #
