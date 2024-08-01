@@ -83,6 +83,10 @@ An example Bash script for sending `sacct` logs is shown below. See the comment
 at the top for information on usage.
 
 ```bash
+post-sacct-to-ccr.sh:
+```
+
+```bash
 #!/bin/bash
 
 ###############################################################################
