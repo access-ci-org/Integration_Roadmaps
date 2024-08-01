@@ -200,7 +200,7 @@ fi
 start_date_inclusive_formatted=$(date -d "$start_date" $date_format)
 yesterday=$(date -d '-1 day' $date_format)
 if [[ "$end_date_inclusive_formatted" > "$yesterday" ]]; then
-    echo "$script_name: end date cannot be greater than yesterday" >&2
+    echo "$script_name: end date cannot be after yesterday" >&2
     exit 1
 fi
 if [[ "$start_date_inclusive_formatted" > "$end_date_inclusive_formatted" ]]; then
