@@ -22,7 +22,7 @@ See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1YU
 
 ## Support Information
 
-**Submit a Request**: Resource providers needing assistance with integration tasks can submit an *ACCESS Integration and Operation Support Request* using instructions on [*this page*](https://operations.access-ci.org/help). Pick an “*ACCESS Operational Support Issues*” that best matches your request, or the catch-all issue type “*ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps*“.
+**Submit a Request**: Resource providers needing assistance with integration tasks can submit an *ACCESS Integration and Operation Support Request* using instructions on [*this page*](https://operations.access-ci.org/open-operations-request/). Make certain “*ACCESS Integration and Operation Support Request*” is selected from the drop-down menu near the top of that page. Lower on the page, select the item from the "ACCESS Operational Support Issues" menu that best matches your request or choose the catch-all issue type “*ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps*“.
 
 **Slack Discussion**: ACCESS has a Slack channel for infrastructure operators and ACCESS to discuss integration topics. For access submit a request to be invited to the ***RP-ACCESS \#integration-roadmaps*** Slack channel.
 
