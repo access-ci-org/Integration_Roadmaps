@@ -25,7 +25,7 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 First, staff responsible for posting infrastructure news must have logged in once to the ACCESS Operations portal at [https://operations.access-ci.org/](https://operations.access-ci.org/) before they can be granted access.
 
-Next, the Resource Integration Coordinator must submit the names of staff that need permission to post infrastructure news by opening an Operations Request through the [*Operations Portal Help Page*](https://operations.access-ci.org/help). Please use the Request Title “ACCESS Operations Infrastructure News Editor access” and the ACCESS Operational Support Issues "Operations: Portal". Staff that logged in per the previous paragraph will then be granted Infrastructure News Editor permissions.
+Next, the Resource Integration Coordinator must submit the names of staff that need permission to post infrastructure news by opening an Operations Request through [*this page*](https://operations.access-ci.org/open-operations-request/). Please use the Request Title “ACCESS Operations Infrastructure News Editor access” and the ACCESS Operational Support Issues "Operations: Portal". Staff that logged in per the previous paragraph will then be granted Infrastructure News Editor permissions.
 
 ### Recurring Activity - Status Communications
 

@@ -29,7 +29,7 @@ Organization staff access CiDeR at [*https://cider.access-ci.org/login*](https:/
 
 If your organization already has CiDeR access, skip to step C.
 
-Submit an *Integration and Operations Request* from [*this page*](https://operations.access-ci.org/help) with the Title “New CiDeR Organization” and the following information:
+Submit an *Integration and Operations Request* from [*this page*](https://operations.access-ci.org/open-operations-request/) with the Title “New CiDeR Organization” and the following information:
 
 - Organization logo URL or attached file
 
