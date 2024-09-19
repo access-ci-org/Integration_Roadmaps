@@ -231,7 +231,7 @@ while [[ "$date" < "$end_date_exclusive_formatted" ]]; do
         --allclusters --allusers \
         --starttime ${date}T00:00:00 --endtime ${date}T23:59:59 \
         > $file
-    response=$(curl -s -H @"$token_file" -F file=@$file $url)
+    response=$(curl -sS -H @"$token_file" -F file=@$file $url)
     rm -f $file
     if [ "$response" != '{"status":"success"}' ]; then
         echo $response >&2
