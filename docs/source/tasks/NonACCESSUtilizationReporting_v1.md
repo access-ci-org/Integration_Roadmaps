@@ -188,7 +188,7 @@ if [ -n "$day_count" ]; then
         end_date="$start_date_inclusive_formatted + $day_count days - 1 day"
     fi
 fi
-if [ -z "$start_date" ] && [ -z "$end_date" ]; then
+if [ -z "$end_date" ]; then
     end_date='-1 day'
 fi
 end_date_inclusive_formatted=$(date -d "$end_date" $date_format)
