@@ -86,7 +86,7 @@ at the top for information on usage.
 #!/bin/bash
 
 ###############################################################################
-# post-sacct-to-ccr.sh
+# post-sacct-to-ccr.sh v2024-09-20
 #
 # Send sacct logs via cURL HTTPS POST requests to the XDMoD team at the
 # University at Buffalo Center for Computational Research (CCR).
@@ -261,6 +261,6 @@ To setup Globus Transfer, please provide the name or names of the globus account
 
 **Coordinators**: **Joseph White, ACCESS Metrics**
 
-**Last revised date**: 2024-07-31
+**Last revised date**: 2024-09-20
 
 **Retired date**:
