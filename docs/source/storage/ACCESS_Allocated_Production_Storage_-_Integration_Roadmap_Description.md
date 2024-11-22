@@ -38,7 +38,7 @@ See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1YU
 
 ## Planning phase
 
-1. Coordination: [ACCESS Allocated Resource Integration Coordination v1](../tasks/ACCESS_Allocated_Resource_Integration_Coordination_v1.md)
+1. Coordination: [ACCESS Allocated Resource Integration Coordination v2](../tasks/ACCESS_Allocated_Resource_Integration_Coordination_v2.md)
 
 2. Coordination: [Infrastructure Description v2](../tasks/Infrastructure_Description_v2.md)
 

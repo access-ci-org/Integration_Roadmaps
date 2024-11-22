@@ -23,15 +23,15 @@ None
 
 ### Integration Launch
 
-The integration engagement and process begins when the science gateway PI/co-PIs and a designated Science Gateway Integration Coordinator communicates with ACCESS Operations, identifying themselves and their PI, co-PI, and coordinator roles, providing their institution name, and the name of the science gateway they plan to integrate. Communicate this information by submitting an ACCESS ticket using the [*Support Portal ticket form*](https://support.access-ci.org/open-a-ticket), or by contacting the ACCESS Resource Provider Coordinator directly.
+The integration engagement and process begin when a science gateway PI, co-PI, or designated Science Gateway Integration Coordinator open an ACCESS ticket using [*Integration and Operations Requests*](https://operations.access-ci.org/open-operations-request/) and identifies their institution name, and the name of the science gateway they plan to integrate. Those who are exploring the possibility of integrating may open a ticket and request to be contacted for futher discussion.
 
-In response, ACCESS will identify an Integration Concierge, and if needed schedule a call between the Resource Integration Coordinator, anyone else the RP wishes to invite, the ACCESS Integration Concierge, and the ACCESS Resource Provider Coordinator. The purpose of the meeting is to introduce RP and ACCESS staff to each other, to discuss the integration process and timeline, and to introduce integration roadmap documentation. A call may not be necessary if the RP is already familiar with the ACCESS integration process.
+In response, ACCESS will identify an Integration Concierge, and if needed schedule a call between the science gateway and ACCESS staff. The purpose of the meeting is to introduce science gateway and ACCESS staff to each other, to discuss the integration process and timeline, and to introduce integration roadmap documentation. A call may not be necessary if gateway staff are already familiar with the ACCESS integration process.
 
 The Integration Concierge acts as the resource or service operator’s primary point of contact for all questions and issues in selecting and completing the integration roadmap.
 
-The Resource Integration Coordinator is responsible for coordinating all RP activities, for identifying and maintaining the list of RP contacts involved in different aspects of coordination, integration, and resource support (see the next section), for communicating relevant ACCESS integration information and Roadmap based resource integration document to RP staff, and for managing RP staff access to ACCESS services.
+The Science Gateway Integration Coordinator is responsible for coordinating all science gateway integration activities, for identifying and maintaining the list of science gateway contaxts involved in different aspects of coordination, integration, and science gateway support (see the next section), for communicating relevant ACCESS integration information and Roadmap based science gateway integration document to RP staff, and for managing science gateway staff access to ACCESS services.
 
-### Identity Resource Provider Contacts
+### Identity Science Gateway Contacts
 
 Soon after the Integration Launch the Science Gateway Integration Coordinator must provide each of the following contacts:
 
@@ -41,11 +41,7 @@ Soon after the Integration Launch the Science Gateway Integration Coordinator mu
 
 If the Gateway Administrator doesn’t know who some of these contacts will be, or wishes not to identify them until relevant integration effort ramps up, please name the Integration Coordinator as the placeholder for those roles. In other words, ACCESS needs each someone to be the contact in each of the above areas, even if it’s the coordinator who will eventually hand off effort to someone else. As integration activities ramps up the Integration Coordinator can add other staff replacing themselves as necessary.
 
-The Integration Coordinator should enter and update their contacts in the resource specific tab here:
-
-- [*ACCESS Science Gateways Contacts*](https://docs.google.com/spreadsheets/d/1S8zMTpIq3c7ehAXnbsiI7nyiwVhPBkN1j3eEVKb3VsE/edit#gid=251017880)
-
-The Integration Coordinator is responsible for maintaining accurate contact information in this spreadsheet and updating when gateway staff changes. We recommend that the Integration Coordinator review and correct their contacts every 6 months. This sub-task should take ~1 hour to complete initially, and ~½ hour annually to keep up-to-date.
+The Integration Coordinator is responsible for maintaining accurate contact information in CiDeR for the gateway. We recommend that the Integration Coordinator review and correct their contacts every 6 months. This sub-task should take ~1 hour to complete initially, and ~½ hour annually to keep up-to-date.
 
 
 <sub>

@@ -24,9 +24,9 @@ the steps a resource provider must take to participate in them.
 The rest of this guide will fill in the details, but here\'s an overview
 of the steps for creating a new ACCESS Integration Roadmap.
 
-1.  Inform the ACCESS Infrastructure Integration Steering Committee
-    (IISC) that you are beginning to work on an integration roadmap for
-    a new kind of ACCESS-integrated cyberinfrastucture resource.
+1.  Inform the ACCESS Infrastructure Portfolio Expansion Standing Committee
+    that you are beginning to work on an integration roadmap for a new kind
+    of ACCESS-integrated cyberinfrastucture resource.
 2.  Form a working group to help you identify the necessary pieces of
     the integration roadmap.
 3.  Draft the integration roadmap, by copying tasks from other roadmaps
@@ -99,18 +99,18 @@ services would help you achieve your goals for ACCESS integration.
     rather than maintaining local accounts and user credentials
     (passwords, keys).
 
-## Inform the ACCESS Infrastructure Integration Steering Committee (IISC)
+## Inform the ACCESS Infrastructure Portfolio Expansion Standing Committee
 
 After you\'ve reviewed this guide and decided that you want to propose a
-new integration roadmap, the first step is to inform the Infrastructure
-Integration Steering Committee (IISC). The last section of this guide
-provides the link you can follow to formally notify the IISC.
+new integration roadmap, the first step is to inform the ACCESS Infrastructure
+Portfolio Expansion Standing Committee. The last section of this guide
+provides the link you can follow to formally notify the committee.
 
-The IISC includes representatives of ACCESS\'s operations team and
-project management. Their main purpose is to make sure you have the
-resources you need to accomplish your objective. These resources
+The ACCESS Infrastructure Portfolio Expansion Standing Committee includes
+representatives from all ACCESS projects. Their main purpose is to make sure
+you have the resources you need to accomplish your objective. These resources
 include: ACCESS project contacts and introductions, documentation, and
-access to our shared Google Drive. A liaison from the IISC will contact
+access to our shared Google Drive. A liaison from the committee will contact
 you to review your plans and offer assistance. After meeting with you,
 the liaison will inform the ACCESS Executive Council (EC) about your
 plan so they can prepare their project areas to provide the resources
@@ -148,7 +148,7 @@ produce, such as a new integration roadmap.
 
 When you have your charter document, review it with your project
 leadership and make certain they approve of you working on it. Then,
-send a note to your IISC liaison (see previous section) so he or she can
+send a note to your committee liaison (see previous section) so he or she can
 inform the ACCESS Executive Committee of the new working group. (The
 Executive Committee needs to know because you\'ll likely need
 representatives from their projects to participate as stakeholders in
@@ -210,9 +210,9 @@ It\'ll usually be a combination of management personnel (PIs, project
 managers) and technical personnel (HPC system adminstrators, network
 administrators, storage/data specialists, security personnel). Once all
 of the ACCESS representatives in your working group have given you the
-contacts they need, consolidate them into a single list and create a
-task at the beginning of the roadmap so the resource provider can just
-fill out a single form with all of the necessary contact information.
+contacts they need, consolidate them into a single list and work with
+the CiDeR support team to ensure that resource provider can record those
+resource contact in CiDeR for the type of resource your are integrating.
 
 For **configuring and documenting software and services**, each ACCESS
 project area will have its own list of ways resource providers can
