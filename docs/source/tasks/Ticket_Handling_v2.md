@@ -13,7 +13,7 @@ ACCESS resource and online service operators will be assigned tickets for issues
 
 ## Prerequisite tasks
 
-1.  [*Infrastructure Description v2*](Infrastructure_Description_v2.md)
+1.  [*Infrastructure Description task*](Infrastructure_Description_v2.md)
 
 ## Support Information
 

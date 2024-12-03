@@ -39,7 +39,7 @@ Operators must perform the Required Tasks below and may perform the Optional Tas
 - [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1OjeT6r01mdOIa4pq1VE0L5ocRPfqdXFp9QsADjdqrjE/) slides
 
 ## Planning phase
-1. Coordination: [ACCESS Science Gateway Integration Coordination v1](../tasks/ACCESS_Science_Gateway_Integration_Coordination_v1.md)
+1. Coordination: [ACCESS Science Gateway Integration Coordination](../tasks/ACCESS_Science_Gateway_Integration_Coordination_v1.md)
 
 ## Integration/Operations phase(s)
 
