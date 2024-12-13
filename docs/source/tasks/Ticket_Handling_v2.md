@@ -5,7 +5,7 @@ Infrastructure Integration Roadmap Task
 **Task Type(s)**: Support  
 **Start by phase**: Integration  
 **Complete by phase**: Ongoing  
-**RP role(s)**: Researcher support contact(s), most other RP contacts
+**RP role(s)**: Researcher support / ticket handling contact(s), most other RP contacts
 
 ## Summary
 
