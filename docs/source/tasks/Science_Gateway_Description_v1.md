@@ -14,7 +14,7 @@ accessible information about the science gateway.
 
 ## Prerequisite tasks
 
-1.  The science gateway provider must have completed [Science Gateway Resource Requests](Science_Gateway_Resource_Requests_v1.md)
+1.  The science gateway provider must have completed [Request Science Gateway Resources](Request_Science_Gateway_Resources_v1.md)
 
 ## Support Information
 
