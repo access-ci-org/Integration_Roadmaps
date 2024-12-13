@@ -37,7 +37,7 @@ If you are a resource provider (RP) integrating a resource, provide a short orga
 
 Identify for this queue the name and email addresses of:
 
-1.  People that can browse tickets (agents)
+1.  People who can browse tickets (agents)
 
 2.  People who will be watchers to receive email notifications (watchers)
 
