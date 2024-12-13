@@ -35,11 +35,13 @@ To request new organization/RP specific routing queues open an *ACCESS Integrati
 
 If you are a resource provider (RP) integrating a resource, provide a short organization name or abbreviation that can be used to define your RP queue. Theis queues will be named “\<short_name\>”, like “Jetstream-2” or “Delta”.
 
-Identify for this queue the name and ACCESS usernames of:
+Identify for this queue the name and email addresses of:
 
-1.  People that can UPDATE tickets in the queue
+1.  People that can browse tickets (agents)
 
-2.  Person who will be assigned tickets by default (this person will be able to reassign tickets to anyone else with queue access)
+2.  People who will be watchers to receive email notifications (watchers)
+
+Note: Most of the time both agents and watchers are the same. But, if some agents do not want to be spammed with emails they may opt from being a watcher.
 
 #### For ACCESS awardee queues
 
