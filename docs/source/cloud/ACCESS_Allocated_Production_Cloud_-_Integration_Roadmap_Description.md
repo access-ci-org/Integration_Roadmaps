@@ -38,43 +38,43 @@ See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1ez
 
 ## Planning phase
 
-1. Coordination: [ACCESS Allocated Resource Integration Coordination v2](../tasks/ACCESS_Allocated_Resource_Integration_Coordination_v2.md)
+1. Coordination: [ACCESS Allocated Resource Integration Coordination](../tasks/ACCESS_Allocated_Resource_Integration_Coordination_v2.md)
 
-2. Coordination: [Infrastructure Description v2](../tasks/Infrastructure_Description_v2.md)
+2. Coordination: [Infrastructure Description](../tasks/Infrastructure_Description_v2.md)
 
-3. Technology: [Cybersecurity Requirements for RPs v1](../tasks/Cybersecurity_Requirements_for_RPs_v1.md)
+3. Technology: [Cybersecurity Requirements for RPs](../tasks/Cybersecurity_Requirements_for_RPs_v1.md)
 
-4. Technology: [Data and Network Integration v1](../tasks/Data_and_Network_Integration.md)
+4. Technology: [Data and Network Integration](../tasks/Data_and_Network_Integration.md)
 
 ## Integration phase
 
-5. Coordination: [ACCESS Allocation Policies v1](../tasks/ACCESS_Allocation_Policies_v1.md)
+5. Coordination: [ACCESS Allocation Policies](../tasks/ACCESS_Allocation_Policies_v1.md)
 
-6. Coordination: [Knowledge Base v1](../tasks/Knowledge_Base_v1.md)
+6. Coordination: [Knowledge Base](../tasks/Knowledge_Base_v1.md)
 
-7. Coordination: [RP Forum Participation v1](../tasks/Resource_Provider_Forum_Participation_v1.md)
+7. Coordination: [RP Forum Participation](../tasks/Resource_Provider_Forum_Participation_v1.md)
 
-8. Coordination: [Cybersecurity Governance Council Participation v1](../tasks/Cybersecurity_Governance_Council_Participation_v1.md)
+8. Coordination: [Cybersecurity Governance Council Participation](../tasks/Cybersecurity_Governance_Council_Participation_v1.md)
 
-9. Technology: [Resource Metrics Data Availability Assessment v1](../tasks/Resource_Metrics_Data_Availability_Assessment_v1.md)
+9. Technology: [Resource Metrics Data Availability Assessment](../tasks/Resource_Metrics_Data_Availability_Assessment_v1.md)
 
-10. (Optional) Technology: [ACCESS DNS Entries v1](../tasks/ACCESS_DNS_Records_v1.md)
+10. (Optional) Technology: [ACCESS DNS Entries](../tasks/ACCESS_DNS_Records_v1.md)
 
-11. (Optional) Technology: [Local Service ACCESS IAM Integration v1](../tasks/Local_Services_ACCESS_IAM_Integration_v1.md)
+11. (Optional) Technology: [Local Service ACCESS IAM Integration](../tasks/Local_Services_ACCESS_IAM_Integration_v1.md)
 
 ## Operations phase
 
-12. Support: [Incident Response and Coordination v1](../tasks/Incident_Response_and_Coordination_v1.md)
+12. Support: [Incident Response and Coordination](../tasks/Incident_Response_and_Coordination_v1.md)
 
-13. Support: [Ticket Handling v2](../tasks/Ticket_Handling_v2.md)
+13. Support: [Ticket Handling](../tasks/Ticket_Handling_v2.md)
 
-14. Support: [Operational Status Communications v1](../tasks/Operational_Status_Communications_v1.md)
+14. Support: [Operational Status Communications](../tasks/Operational_Status_Communications_v1.md)
 
-15. (Optional) Support: [Request RP or Site Staff Allocation v1](../tasks/Request_RP_or_Site_Staff_Allocation_v1.md)
+15. (Optional) Support: [Request RP or Site Staff Allocation](../tasks/Request_RP_or_Site_Staff_Allocation_v1.md)
 
-16. Technology: [AMIE and Usage Reporting v1](../tasks/AMIE_and_Usage_Reporting_v1.md)
+16. Technology: [AMIE and Usage Reporting](../tasks/AMIE_and_Usage_Reporting_v1.md)
 
-17. Technology: [Performance Data reporting v1](../tasks/Performance_Data_Reporting_v1.md)
+17. Technology: [Performance Data reporting](../tasks/Performance_Data_Reporting_v1.md)
 
 <sub>
 <ul class="document-meta-data">

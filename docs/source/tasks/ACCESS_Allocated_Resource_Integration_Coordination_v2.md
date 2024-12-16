@@ -60,9 +60,7 @@ Soon after the Integration Launch the Resource Integration Coordinator must ente
 
 If the RP doesn’t know who some of these contacts will be, or wishes not to identify them until relevant integration effort ramps up, please name the Integration Coordinator as the placeholder for those roles. In other words, ACCESS needs each someone to be the contact in each of the above areas, even if it’s the coordinator who will eventually hand off effort to someone else. As integration activities ramps up the Integration Coordinator can add other RP staff replacing themselves as necessary.
 
-The Integration Coordinator should enter and update their RP contacts in CiDeR as detailed in the task:
-
-- [Infrastructure Description v2] (Infrastructure_Description_v2.md)
+The Integration Coordinator should enter and update their RP contacts in CiDeR as detailed in the [*Infrastructure Description task*](Infrastructure_Description_v2.md).
 
 The Integration Coordinator is responsible for maintaining accurate contact information CiDeR as RP staff change. We recommend that the Integration Coordinator review and correct their contacts every 6 months. This sub-task should take ~1 hour to complete initially, and ~½ hour annually to keep up-to-date.
 
