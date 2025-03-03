@@ -36,8 +36,8 @@ RPs who are designed as Allocations Contacts, who are responsible for reviewing 
     * Serves as the mechanism to review requests for your resource(s). We recommend that you bookmark this page!
 * [Reviewer Manual](https://docs.google.com/document/d/1s0TLyKTXrKFjjVGJxE-7nwyzHfAwX-sjjBOJbsiprf4/edit#)
     * Documents the allocations cycle and review guidelines. We recommend that you regularly refer to this documentation as you complete any and all review assignments
-* [Reviewer Training & DEI](https://drive.google.com/drive/folders/1-ENSP1gvqGi5H2w_bKjwr6ocvVJaT-kw)
-    * In order to create an open, inviting, and democratized allocations marketplace various training and reference materials are provided
+* [Reviewer Webinars](https://drive.google.com/drive/folders/11TA2bibv0OxlkUWUba6cph6Fe1sGCcWi)
+    * Provides training and onboarding materials to make the most efficient use of our time during the ACCESS Allocations Review Committee meeting
 * [Allocations Queries](https://xacct-admin.access-ci.org/allocations_queries)
     * Provides overviews of a user’s or a project’s history of actions
     * To request access to this tool, please [create a ticket](https://support.access-ci.org/open-a-ticket)
