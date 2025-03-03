@@ -45,7 +45,7 @@ RPs who are designed as Allocations Contacts, who are responsible for reviewing 
     * Details the four opportunities to request allocations on ACCESS resources
 * [ACCESS Credits](https://allocations.access-ci.org/use-credits-overview)
     * Allocations for the first three opportunity levels are awarded in ACCESS Credits
-    * A credit exchange rate must be established by the Resource Provider for the systems they will allocate. This is done through the [CyberInfrastructure Description Repository (CiDeR)](https://cider.access-ci.org/login)
+    * A credit exchange rate must be established by the Resource Provider for the systems they will allocate. See the [variable marketplace documentation](https://access-ci.atlassian.net/wiki/spaces/ACP/pages/1238073366/Variable+Marketplace+RP+Documentation#Variable-Marketplace) for instructions on how to establish and modify these rates in [XRAS Admin](https://admin-access.xras.org/)
     * RPs can contact Allocations if they have questions on setting their exchange rate
     * **Tip for storage resource providers:** At this time, most ACCESS storage resources
       have set an exchange rate of one ACCESS credit to one resource unit. Additionally,
