@@ -22,11 +22,10 @@ hosted website found [here][documentation].
 
 # Getting help
 
-+ Join us on [Slack][ACCESS slack] in the
-[wg-integration-roadmaps][wg-integration-roadmaps] channel; it's active and
++ Join us on [Slack][ACCESS slack]; it's active and
 friendly!
     + Unable to view [Slack][ACCESS slack]? Request access through the
-    [ACCESS ticketing system][ACCESS rt].
+    [ACCESS ticketing system][ACCESS ticketing].
 
 + Search [ACCESS integration roadmaps issues tracker](https://github.com/access-ci-org/Integration_Roadmaps/issues/)
 in case your issue was already reported.
