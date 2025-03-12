@@ -69,15 +69,22 @@ After the integration coordinator has been granted CiDeR access they can grant o
 
 Organization staff enter new infrastructure descriptions as detailed in the Quick Start Guide and User Guide:
 
-[*https://cider.access-ci.org/cider_manual_full.pdf*](https://cider.access-ci.org/cider_manual_full.pdf)
+[*https://cider.access-ci.org/documentation*](https://cider.access-ci.org/documentation)
 
 Steps:
 
-- Select “Resources” along the top.
+- Select “Infrastructure” along the top.
 
-- Click on “Add a Resource” to add a new resource, or click on a resource name to edit an existing resource.
+- Click on “Add new Infrastructure” to add a new infrastructure, click on a name to view an existing infrastructure, or click on the pencil icon to edit an existing infrastructure.
 
 - Enter as much information as possible in this first form
+  * Resource Type can not be changed once the infrastructure is created.  Choose the most appropriate type that corresponds to the main purpose of the infrastructure.
+    * Compute encompasses infrastructure primarily used for computing, including running jobs on CPU, GPU, or other types of accelerators.  
+  * Be sure to click to the Affiliations tab and add ACCESS as an affiliation.
+
+- Click the "Save Changes" button to create the infrastructure.
+
+- After saving you will be redirected to the infrastructure edit page where you can add more information such as features, contact information, and production dates.
 
 - Select Resource Features as follows:
 
@@ -88,9 +95,7 @@ Steps:
 | Online Services                 | Select from the following features:<br>- ACCESS Online Services for users<br>- ACCESS Online Services for resource providers<br>- ACCESS Online Services for developers<br>- ACCESS Online Services for ACCESS projects                                                            |
 | Science Gateway Online Services | This feature designates a registered Online Service as a science gateway:<br>- ACCESS Integrated Science Gateways                                                                                                                                                                  |
 
-- Select a “Resource Type” at the bottom of the screen and “Create Resource”
-
-- For Compute, Cloud, and Storage type resources, enter as much information as possible in this second form and the following **minimum required information**:
+- For Compute, Cloud, and Storage type resources, enter as much information as possible in the type details tab **minimum required information**:
 
 | Field Name                   | Applicable Resource Type | Notes                                                                      |
 |------------------------------|--------------------------|----------------------------------------------------------------------------|
@@ -121,9 +126,9 @@ in your storage resource description.
 
 Skip this section if your resource is not ACCESS allocated.
 
-Page 16 of the CiDeR Manual has instructions for entering a “conversion factor”. This is the NU conversion factor of your resource, divided by 21.576. This will be used to compute your initial marketplace exchange rate. **For most compute resources, you should NOT change the conversion factor that you already have listed.  
+The CiDeR Documentation has instructions for entering a “conversion factor”. This is the NU conversion factor of your resource, divided by 21.576. **For most compute resources, you should NOT change the conversion factor that you already have listed.  
 
-**In a later stage of ACCESS, additional tools will be created to manage your variable marketplace exchange rate.
+** The variable marketplace exchange rate was previously linked to the conversion factor.  The exchange rate is now managed independently in the XRAS system.  Documentation for managing exchange rates is available:  [*Variable Marketplace RP Documentation*](https://access-ci.atlassian.net/wiki/spaces/ACP/pages/1238073366/Variable+Marketplace+RP+Documentation).
 
 ![](media/Infrastructure_Description_v2/media/image2.png)
 
