@@ -31,7 +31,7 @@
 # By default, this script sends a log of yesterday's jobs.
 #
 # If the script is run with the -a option, it will instead look for a
-# "last-send" file at ~/post-sacct-to-ccr/last-send.out containing a date in
+# "last-send" file at ~/post-sacct-to-ccr/last-send.txt containing a date in
 # YYYY-MM-DD format; the script will send logs for each day after the day
 # specified in that file through yesterday, inclusive. In the process, each
 # time the script successfully sends a day, it will replace the contents of the
@@ -65,7 +65,7 @@
 # YYYY-MM-DD.json. The files can be given a prefix using the -p option; the
 # resulting files will instead be named prefix.YYYY-MM-DD.json. If the -a and
 # -p options are used together, the "last-send" file used by the script will be
-# ~/post-sacct-to-ccr/prefix.last-send.out.
+# ~/post-sacct-to-ccr/prefix.last-send.txt.
 #
 # If you have any questions, comments, or concerns, you can contact the XDMoD
 # team the following ways:
@@ -131,7 +131,7 @@ if [ "$all" = true ]; then
         echo "$script_name: it is invalid to specify both -a and any of -n, -s, and -e" >&2
         exit 1
     fi
-    last_send_file=$io_dir/${prefix}last-send.out
+    last_send_file=$io_dir/${prefix}last-send.txt
     if [ ! -f $last_send_file ]; then
         echo "$script_name: -a requires a file, could not find one at '$last_send_file'" >&2
         exit 1
@@ -172,7 +172,7 @@ if [[ "$end_date_inclusive_formatted" > "$yesterday" ]]; then
 fi
 if [[ "$start_date_inclusive_formatted" > "$end_date_inclusive_formatted" ]]; then
     if [ "$all" = true ]; then
-        echo "$script_name: nothing to send, date in '$io_dir/${prefix}last-send.out' is not before yesterday" >&2
+        echo "$script_name: nothing to send, date in '$io_dir/${prefix}last-send.txt' is not before yesterday" >&2
     else
         echo "$script_name: start date cannot be after end date" >&2
     fi
@@ -194,7 +194,7 @@ while [[ "$date" < "$end_date_exclusive_formatted" ]]; do
         exit 1
     fi
     if [ "$all" = true ]; then
-        echo $date > $io_dir/${prefix}last-send.out
+        echo $date > $io_dir/${prefix}last-send.txt
     fi
     date=$(date -d "$date + 1 day" $date_format)
 done
