@@ -121,7 +121,7 @@ if [ ! -d "$io_dir" ]; then
     echo "$script_name: '$io_dir' is not a directory" >&2
     exit 1
 fi
-token_file="$io_dir/.token"
+token_file=$io_dir/.token
 if [ ! -f $token_file ]; then
     echo "$script_name: token file '$token_file' does not exist" >&2
     exit 1
@@ -131,7 +131,7 @@ if [ "$all" = true ]; then
         echo "$script_name: it is invalid to specify both -a and any of -n, -s, and -e" >&2
         exit 1
     fi
-    last_send_file="$io_dir/${prefix}last-send.out"
+    last_send_file=$io_dir/${prefix}last-send.out
     if [ ! -f $last_send_file ]; then
         echo "$script_name: -a requires a file, could not find one at '$last_send_file'" >&2
         exit 1
@@ -182,19 +182,19 @@ fi
 # For each day, create, send, and delete the log file.
 date=$start_date_inclusive_formatted
 while [[ "$date" < "$end_date_exclusive_formatted" ]]; do
-    file="$io_dir/$prefix$date.json"
+    file=$io_dir/$prefix$date.json
     TZ=UTC sacct --duplicates --json --noheader \
         --allclusters --allusers \
         --starttime ${date}T00:00:00 --endtime ${date}T23:59:59 \
         > $file
-    response="$(curl -sS -H @"$token_file" -F file=@$file $url)"
+    response=$(curl -sS -H @"$token_file" -F file=@$file $url)
     rm -f $file
     if [ "$response" != '{"status":"success"}' ]; then
         echo $response >&2
         exit 1
     fi
     if [ "$all" = true ]; then
-        echo $date > "$io_dir/${prefix}last-send.out"
+        echo $date > $io_dir/${prefix}last-send.out
     fi
     date=$(date -d "$date + 1 day" $date_format)
 done
