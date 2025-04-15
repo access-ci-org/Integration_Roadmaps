@@ -62,7 +62,7 @@ the Globus Transfer mechanism is more appropriate for large file transfers (but 
 
 An example Bash script for sending `sacct` logs is
 [here](media/NonACCESSUtilizationReporting_v1/media/post-sacct-to-ccr.sh). See
-the comment at the top for information on usage.
+the comment at the top of the script for information on usage.
 
 ### Globus Transfer
 
