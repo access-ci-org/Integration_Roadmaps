@@ -2,9 +2,9 @@
 
 Infrastructure Integration Roadmap Task
 
-**Task Type(s)**: Technology  
-**Start by phase**: Integration  
-**Complete by phase**: Ongoing  
+**Task Type(s)**: Technology
+**Start by phase**: Integration
+**Complete by phase**: Ongoing
 **RP role(s)**: System administrator(s)
 
 ## Summary
@@ -23,7 +23,7 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 Install, configure, and run IPF per these instructions:
 
-- [*https://software.xsede.org/production/ipf/latest/*](https://software.xsede.org/production/ipf/latest/)
+- [*https://github.com/access-ci-org/ipf*](https://github.com/access-ci-org/ipf)
 
 <sub>
 <ul class="document-meta-data">
