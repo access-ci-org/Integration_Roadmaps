@@ -18,17 +18,12 @@ See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1GI
 
 ## Support Information
 
-**Submit a Request**: Operators needing assistance with integration tasks can submit an *ACCESS Integration and Operation Support Request* using instructions on [*this page*](https://operations.access-ci.org/open-operations-request). Pick an “*ACCESS Operational Support Issues*” that best matches your request, or the catch-all issue type “*ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps*“.
-
-**Slack Discussion**: ACCESS projects have a Slack channel for discussing the development and application of integration roadmaps. For access, talk to your projects’ participant in the Integration Roadmaps Working Group, or submit a request to be invited to the ***ACCESS-CI \#wg-integration-roadmaps*** Slack channel.
-
-**Documentation**:
-
-- [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1OjeT6r01mdOIa4pq1VE0L5ocRPfqdXFp9QsADjdqrjE/) slides
+```{include} ../tasks/support.md
+```
 
 ## Integration Tasks
 
-1. [Infrastructure Description](../tasks/Infrastructure_Description_v2.md)
+1. [Infrastructure Description v3](../tasks/Infrastructure_Description_v3.md)
 
 2. [Cybersecurity Requirements for ACCESS Services](../tasks/Cybersecurity_Requirements_for_ACCESS_Services_v1.md)
 
@@ -53,7 +48,7 @@ See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1GI
 <sub>
 <ul class="document-meta-data">
     <li><strong>Status</strong>: Production</li>
-    <li><strong>Version</strong>: v1</li>
+    <li><strong>Version</strong>: v2</li>
     <li><strong>Integration Concierge</strong>: JP Navarro</li>
 </ul>
 </sub>

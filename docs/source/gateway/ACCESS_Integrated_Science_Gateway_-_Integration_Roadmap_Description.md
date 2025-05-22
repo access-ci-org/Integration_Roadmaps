@@ -24,21 +24,11 @@ Operators must perform the Required Tasks below and may perform the Optional Tas
 
 ## Support Information
 
-**Submit a Request**: Science gateway providers needing assistance with integration tasks can submit an *ACCESS Integration and Operation Support Request* using instructions on [*this page*](https://operations.access-ci.org/open-operations-request). Pick an “*ACCESS Operational Support Issues*” that best matches your request, or the catch-all issue type “*ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps*“.
-
-**Slack Discussion**: ACCESS has a Slack channel for infrastructure operators and ACCESS to discuss integration topics. For access submit a request to be invited to the ***RP-ACCESS \#integration-roadmaps*** Slack channel. This Slack channel will be used for ACCESS Resource Providers and ACCESS Allocated Science Gateways.
-
-**By Weekly Meetings**: ACCESS holds a Zoom meeting every second Friday from 11:00 AM to Noon Central for infrastructure operators and ACCESS to discuss integration topics. To obtain Zoom coordinates submit a request for the **RP and ACCESS Roadmaps** Zoom meeting coordinates. This meeting will be used for ACCESS Resource Providers and ACCESS Allocated Science Gateways.
-
-**Integration Consultants**: ACCESS integrated science gateway providers have a *Concierge Integration Expert* consultant available for one-on-one integration support.
-
-**General Science Gateway Consultants**: Seeking technical advice, direct access to a gateway developer, a usability review of your gateway, or sustainability consulting? You can receive these and more by requesting help from the Science Gateways Center of Excellence (SGX3). Apply for support at https://sciencegateways.org/work-with-us. 
-
-**Documentation**:
-
-- [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1OjeT6r01mdOIa4pq1VE0L5ocRPfqdXFp9QsADjdqrjE/) slides
+```{include} ../tasks/support.md
+```
 
 ## Planning phase
+
 1. Coordination: [ACCESS Science Gateway Integration Coordination v1](../tasks/ACCESS_Science_Gateway_Integration_Coordination_v1.md)
 
 ## Integration/Operations phase(s)
