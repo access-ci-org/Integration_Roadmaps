@@ -1,11 +1,11 @@
-# Infrastructure Description v2
+# Infrastructure Description v3
 
 Infrastructure Integration Roadmap Task
 
-**Task Type(s)**: Coordination
-**Start by phase**: Integration
-**Complete by phase**: Ongoing
-**RP role(s)**: Resource or Service Integration Coordinator, Documentation and knowledge base contact(s),
+**Task Type(s)**: Coordination  
+**Start by phase**: Planning  
+**Complete by phase**: Ongoing  
+**RP role(s)**: Integration coordinator
 
 ## Summary
 
@@ -19,7 +19,8 @@ None
 
 ## Support Information
 
-For assistance with this task see the *Support Information* section in your *Integration Roadmap Description*.
+```{include} support.md
+```
 
 ## Detailed Instructions
 
