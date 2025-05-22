@@ -24,6 +24,8 @@ None
 
 ## Detailed Instructions
 
+Follow the [CiDeR documentation](https://cider.access-ci.org/documentation)
+
 ### Maintain infrastructure descriptions
 
 Information in CiDeR must be kept up to date and reviewed for accuracy at least yearly.
