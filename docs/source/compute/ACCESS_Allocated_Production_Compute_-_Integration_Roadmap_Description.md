@@ -22,7 +22,7 @@ See related [*Roadmap Task Timeline*](https://docs.google.com/presentation/d/1Vt
 
 ## Support Information
 
-```{include} ../tasks/support.md
+```{include} ../support.md
 ```
 
 ## Planning phase

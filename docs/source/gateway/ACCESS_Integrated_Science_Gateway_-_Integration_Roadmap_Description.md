@@ -24,7 +24,7 @@ Operators must perform the Required Tasks below and may perform the Optional Tas
 
 ## Support Information
 
-```{include} ../tasks/support.md
+```{include} ../support.md
 ```
 
 ## Planning phase
