@@ -31,7 +31,7 @@ For new Resource Providers, follow these steps:
 1. [Creating a CIDeR organization](#creating-a-cider-organization)
 1. [Adding New Infrastructure](#adding-new-infrastructure)
 
-For RPs that have CIDeR access on the individual (see #) and organization level, see [Adding new infrastructure](#adding-new-infrastructure)
+For RPs that have CIDeR access on the individual (see [Getting Started with CIDeR](#getting-started-with-cider)) and organization level (see [Creating a CIDeR organization](#creating-a-cider-organization)), proceed to the [Adding new infrastructure seciton](#adding-new-infrastructure).
 
 ### Getting Started with CIDeR
 
