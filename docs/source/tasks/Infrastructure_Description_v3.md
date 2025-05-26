@@ -24,19 +24,21 @@ None
 
 ## Detailed Instructions
 
-For general information on [CIDeR](cider.access-ci.org) such as webpage access/authorization, webpage navigation, and viewing/editing infrastructure, follow the [CiDeR documentation](https://cider.access-ci.org/documentation).
+For general information on [CIDeR](https://cider.access-ci.org) such as webpage access/authorization, webpage navigation, and viewing/editing infrastructure, follow the [CiDeR documentation](https://cider.access-ci.org/documentation).
 
 For new Resource Providers, follow these steps:
 1. [Getting Started with CIDeR](#getting-started-with-cider)
 1. [Creating a CIDeR organization](#creating-a-cider-organization)
 1. [Adding New Infrastructure](#adding-new-infrastructure)
 
-For RPs that have CIDeR access on the individual (see [Getting Started with CIDeR](#getting-started-with-cider)) and organization level (see [Creating a CIDeR organization](#creating-a-cider-organization)), proceed to the [Adding new infrastructure seciton](#adding-new-infrastructure).
+For RPs that have CIDeR access on the individual (see @getting-started-with-cider) and organization level (see @creating-a-cider-organization), proceed to the @adding-new-infrastructure section).
 
+(getting-started-with-cider)=
 ### Getting Started with CIDeR
 
-Follow the [Getting Started section of the CIDeR documentation](https://cider.access-ci.org/documentation#getting-started) to obtain access/authorization to [CIDeR](cider.access-ci.org).
+Follow the [Getting Started section of the CIDeR documentation](https://cider.access-ci.org/documentation#getting-started) to obtain access/authorization to [CIDeR](https://cider.access-ci.org).
 
+(creating-a-cider-organization)=
 ### Creating a CIDeR organization
 
 RPs require a CIDeR organization (e.g. Texas Tech University) in order to define infrastructure resources.
@@ -67,6 +69,7 @@ After the integration coordinator has been granted CiDeR access they can grant o
 - Click on “Administrators”.
 - Add additional Organization Admins who may enter and update your organization resource information.
 
+(adding-new-infrastructure)=
 ### Adding New Infrastructure
 
 Follow the [Adding New Infrastrucutre section of the CIDeR documentation](https://cider.access-ci.org/documentation#adding-infrastructure) with the ACCESS-specific steps mentioned below:
