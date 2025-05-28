@@ -43,7 +43,7 @@ Is this tied to CONECTnet Integration?
 <ul class="document-meta-data">
     <li><strong>Status</strong>: Production</li>
     <li><strong>Version</strong>: v1</li>
-    <li><strong>Task Expert(s)</strong>: Kathy Benninger and David Wheeler, ACCESS Operations</li>
+    <li><strong>Task Expert(s)</strong>: Dave Wheeler, ACCESS Operations</li>
 </ul>
 </sub>
 <br/>
