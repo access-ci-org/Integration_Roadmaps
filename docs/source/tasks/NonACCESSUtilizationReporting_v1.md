@@ -76,14 +76,12 @@ To setup Globus Transfer, please provide the name or names of the globus account
 | Name mapping               | Mapping between the username on the resource and a persons full name. Use the format described in the [Open XDMoD Names documentation](https://open.xdmod.org/user-names.html). For Regional Computing resources that support users from multiple different institutions then the User's instittion should also be included in the file contents as an additional column after the user's last name. | `names.csv` | Upload new copy of the file when new users are added to the resource. |
 | Resource Specifications    | Information about the number of compute devices (nodes, cores, GPUs) on the resource. The file format supports tracking resource changes over time. Use the format described in the [Open XDMoD resource specs](https://open.xdmod.org/10.5/configuration.html#resource_specsjson) | `resource_specs.json` | Whenever the resource size changes |
 
-## Document Management
-
-**Status**: Draft
-
-**Official date**: TBD
-
-**Coordinators**: **Joseph White, ACCESS Metrics**
-
-**Last revised date**: 2025-04-15
-
-**Retired date**:
+<sub>
+<ul class="document-meta-data">
+    <li><strong>Status</strong> : Production</li>
+    <li><strong>Version</strong> : v1</li>
+    <li><strong>Task Expert(s)</strong> : Joseph White, Aaron Weeden, and Conner Saeli, ACCESS Metrics</li>
+</ul>
+</sub>
+<br/>
+<br/>
