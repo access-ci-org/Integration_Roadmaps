@@ -1,36 +1,24 @@
 # ACCESS Integration Roadmaps Documentation
 
-## Integration Roadmap Tracks
+## Getting Started
 
-* [Cloud](cloud/index)
-* [Compute](compute/index)
-* [Storage](storage/index)
-* [Science Gateway](gateway/index)
-* [Online Service](onlineservice/index)
+Interested in getting started as a new resource provider, or integrating a new resource as an existing resource provider?
 
 ```{toctree}
-:maxdepth: 1
-:caption: Integration Roadmap Tracks
-:hidden:
-Cloud <cloud/index>
-Compute <compute/index>
-Storage <storage/index>
-Science Gateway <gateway/index>
-Online Service <onlineservice/index>
+:caption: Getting started
+
+RP Portal <https://access-ci.org/get-started/for-resource-providers>
+Resource Integration Quickstart <https://dashboard.operations.access-ci.org/IntegrationBadgesUI/docs>
 ```
 
-## None of the above look right for you?
-
-If you need to integrate a type of cyberinfrastructure resource with ACCESS that isn't
-listed above, consider the following option(s):
-
-* [New Integration Roadmap](New_Integration_Roadmaps)
-* [All Roadmap Tasks](tasks/index)
+## Integration Roadmap Tracks
 
 ```{toctree}
-:maxdepth: 1
-:caption: None of the above look right?
-:hidden:
-New_Integration_Roadmaps
-All Roadmap Tasks <tasks/index>
+:caption: Integration Roadmap Tracks
+
+ACCESS Allocated Cloud Roadmap <https://operations-api.access-ci.org/wh2/integration_badges/v1/roadmap_review/34/>
+ACCESS Allocated Compute Roadmap <https://operations-api.access-ci.org/wh2/integration_badges/v1/roadmap_review/67/>
+ACCESS Allocated Storage Roadmap <https://operations-api.access-ci.org/wh2/integration_badges/v1/roadmap_review/68/>
+Science Gateway Roadmap <https://operations-api.access-ci.org/wh2/integration_badges/v1/roadmap_review/1/>
+Online Service Roadmap <https://operations-api.access-ci.org/wh2/integration_badges/v1/roadmap_review/69/>
 ```
