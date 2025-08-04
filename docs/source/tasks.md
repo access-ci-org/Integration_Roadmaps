@@ -1,11 +1,9 @@
-# ACCESS Integration Roadmaps Tasks
+# Integration Tasks
 
-```{admonition} Note
-These are all Roadmap Tasks which are temporarily placed here to stop build failures for files not referenced in toctree(s) appropriately.
-```
+Integration Tasks document the required and/or recommended steps within a roadmap/workflow for a resource provider to obtain the relevant integration badge(s) for their resource.
 
 ``` {toctree}
 :maxdepth: 1
 :glob:
-*
+tasks/*
 ```
