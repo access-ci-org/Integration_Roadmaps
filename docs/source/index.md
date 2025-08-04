@@ -22,3 +22,13 @@ ACCESS Allocated Storage Roadmap <https://operations-api.access-ci.org/wh2/integ
 Science Gateway Roadmap <https://operations-api.access-ci.org/wh2/integration_badges/v1/roadmap_review/1/>
 Online Service Roadmap <https://operations-api.access-ci.org/wh2/integration_badges/v1/roadmap_review/69/>
 ```
+
+## Integration Tasks
+
+Integration Tasks document the steps required and/or recommended for a resource provider to obtain the relevant integration badge for their resource.
+
+```{toctree}
+:caption: Integration Tasks
+
+All Tasks <tasks/index>
+```
