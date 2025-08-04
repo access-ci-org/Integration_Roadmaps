@@ -13,6 +13,8 @@ Resource Integration Quickstart <https://dashboard.operations.access-ci.org/Inte
 
 ## Integration Roadmap Tracks
 
+Integration Roadmaps document the workflow for a resource provider to integrate their resource by obtaining relevant integration badge(s).
+
 ```{toctree}
 :caption: Integration Roadmap Tracks
 
@@ -25,7 +27,7 @@ Online Service Roadmap <https://operations-api.access-ci.org/wh2/integration_bad
 
 ## Integration Tasks
 
-Integration Tasks document the steps required and/or recommended for a resource provider to obtain the relevant integration badge for their resource.
+Integration Tasks document the required and/or recommended steps within a roadmap/workflow for a resource provider to obtain the relevant integration badge(s) for their resource.
 
 ```{toctree}
 :caption: Integration Tasks
