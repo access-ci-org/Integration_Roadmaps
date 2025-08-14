@@ -27,7 +27,7 @@ ACCESS projects, integrated resources, and central service operators may request
 <ul class="document-meta-data">
     <li><strong>Status</strong>: Production</li>
     <li><strong>Version</strong>: v1</li>
-    <li><strong>Task Expert(s)</strong>: Kathy Benninger and Matthew Kollross, ACCESS Operations</li>
+    <li><strong>Task Expert(s)</strong>: Matthew Kollross and Blade Pickering, ACCESS Operations</li>
 </ul>
 </sub>
 <br/>

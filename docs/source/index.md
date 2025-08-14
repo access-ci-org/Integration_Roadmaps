@@ -1,36 +1,13 @@
 # ACCESS Integration Roadmaps Documentation
 
-## Integration Roadmap Tracks
-
-* [Cloud](cloud/index)
-* [Compute](compute/index)
-* [Storage](storage/index)
-* [Science Gateway](gateway/index)
-* [Online Service](onlineservice/index)
-
-```{toctree}
-:maxdepth: 1
-:caption: Integration Roadmap Tracks
-:hidden:
-Cloud <cloud/index>
-Compute <compute/index>
-Storage <storage/index>
-Science Gateway <gateway/index>
-Online Service <onlineservice/index>
+```{admonition} This documentation has moved!
+The Roadmaps documentation has undergone major updates to better support resource providers. Refer to the [Getting Started guide](https://access-ci.org/get-started/for-resource-providers) for a streamlined overview of resource integration steps and progress tracking.
 ```
 
-## None of the above look right for you?
-
-If you need to integrate a type of cyberinfrastructure resource with ACCESS that isn't
-listed above, consider the following option(s):
-
-* [New Integration Roadmap](New_Integration_Roadmaps)
-* [All Roadmap Tasks](tasks/index)
-
 ```{toctree}
 :maxdepth: 1
-:caption: None of the above look right?
-:hidden:
-New_Integration_Roadmaps
-All Roadmap Tasks <tasks/index>
+
+Getting Started <https://access-ci.org/get-started/for-resource-providers>
+roadmaps
+tasks
 ```
