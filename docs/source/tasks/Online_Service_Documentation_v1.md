@@ -33,7 +33,7 @@ Online services may provide documentation through one of the following ACCESS co
 
 - ACCESS Documentation / Knowledge Base - for services used by ACCESS users
 
-  - See the [*Knowledge Base integration task*](Knowledge_Base_v1.md)
+  - See the [*Knowledge Base integration task*](Knowledge_Base_v2.md)
 
 - If a separate workspace may be appropriate, contact the ACO to discuss and request it
 
