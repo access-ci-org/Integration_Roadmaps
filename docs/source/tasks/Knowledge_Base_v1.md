@@ -57,7 +57,7 @@ ACCESS projects, integrated resources, and central service operators may also re
 
 To request integration of any of these services, please submit a ticket using the ACCESS Support Portal form:
 
-- [Support Portal Request Form](https://access-ci.atlassian.net/servicedesk/customer/portal/2/group/3/create/32)
+- [Internal ACCESS and Resource Provider Request](https://operations.access-ci.org/open-operations-request/)
 
 On the ticket form, please:  
 - Under **Request Title** of the form, fill in: *“SDS / ARA / QA Tool integration – [your project or resource name]”*
@@ -93,7 +93,7 @@ ACCESS support staff will review your request and follow up directly.
 <ul class="document-meta-data">
     <li><strong>Status</strong> : Production</li>
     <li><strong>Version</strong> : v2</li>
-    <li><strong>Task Expert(s)</strong> : Alana Romanella, ACCESS Support</li>
+    <li><strong>Task Expert(s)</strong> : Alana Romanella, Vikram Gazula ACCESS Support</li>
 </ul>
 </sub>
 <br/>
