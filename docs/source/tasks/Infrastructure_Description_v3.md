@@ -19,7 +19,7 @@ None
 
 ## Support Information
 
-```{include} support.md
+```{include} ../support.md
 ```
 
 ## Detailed Instructions
