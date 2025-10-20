@@ -31,7 +31,7 @@ For new Resource Providers, follow these steps:
 1. [Creating a CIDeR organization](#creating-a-cider-organization)
 1. [Adding New Infrastructure](#adding-new-infrastructure)
 
-For RPs that have CIDeR access on the individual (see @getting-started-with-cider) and organization level (see @creating-a-cider-organization), proceed to the @adding-new-infrastructure section).
+For RPs that have CIDeR access on the individual (see [Getting Started with CIDeR](#getting-started-with-cider)) and organization level (see [Creating a CIDeR organization](#creating-a-cider-organization)), proceed to the [Adding New Infrastructure](#adding-new-infrastructure)).
 
 (getting-started-with-cider)=
 ### Getting Started with CIDeR
@@ -42,7 +42,7 @@ Follow the [Getting Started section of the CIDeR documentation](https://cider.ac
 ### Creating a CIDeR organization
 
 RPs require a CIDeR organization (e.g. Texas Tech University) in order to define infrastructure resources.
-To see organizations currently defined, see [CIDeR's organizations list](https://cider.access-ci.org/resource_providers). (ACCESS login required - see @getting-started-with-cider) for access/authorization issues)
+To see organizations currently defined, see [CIDeR's organizations list](https://cider.access-ci.org/resource_providers). (ACCESS login required - see [Getting Started with CIDeR](#getting-started-with-cider)) for access/authorization issues)
 
 Submit an *Integration and Operations Request* from [*this page*](https://operations.access-ci.org/open-operations-request/) with the Title “New CIDeR Organization” and the following information:
 
