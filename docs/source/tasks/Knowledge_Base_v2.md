@@ -47,9 +47,26 @@ Please submit news items via the ASP Portal. You will see a box on the right sid
 
 Please submit events via the ASP Portal. This link will take you to a listing of all events in a calendar format. You will see a box on the right side that says *“Posting Events, Do you have events or training you would like to share with the ACCESS community?”* which will take you to a page that asks for specific details of your event you would like to post. This can also be shared with your Affinity group. You will need to be signed-in to ACCESS to submit.
 
-### Knowledge Base Service Integrations
+### Adding Resource Documentation to the ACCESS Knowledge Base
 
-ACCESS projects, integrated resources, and central service operators may also request support for integration of the following Knowledge Base services:
+Resource Providers can add documentation about their resource to the ACCESS Knowledge Base hosted on Atlassian Confluence. This may include a dedicated section for your resource or a link to your existing RP user documentation.
+
+**To request edit access:**
+
+1. Submit a ticket using the [Internal ACCESS and Resource Provider Request](https://operations.access-ci.org/open-operations-request/) form.
+2. Under **Request Title**, enter: *"Confluence edit access request - [your resource name]"*
+3. Under ACCESS Operational Support Issues, select **Support: OnDemand, Pegasus, Knowledge Base, Affinity Groups, Events, Announcements, Ask.CI, etc.**
+4. In the description, specify:
+   - The name of your resource
+   - The contact(s) who need edit access (include their ACCESS usernames)
+   - Whether you plan to add a new documentation section or link to existing RP documentation
+5. Complete the required fields and submit.
+
+ACCESS support staff will review your request and grant the appropriate Confluence permissions.
+
+### Knowledge Base Service Integrations (Optional)
+
+ACCESS projects, integrated resources, and central service operators may also request integration with the following Knowledge Base services:
 
 - **ACCESS Resource Advisor (ARA)** – [https://ara.access-ci.org/](https://ara.access-ci.org/)  
 - **Software Documentation Service (SDS)** – [https://sds.access-ci.org/](https://sds.access-ci.org/)  
