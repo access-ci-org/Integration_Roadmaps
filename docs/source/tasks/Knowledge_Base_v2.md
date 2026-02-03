@@ -11,13 +11,17 @@ Infrastructure Integration Roadmap Task
 
 The purpose of this task is to ensure that RPs have provided all of the knowledge base elements that are needed to fully represent their resources to the ACCESS team and the general user community. Components of the information provided will be represented on the ACCESS MATCH Portal (AMP).
 
-The following information should be available through CiDeR to ensure that your resource is properly represented on the ACCESS Portal (RAMPS & AMP).
+## Required Actions
 
-> 1.1 Summary Knowledge Base Entry for Resource - Confirm summary paragraph describing the Resource Provider offering(s) is available in CiDeR. This will be displayed on AMP but content will be provided via CiDeR API.  
->
-> 1.2 RP User Guide - Full User Guide(s) will reside at and be maintained by the RP on their site or in the knowledgebase (Atlassian Confluence) and accessed by the AMP via the confluence repository.  
->
-> 1.3 Affinity Group - Ensure an Affinity group is created with coordinators and profile is up to date. Submit events and news items via the ACESS Support Portal (ASP) portal.
+Resource Providers must complete the following to fulfill this task:
+
+1. **Confirm your resource summary is in CiDeR** - Ensure a summary paragraph describing your Resource Provider offering(s) is available in CiDeR. This will be displayed on AMP via the CiDeR API.
+
+2. **Provide user documentation** - Full User Guide(s) should reside at and be maintained by the RP on their own site, or in the ACCESS Knowledge Base (Atlassian Confluence). See [Adding Resource Documentation to the ACCESS Knowledge Base](#adding-resource-documentation-to-the-access-knowledge-base) for instructions on requesting Confluence edit access.
+
+3. **Set up your Affinity Group** - Ensure your Affinity Group is created with the proper coordinators and an up-to-date profile. See [Creation of an Affinity Group](#creation-of-an-affinity-group) below.
+
+4. **Submit news and events** - Share news items and events with the ACCESS community via the ACCESS Support Portal. See [News Items](#news-items) and [Events](#events) below.
 
 ## Prerequisite tasks
 
