@@ -2,9 +2,9 @@
 
 Infrastructure Integration Roadmap Task
 
-**Task Type(s)**: Support  
-**Start by phase**: Integration  
-**Complete by phase**: Operations  
+**Task Type(s)**: Support
+**Start by phase**: Integration
+**Complete by phase**: Operations
 **RP role(s)**: Documentation and knowledge base contact(s)
 
 ## Summary
@@ -74,18 +74,18 @@ Submit events via the ACCESS Support Portal. This link shows all events in a cal
 
 ACCESS projects, integrated resources, and central service operators may also request integration with the following Knowledge Base services:
 
-- **ACCESS Resource Advisor (ARA)** - [https://ara.access-ci.org/](https://ara.access-ci.org/)  
-- **Software Documentation Service (SDS)** - [https://sds.access-ci.org/](https://sds.access-ci.org/)  
-- **ACCESS Chatbot (QA Tool)** - [https://support.access-ci.org/tools/access-qa-tool](https://support.access-ci.org/tools/access-qa-tool)  
+- **ACCESS Resource Advisor (ARA)** - [https://ara.access-ci.org/](https://ara.access-ci.org/)
+- **Software Documentation Service (SDS)** - [https://sds.access-ci.org/](https://sds.access-ci.org/)
+- **ACCESS Chatbot (QA Tool)** - [https://support.access-ci.org/tools/access-qa-tool](https://support.access-ci.org/tools/access-qa-tool)
 
 To request integration of any of these services, please submit a ticket using the ACCESS Support Portal form:
 
 - [Internal ACCESS and Resource Provider Request](https://operations.access-ci.org/open-operations-request/)
 
-On the ticket form, please:  
+On the ticket form, please:
 - Under **Request Title** of the form, fill in: *"SDS / ARA / QA Tool integration - [your project or resource name]"*
-- Under ACCESS Operational Support Issues, select **Support: OnDemand, Pegasus, Knowledge Base, Affinity Groups, Events, Announcements, Ask.CI, etc.**  
-- Complete the required fields and submit.  
+- Under ACCESS Operational Support Issues, select **Support: OnDemand, Pegasus, Knowledge Base, Affinity Groups, Events, Announcements, Ask.CI, etc.**
+- Complete the required fields and submit.
 
 ACCESS support staff will review your request and follow up directly.
 
@@ -95,7 +95,7 @@ ACCESS support staff will review your request and follow up directly.
 
 **Software Documentation Service (SDS)** - Helps ACCESS users discover which HPC resources are pre-configured with particular software, such as Jupyter Notebooks or Open OnDemand.
 
-**ACCESS Chatbot (QA Tool)** - Provides automated, AI-driven conversational support to help users navigate ACCESS documentation and services.  
+**ACCESS Chatbot (QA Tool)** - Provides automated, AI-driven conversational support to help users navigate ACCESS documentation and services.
 
 ---
 
