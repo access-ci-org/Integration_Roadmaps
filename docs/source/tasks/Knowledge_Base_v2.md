@@ -17,11 +17,11 @@ Resource Providers must complete the following to fulfill this task:
 
 1. **Confirm your resource summary is in CiDeR** - Ensure a summary paragraph describing your Resource Provider offering(s) is available in CiDeR. This will be displayed on AMP via the CiDeR API.
 
-2. **Provide user documentation** - Full User Guide(s) should reside at and be maintained by the RP on their own site, or in the ACCESS Knowledge Base (Atlassian Confluence). See [Adding Resource Documentation to the ACCESS Knowledge Base](#adding-resource-documentation-to-the-access-knowledge-base) for instructions on requesting Confluence edit access.
+2. **Provide user documentation** - Full User Guide(s) should reside at and be maintained by the RP on their own site, or in the ACCESS Knowledge Base (Atlassian Confluence). See *Adding Resource Documentation to the ACCESS Knowledge Base* below for instructions on requesting Confluence edit access.
 
-3. **Set up your Affinity Group** - Ensure your Affinity Group is created with the proper coordinators and an up-to-date profile. See [Creation of an Affinity Group](#creation-of-an-affinity-group) below.
+3. **Set up your Affinity Group** - Ensure your Affinity Group is created with the proper coordinators and an up-to-date profile. See *Creation of an Affinity Group* below.
 
-4. **Submit news and events** - Share news items and events with the ACCESS community via the ACCESS Support Portal. See [News Items](#news-items) and [Events](#events) below.
+4. **Submit news and events** - Share news items and events with the ACCESS community via the ACCESS Support Portal. See *News Items* and *Events* below.
 
 ## Prerequisite tasks
 
