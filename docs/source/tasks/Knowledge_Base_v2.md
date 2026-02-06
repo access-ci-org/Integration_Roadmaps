@@ -89,9 +89,9 @@ ACCESS support staff will review your request and follow up directly.
 
 #### About These Services
 
-**ACCESS Resource Advisor (ARA)** - A web-based interactive tool that helps researchers select the most suitable ACCESS HPC resource by asking questions about research domain, required software, hardware needs, and previous experience. It produces tailored recommendations across ACCESS resources.
+**ACCESS Resource Advisor (ARA)** - A web-based interactive tool that helps researchers select the most suitable ACCESS resource by asking questions about research domain, required software, hardware needs, and previous experience. It produces tailored recommendations across ACCESS resources.
 
-**Software Documentation Service (SDS)** - Helps ACCESS users discover which HPC resources are pre-configured with particular software, such as Jupyter Notebooks or Open OnDemand.
+**Software Documentation Service (SDS)** - Helps ACCESS users discover which resources are pre-configured with particular software, such as Jupyter Notebooks or Open OnDemand.
 
 **ACCESS Chatbot (QA Tool)** - Provides automated, AI-driven conversational support to help users navigate ACCESS documentation and services.
 
