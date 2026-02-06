@@ -19,7 +19,7 @@ Resource Providers must complete the following to fulfill this task:
 
 2. **Provide user documentation** - Full User Guide(s) should reside at and be maintained by the RP on their own site, or in the ACCESS Knowledge Base (Atlassian Confluence). See *Adding Resource Documentation to the ACCESS Knowledge Base* below for instructions on requesting Confluence edit access.
 
-3. **Submit news and events** - Share news items and events with the ACCESS community via the ACCESS Support Portal. See *News Items* and *Events* below.
+3. **Review how to share news and events** - Familiarize yourself with the process for sharing news items and events with the ACCESS community via the ACCESS Support Portal. See *News Items* and *Events* below.
 
 ## Prerequisite tasks
 
