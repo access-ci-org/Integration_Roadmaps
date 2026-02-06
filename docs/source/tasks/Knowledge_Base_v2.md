@@ -2,9 +2,9 @@
 
 Infrastructure Integration Roadmap Task
 
-**Task Type(s)**: Support
-**Start by phase**: Integration
-**Complete by phase**: Operations
+**Task Type(s)**: Support  
+**Start by phase**: Integration  
+**Complete by phase**: Operations  
 **RP role(s)**: Documentation and knowledge base contact(s)
 
 ## Summary
