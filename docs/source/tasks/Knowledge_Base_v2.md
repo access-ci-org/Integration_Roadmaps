@@ -19,9 +19,7 @@ Resource Providers must complete the following to fulfill this task:
 
 2. **Provide user documentation** - Full User Guide(s) should reside at and be maintained by the RP on their own site, or in the ACCESS Knowledge Base (Atlassian Confluence). See *Adding Resource Documentation to the ACCESS Knowledge Base* below for instructions on requesting Confluence edit access.
 
-3. **Set up your Affinity Group** - Ensure your Affinity Group is created with the proper coordinators and an up-to-date profile. See *Creation of an Affinity Group* below.
-
-4. **Submit news and events** - Share news items and events with the ACCESS community via the ACCESS Support Portal. See *News Items* and *Events* below.
+3. **Submit news and events** - Share news items and events with the ACCESS community via the ACCESS Support Portal. See *News Items* and *Events* below.
 
 ## Prerequisite tasks
 
@@ -32,14 +30,6 @@ Resource Providers must complete the following to fulfill this task:
 For assistance with this task see the *Support Information* section in the *Integration Roadmap Description*.
 
 ## Detailed Instructions
-
-### Creation of an Affinity Group
-
-- [***https://support.access-ci.org/affinity_groups***](https://support.access-ci.org/affinity_groups)
-
-You will need to log in first to make changes to your group. Your Affinity Group will be automatically created and populated, but you should ensure you have the proper coordinators and profile that best suits your needs. If you do not see your Affinity Group, submit a request via the link at the top of the page or submit a ticket.
-
-An Affinity Group is made for each RP. Additional groups can be requested if you would like to form one that targets a specific set of community members who have a common, shared interest in a computational issue, scientific or engineering research endeavor, diversity and inclusion effort, or any other connection point. Each Affinity Group will have access to Slack channels, forums, news, outage alerts, events, and training materials.
 
 ### Adding Resource Documentation to the ACCESS Knowledge Base
 
@@ -69,6 +59,14 @@ Submit news items via the ACCESS Support Portal. You will see a box on the right
 - [*https://support.access-ci.org/events*](https://support.access-ci.org/events)
 
 Submit events via the ACCESS Support Portal. This link shows all events in a calendar format. You will see a box on the right side that says *"Posting Events, Do you have events or training you would like to share with the ACCESS community?"* which will take you to a page to submit your event. Events can also be shared with your Affinity Group. You must be signed in to ACCESS to submit.
+
+### Creation of an Affinity Group (Optional)
+
+- [***https://support.access-ci.org/affinity_groups***](https://support.access-ci.org/affinity_groups)
+
+You will need to log in first to make changes to your group. Your Affinity Group will be automatically created and populated, but you should ensure you have the proper coordinators and profile that best suits your needs. If you do not see your Affinity Group, submit a request via the link at the top of the page or submit a ticket.
+
+An Affinity Group is made for each RP. Additional groups can be requested if you would like to form one that targets a specific set of community members who have a common, shared interest in a computational issue, scientific or engineering research endeavor, diversity and inclusion effort, or any other connection point. Each Affinity Group will have access to Slack channels, forums, news, outage alerts, events, and training materials.
 
 ### Knowledge Base Service Integrations (Optional)
 
