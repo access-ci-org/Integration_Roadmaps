@@ -87,7 +87,7 @@ Guidance for installing and configuring Globus Connect Server for use with ACCES
 
 A summary of the steps for installing and configuring Globus Connect Server for use with ACCESS follows.
 
-1.  Your DTN administrator(s) will install the Globus Connect Server packages and ACCESS’s OAuth Mapfile utility package on each DTN using the native package management system.
+1.  Your DTN administrator(s) will install the [Globus Connect Server package](https://www.globus.org/globus-connect-server) and [ACCESS’s OAuth Mapfile utility package](https://github.com/access-ci-org/access-oauth-mapfile) on each DTN.
 
 2.  Your DTN administrator will configure the ACCESS OAuth Mapfile tool to generate and continuously update a table that maps ACCESS identities to the corresponding local accounts.
 
