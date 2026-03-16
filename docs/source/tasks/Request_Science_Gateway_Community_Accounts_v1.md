@@ -48,7 +48,7 @@ accessing the resource provider.
 <ul class="document-meta-data">
     <li><strong>Status</strong> : Production</li>
     <li><strong>Version</strong> : v1</li>
-    <li><strong>Task Expert(s)</strong> : Dinuka De Silva, Rob Quick</li>
+    <li><strong>Task Expert(s)</strong> : Chun Chan, Dinuka De Silva</li>
 </ul>
 </sub>
 <br/>
