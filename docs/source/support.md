@@ -2,16 +2,15 @@
 orphan: true
 ---
 
-**Submit a Request**: Resource providers needing assistance with integration tasks can submit an *ACCESS Integration and Operation Support Request* using instructions on [*this page*](https://operations.access-ci.org/open-operations-request). Pick an “*ACCESS Operational Support Issues*” that best matches your request, or the catch-all issue type “*ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps*“.
+**Submit a Request**: Resource providers needing help with integration tasks can submit an *Internal ACCESS and Resource Provider Request* using[*this form*](https://operations.access-ci.org/open-operations-request). Pick an “*ACCESS Operational Support Issues*” that best matches your request, or the catch-all issue type “*Resource Integration*“.
 
-**Slack Discussion**: ACCESS has a Slack channel for infrastructure operators and ACCESS to discuss integration topics. For access submit a request to be invited to the ***RP-ACCESS \#integration-roadmaps*** Slack channel.
+**Slack Discussion**: ACCESS has a Slack channel where reource providers and ACCESS staff discuss integration topics. To be invited to this channel submit an *Internal ACCESS and Resource Provider Request* using[*this form*](https://operations.access-ci.org/open-operations-request).
 
-**By Weekly Meetings**: ACCESS holds a Zoom meeting every second Friday from 11:00 AM to Noon Central for infrastructure operators and ACCESS to discuss integration topics. To obtain Zoom coordinates submit a request for the **RP and ACCESS Roadmaps** Zoom meeting coordinates.
+**Biweekly Meetings**: ACCESS holds a Zoom meeting every second Friday from 11:00 AM to Noon Central where resource providers and ACCESS staff discuss integration topics. To obtain Zoom coordinates submit an *Internal ACCESS and Resource Provider Request* using[*this form*](https://operations.access-ci.org/open-operations-request).
 
 **Integration Consultants**: ACCESS allocated resource providers and some other types of infrastructure operators have a *Concierge Integration Expert* consultant available for one-on-one integration support.
 
 **Documentation**:
 
-- [*Introduction to Roadmaps*](https://docs.google.com/presentation/d/1OjeT6r01mdOIa4pq1VE0L5ocRPfqdXFp9QsADjdqrjE/) slides
-
-- [*ACCESS RP Roadmaps FAQ*](https://docs.google.com/document/d/1VwYROB7sh4X_Tqvi_4XIkYD-jffBS4UykS6gEJesuQE/)
+- [*ACCESS Integration and Operations Help*](https://operations.access-ci.org/help)
+- [*Becoming a Resource Provider (RP) Information*](https://dashboard.operations.access-ci.org/dashboard/integration/docs/why-become-an-rp)
