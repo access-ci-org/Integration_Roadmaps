@@ -18,7 +18,8 @@ accessible information about the science gateway.
 
 ## Support Information
 
-For assistance with this task see the **Support Information** section in the [Infrastructure Integration Roadmap Description](https://readthedocs.access-ci.org/projects/integration-roadmaps/en/latest/gateway/ACCESS_Integrated_Science_Gateway_-_Integration_Roadmap_Description.html#support-information).
+```{include} ../support.md
+```
 
 ## Detailed Instructions
 
