@@ -30,7 +30,7 @@ The ACCESS Allocations staff can be contacted through the following mechanisms:
 
 RPs who are designed as Allocations Contacts, who are responsible for reviewing requests for their resources and ensuring their site's documentation is up to date, are encouraged to utilize the following tools & resources to assist with their involvement in the Allocations process. Feedback related to this document (and ACCESS Allocation Services as a whole) is welcomed through our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdn-SXokNB_5s0r2SA_S9ZIZWZFlVPRD2OHepTH5HY2YND_zw/viewform). If you’re a new RP, please familiarize yourself with the tools and processes mentioned herein and reach out to Allocations staff for assistance.
 
-* XRAS ([eXtensible Resource Allocation Service](https://allocations.access-ci.org/about-xras))
+* XRAS ([eXtensible Resource Allocation Service](https://allocations.access-ci.org/xras))
     * The main tool under constant development and refinement for ACCESS Allocations. The software suite provides distinct interfaces for Submit, Review, and Administration components required for end-to-end services
 * [Allocations Review Site](https://review-access.xras.org/login)
     * Serves as the mechanism to review requests for your resource(s). We recommend that you bookmark this page!
