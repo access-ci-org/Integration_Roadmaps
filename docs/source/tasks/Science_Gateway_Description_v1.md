@@ -25,8 +25,7 @@ accessible information about the science gateway.
 
 The science gateway provider must create an [Integration and Operations Request](https://operations.access-ci.org/open-operations-request)
  - Provide an appropriate title
- - Set *ACCESS Operational Support Issues* to ACCESS-wide: Provider Integration - Infrastructure Integration and Roadmaps 
- - Set *Infrastructure Type:* Science Gateway and specify the *Science gateway name*
+ - Set *ACCESS Operational Support Issues* to ACCESS-wide: *Resource Integration*
  - Include all the details of the gateway in the description. Please use the following template.
 
 ```md
@@ -62,6 +61,8 @@ Integration coordinator:
 *Integration coordinator* is the contact person from the science gateway side working with the ACCESS concierge on the 
 integration process. 
 
+ - Under Infrastructure Information -> Infrastructure Type, select *ACCESS Science Gateway* and specify the *science gateway name*
+
 Once the ticket is created, it will be reviewed by the ACCESS concierge and will get back to you for additional 
 information. And then the ACCESS concierge would create/update the information in the ACCESS website. The task is completed 
 when the gateway information is published to the ACCESS website.
@@ -74,7 +75,7 @@ subsequent tickets in the future to update the information.
 <ul class="document-meta-data">
     <li><strong>Status</strong> : Production</li>
     <li><strong>Version</strong> : v1</li>
-    <li><strong>Task Expert(s)</strong> : Dinuka De Silva, Rob Quick</li>
+    <li><strong>Task Expert(s)</strong> : Chun Chan, Dinuka De Silva</li>
 </ul>
 </sub>
 <br/>
