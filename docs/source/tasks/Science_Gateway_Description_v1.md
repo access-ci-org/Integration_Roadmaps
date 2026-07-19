@@ -23,7 +23,7 @@ None
 
 ## Detailed Instructions
 
-The science gateway provider must create an [Integration and Operations Request](https://operations.access-ci.org/open-operations-request)
+The science gateway provider must create an [Integration and Operations Request](https://operations.access-ci.org/open-new-integration-request)
  - Provide an appropriate title
  - Set *ACCESS Operational Support Issues* to ACCESS-wide: *Resource Integration*
  - Include all the details of the gateway in the description. Please use the following template.
