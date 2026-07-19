@@ -24,20 +24,24 @@ None
 ## Detailed Instructions
 
 The science gateway provider must create an [Integration and Operations Request](https://operations.access-ci.org/open-new-integration-request)
- - Provide an appropriate title
- - Set *ACCESS Operational Support Issues* to ACCESS-wide: *Resource Integration*
- - Include all the details of the gateway in the description. Please use the following template.
+ - Under *Organization Name* enter the name of the supporting institution.
+ - Under *Resource Name* enter the name of the science gateway.
+ - For *Infrastructure Type* select *Science Gateways*.
+ - Under *Resource Website URL* enter the URL of the science gateway.
+ - Provide your resource integration coordinator's name, email address and ACCESS ID (if available).
+ ```{note}
+*Integration coordinator* is the contact person from the science gateway side working with the ACCESS concierge on the integration process. 
+```
+ - Select the options that best describe the funding program and scope of the science gateway.
+ - Include the following details of the gateway in the *Additional Details* text entry box. Please use the following template:
 
 ```md
-Institution Name: 
 Science Gateway Name: 
 Acronym: 
-Public URL: 
-Short Name: 
 Short Description: 
 Associated allocation ID(s): 
 Status (in development or in production): 
-Production date (when did/will it become): 
+Production date (when did/will it become production): 
 
 Gateway PI: 
     First name, Last name <email>
@@ -53,22 +57,14 @@ Gateway administrator(s):
 Cybersecurity and incident response contact(s):
     First name, Last name <email>
     First name, Last name <email>
-    
-Integration coordinator: 
-    First name, Last name <email>
 ```
 
-*Integration coordinator* is the contact person from the science gateway side working with the ACCESS concierge on the 
-integration process. 
-
- - Under Infrastructure Information -> Infrastructure Type, select *ACCESS Science Gateway* and specify the *science gateway name*
-
-Once the ticket is created, it will be reviewed by the ACCESS concierge and will get back to you for additional 
-information. And then the ACCESS concierge would create/update the information in the ACCESS website. The task is completed 
+Once the ticket is created, the ACCESS concierge will review it and get back to you if additional information is 
+needed. The ACCESS concierge will then create/update the information on the ACCESS website. The task is completed 
 when the gateway information is published to the ACCESS website.
 
 ACCESS may periodically review registration information to confirm that it is correct. Gateway providers should create 
-subsequent tickets in the future to update the information.
+subsequent tickets to update the information.
 
 
 <sub>
