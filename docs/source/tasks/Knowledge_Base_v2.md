@@ -11,13 +11,15 @@ Infrastructure Integration Roadmap Task
 
 The purpose of this task is to ensure that RPs have provided all of the knowledge base elements that are needed to fully represent their resources to the ACCESS team and the general user community. Components of the information provided will be represented on the ACCESS MATCH Portal (AMP).
 
-The following information should be available through CiDeR to ensure that your resource is properly represented on the ACCESS Portal (RAMPS & AMP).
+## Required Actions
 
-> 1.1 Summary Knowledge Base Entry for Resource - Confirm summary paragraph describing the Resource Provider offering(s) is available in CiDeR. This will be displayed on AMP but content will be provided via CiDeR API.  
->
-> 1.2 RP User Guide - Full User Guide(s) will reside at and be maintained by the RP on their site or in the knowledgebase (Atlassian Confluence) and accessed by the AMP via the confluence repository.  
->
-> 1.3 Affinity Group - Ensure an Affinity group is created with coordinators and profile is up to date. Submit events and news items via the ACESS Support Portal (ASP) portal.
+Resource Providers must complete the following to fulfill this task:
+
+1. **Confirm your resource summary is in CiDeR** - Ensure a summary paragraph describing your Resource Provider offering(s) is available in CiDeR. This will be displayed on AMP via the CiDeR API.
+
+2. **Provide user documentation** - Full User Guide(s) should reside at and be maintained by the RP on their own site, or in the ACCESS Knowledge Base (Atlassian Confluence). See *Adding Resource Documentation to the ACCESS Knowledge Base* below for instructions on requesting Confluence edit access.
+
+3. **Review how to share news and events** - Familiarize yourself with the process for sharing news items and events with the ACCESS community via the ACCESS Support Portal. See *News Items* and *Events* below.
 
 ## Prerequisite tasks
 
@@ -29,63 +31,69 @@ For assistance with this task see the *Support Information* section in the *Inte
 
 ## Detailed Instructions
 
-### Creation of an Affinity Group
+### Adding Resource Documentation to the ACCESS Knowledge Base
 
-- [***https://support.access-ci.org/affinity_groups***](https://support.access-ci.org/affinity_groups)
+Resource Providers can add documentation about their resource to the ACCESS Knowledge Base hosted on Atlassian Confluence. This may include a dedicated section for your resource or a link to your existing RP user documentation.
 
-You will need to log-in first to make changes to your group. Your Affinity group will be automatically created and populated but we request that you ensure you have the proper coordinators and profile that best suits your needs. If you do not see your Affinity Group please submit a request via the link at the top of the page or submit a ticket. An Affinity Group is made for each RP and then additional ones can be requested if you would like to form one that targets a specific set of community members who have a common, shared interest in a computational issue, scientific or engineering research endeavor, diversity and inclusion effort, or any other connection point. Each Affinity group will have access to Slack channels, forums, news, and outage alerts, events and training materials.
+**To request edit access:**
+
+1. Submit a ticket using the [Internal ACCESS and Resource Provider Request](https://operations.access-ci.org/open-operations-request/) form.
+2. Under **Request Title**, enter: *"Confluence edit access request - [your resource name]"*
+3. Under ACCESS Operational Support Issues, select **Support: OnDemand, Pegasus, Knowledge Base, Affinity Groups, Events, Announcements, Ask.CI, etc.**
+4. In the description, specify:
+   - The name of your resource
+   - The contact(s) who need edit access (include their ACCESS usernames)
+   - Whether you plan to add a new documentation section or link to existing RP documentation
+5. Complete the required fields and submit.
+
+ACCESS support staff will review your request and grant the appropriate Confluence permissions.
 
 ### News Items
 
 - [*News | ACCESS Support*](https://support.access-ci.org/news)
 
-Please submit news items via the ASP Portal. You will see a box on the right side that says “*Posting News, Do you have news you would like to share with the ACCESS community?*” which will take you to a page that asks for specific details of your news item and the ability to post a news event directly to your/an Affinity group. You will need to be signed-in to ACCESS to submit.
+Submit news items via the ACCESS Support Portal. You will see a box on the right side that says "*Posting News, Do you have news you would like to share with the ACCESS community?*" which will take you to a page to submit your news item. You can post directly to your Affinity Group. You must be signed in to ACCESS to submit.
 
 ### Events
 
 - [*https://support.access-ci.org/events*](https://support.access-ci.org/events)
 
-Please submit events via the ASP Portal. This link will take you to a listing of all events in a calendar format. You will see a box on the right side that says *“Posting Events, Do you have events or training you would like to share with the ACCESS community?”* which will take you to a page that asks for specific details of your event you would like to post. This can also be shared with your Affinity group. You will need to be signed-in to ACCESS to submit.
+Submit events via the ACCESS Support Portal. This link shows all events in a calendar format. You will see a box on the right side that says *"Posting Events, Do you have events or training you would like to share with the ACCESS community?"* which will take you to a page to submit your event. Events can also be shared with your Affinity Group. You must be signed in to ACCESS to submit.
 
-### Knowledge Base Service Integrations
+### Creation of an Affinity Group (Optional)
 
-ACCESS projects, integrated resources, and central service operators may also request support for integration of the following Knowledge Base services:
+- [***https://support.access-ci.org/affinity_groups***](https://support.access-ci.org/affinity_groups)
 
-- **ACCESS Resource Advisor (ARA)** – [https://ara.access-ci.org/](https://ara.access-ci.org/)  
-- **Software Documentation Service (SDS)** – [https://sds.access-ci.org/](https://sds.access-ci.org/)  
-- **ACCESS Chatbot (QA Tool)** – [https://support.access-ci.org/tools/access-qa-tool](https://support.access-ci.org/tools/access-qa-tool)  
+You will need to log in first to make changes to your group. Your Affinity Group will be automatically created and populated, but you should ensure you have the proper coordinators and profile that best suits your needs. If you do not see your Affinity Group, submit a request via the link at the top of the page or submit a ticket.
+
+An Affinity Group is made for each RP. Additional groups can be requested if you would like to form one that targets a specific set of community members who have a common, shared interest in a computational issue, scientific or engineering research endeavor, diversity and inclusion effort, or any other connection point. Each Affinity Group will have access to Slack channels, forums, news, outage alerts, events, and training materials.
+
+### Knowledge Base Service Integrations (Optional)
+
+ACCESS projects, integrated resources, and central service operators may also request integration with the following Knowledge Base services:
+
+- **ACCESS Resource Advisor (ARA)** - [https://ara.access-ci.org/](https://ara.access-ci.org/)
+- **Software Documentation Service (SDS)** - [https://sds.access-ci.org/](https://sds.access-ci.org/)
+- **ACCESS Chatbot (QA Tool)** - [https://support.access-ci.org/tools/access-qa-tool](https://support.access-ci.org/tools/access-qa-tool)
 
 To request integration of any of these services, please submit a ticket using the ACCESS Support Portal form:
 
 - [Internal ACCESS and Resource Provider Request](https://operations.access-ci.org/open-operations-request/)
 
-On the ticket form, please:  
-- Under **Request Title** of the form, fill in: *“SDS / ARA / QA Tool integration – [your project or resource name]”*
-- Under ACCESS Operational Support Issues, select **Support: OnDemand, Pegasus, Knowledge Base, Affinity Groups, Events, Announcements, Ask.CI, etc.**  
-- Complete the required fields and submit.  
+On the ticket form, please:
+- Under **Request Title** of the form, fill in: *"SDS / ARA / QA Tool integration - [your project or resource name]"*
+- Under ACCESS Operational Support Issues, select **Support: OnDemand, Pegasus, Knowledge Base, Affinity Groups, Events, Announcements, Ask.CI, etc.**
+- Complete the required fields and submit.
 
 ACCESS support staff will review your request and follow up directly.
 
-#### Service Summaries
+#### About These Services
 
-**ACCESS Resource Advisor (ARA) v1**  
-- **Summary**: ARA is a web-based interactive tool designed to help researchers select the most suitable ACCESS HPC resource by asking questions about research domain, required software, hardware needs, and previous experience.  
-- **Details**:  
-  - Guides users through questions such as *“Have you used a supercomputer before?”* or which research fields and interfaces they are familiar with.  
-  - Produces tailored recommendations across ACCESS resources such as **ACES, Anvil, Bridges-2, Delta, DeltaAI, Jetstream2, KyRIC, Stampede-3, Voyager**, and others.  
+**ACCESS Resource Advisor (ARA)** - A web-based interactive tool that helps researchers select the most suitable ACCESS resource by asking questions about research domain, required software, hardware needs, and previous experience. It produces tailored recommendations across ACCESS resources.
 
-**Software Documentation Service (SDS) v1**  
-- **Summary**: The SDS helps ACCESS users discover which HPC resources are pre-configured with particular software — such as Jupyter Notebooks or Open OnDemand.  
-- **Details**:  
-  - Allows users to search across ACCESS Resource Providers for software availability.  
-  - Supports software discovery across a wide range of computational environments.  
- 
+**Software Documentation Service (SDS)** - Helps ACCESS users discover which resources are pre-configured with particular software, such as Jupyter Notebooks or Open OnDemand.
 
-**ACCESS Chatbot (QA Tool) v1**  
-- **Summary**: The ACCESS Chatbot (QA Tool) provides automated, AI-driven conversational support to help users navigate ACCESS documentation and services.  
-- **Details**:  
-  - Available through the ACCESS Support site as a tool to quickly answer questions about ACCESS services and resources.  
-  - Based on AI chatbot implementations developed under the NSF ACCESS program to support user assistance workflows.  
+**ACCESS Chatbot (QA Tool)** - Provides automated, AI-driven conversational support to help users navigate ACCESS documentation and services.
 
 ---
 
